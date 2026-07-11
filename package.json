@@ -1,0 +1,13 @@
+{
+  "name": "signal-desk-fetcher",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fetches EB/OD feeds server-side and writes feed-data.json for the Signal Desk page.",
+  "scripts": {
+    "fetch": "node fetch-feeds.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

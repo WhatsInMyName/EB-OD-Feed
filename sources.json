@@ -1,0 +1,36 @@
+{
+  "_comment": "This is the master list the GitHub Action reads. Edit it to add/remove sources or topics, then commit. mode:'direct' uses the 'url' (a real RSS feed). mode:'news' has no clean feed, so it's watched via a Google News search on 'query'.",
+  "locale": { "hl": "en-IN", "gl": "IN", "ceid": "IN:en" },
+  "sources": [
+    { "name": "Josh Bersin", "cat": "Analyst", "mode": "direct", "url": "https://joshbersin.com/feed/" },
+    { "name": "MIT Sloan Management Review", "cat": "Analyst", "mode": "direct", "url": "https://sloanreview.mit.edu/feed/" },
+    { "name": "Harvard Business Review", "cat": "Analyst", "mode": "direct", "url": "https://feeds.hbr.org/harvardbusiness" },
+    { "name": "Link Humans", "cat": "Employer Brand", "mode": "direct", "url": "https://linkhumans.com/feed/" },
+    { "name": "Blu Ivy Group", "cat": "Employer Brand", "mode": "direct", "url": "https://bluivygroup.com/feed/" },
+    { "name": "ERE", "cat": "Talent", "mode": "direct", "url": "https://www.ere.net/feed/" },
+    { "name": "RecruitingDaily", "cat": "Talent", "mode": "direct", "url": "https://recruitingdaily.com/feed/" },
+    { "name": "SocialTalent", "cat": "Talent", "mode": "direct", "url": "https://www.socialtalent.com/blog/rss.xml" },
+    { "name": "Center for Creative Leadership", "cat": "OD", "mode": "direct", "url": "https://www.ccl.org/feed/" },
+    { "name": "NeuroLeadership Institute", "cat": "OD", "mode": "direct", "url": "https://neuroleadership.com/feed/" },
+    { "name": "LinkedIn Talent Blog", "cat": "Employer Brand", "mode": "news", "query": "\"LinkedIn Talent Blog\" OR (LinkedIn talent solutions employer brand)" },
+    { "name": "Universum", "cat": "Employer Brand", "mode": "news", "query": "Universum employer branding" },
+    { "name": "Glassdoor for Employers", "cat": "Employer Brand", "mode": "news", "query": "\"Glassdoor for Employers\"" },
+    { "name": "Great Place to Work", "cat": "Employer Brand", "mode": "news", "query": "\"Great Place to Work\" workplace culture" },
+    { "name": "Gartner HR", "cat": "Analyst", "mode": "news", "query": "Gartner HR OR \"Gartner for HR\"" },
+    { "name": "McKinsey — People & Org", "cat": "Analyst", "mode": "news", "query": "McKinsey \"organizational\" OR \"people and organizational performance\"" },
+    { "name": "Deloitte Human Capital", "cat": "Analyst", "mode": "news", "query": "Deloitte \"Human Capital\" trends" },
+    { "name": "SHRM", "cat": "Analyst", "mode": "news", "query": "SHRM workplace HR" },
+    { "name": "Gallup Workplace", "cat": "Analyst", "mode": "news", "query": "Gallup workplace employee engagement" },
+    { "name": "OD Network", "cat": "OD", "mode": "news", "query": "\"Organization Development Network\" OR \"OD practitioner\"" },
+    { "name": "BCG — People & Org", "cat": "OD", "mode": "news", "query": "BCG \"people and organization\"" },
+    { "name": "Korn Ferry Insights", "cat": "OD", "mode": "news", "query": "\"Korn Ferry\" leadership organization" }
+  ],
+  "topics": [
+    "\"employer branding\"",
+    "\"employee value proposition\" OR EVP employer",
+    "\"employer brand\" strategy",
+    "\"organisation development\" OR \"organization development\"",
+    "\"employee experience\" workplace",
+    "\"recruitment marketing\" OR \"talent attraction\""
+  ]
+}
