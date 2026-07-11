@@ -1,0 +1,44 @@
+# .github/workflows/update-feeds.yml
+# Fetches the feeds on a schedule and commits feed-data.json.
+# Pages redeploys automatically whenever this file is committed.
+
+name: Update feed data
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours, in UTC (GitHub cron is always UTC)
+  workflow_dispatch: {}       # adds a "Run workflow" button for manual/first runs
+
+permissions:
+  contents: write             # lets the built-in token commit feed-data.json back
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch feeds
+        run: node fetch-feeds.mjs
+
+      - name: Commit updated data (only if something changed)
+        run: |
+          git config user.name  "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feed-data.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update feed data ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
+          
