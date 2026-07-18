@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Signal Desk — EB &amp; OD material</title>
+<style>
+  :root{
+    --ink:#16232e; --ink-soft:#33454f; --muted:#5c6b73;
+    --bg:#e7e8e6; --surface:#fbfbfa; --surface-2:#f2f1ec;
+    --line:#d8d6cd; --line-strong:#c4c2b8;
+    --primary:#0f6d6a; --primary-ink:#0b504e; --primary-wash:#e2efee;
+    --plum:#6b3f6e; --plum-wash:#efe6f0; --plum-line:#cdb2cf;
+    --amber:#b5731a; --amber-wash:#f6ecda; --amber-line:#e3c489;
+    --danger:#9c4429; --radius:10px;
+    --mono:ui-monospace,"SF Mono","Menlo","Consolas","Roboto Mono",monospace;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    --accent:var(--primary); --accent-wash:var(--primary-wash); --accent-line:#bfdcda;
+  }
+  body.track-culture{ --accent:var(--plum); --accent-wash:var(--plum-wash); --accent-line:var(--plum-line); }
+
+  *{box-sizing:border-box} html,body{margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+  a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
+  button{font-family:inherit;cursor:pointer}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+
+  header{position:sticky;top:0;z-index:20;background:var(--ink);color:#eef0ee;border-bottom:1px solid #0c161d}
+  .bar{max-width:1120px;margin:0 auto;padding:14px 20px;display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+  .wordmark{display:flex;flex-direction:column;line-height:1.05;margin-right:auto}
+  .wordmark .name{font-family:var(--mono);font-size:15px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#fff}
+  .wordmark .sub{font-family:var(--mono);font-size:10.5px;letter-spacing:.22em;text-transform:uppercase;color:#8ea3ab;margin-top:3px}
+  nav.tabs{display:flex;gap:4px;background:#0e1b23;border-radius:8px;padding:4px}
+  nav.tabs button{border:0;background:transparent;color:#9fb2ba;font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;padding:8px 12px;border-radius:6px;font-weight:600}
+  nav.tabs button .count{opacity:.7;margin-left:6px;font-weight:400}
+  nav.tabs button[aria-selected="true"]{background:var(--accent);color:#fff}
+  nav.tabs button:hover:not([aria-selected="true"]){color:#dfe8eb}
+  .bar-actions{display:flex;gap:8px;align-items:center}
+  .icon-btn{border:1px solid #2b3d46;background:#132029;color:#cdd9de;font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:8px 11px;border-radius:6px;font-weight:600}
+  .icon-btn:hover{background:#1a2a33;color:#fff}
+
+  /* track switch */
+  .trackbar{background:var(--surface);border-bottom:1px solid var(--line);position:sticky;top:65px;z-index:19}
+  .trackbar .inner{max-width:1120px;margin:0 auto;padding:0 20px;display:flex;gap:0}
+  .track-btn{
+    border:0;background:transparent;padding:13px 18px 11px;
+    font-family:var(--mono);font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;
+    color:var(--muted);border-bottom:3px solid transparent;margin-bottom:-1px;
+  }
+  .track-btn .sub{display:block;font-family:var(--sans);font-size:10.5px;letter-spacing:0;text-transform:none;font-weight:400;color:var(--muted);margin-top:2px;opacity:.85}
+  .track-btn:hover{color:var(--ink-soft)}
+  .track-btn[aria-selected="true"]{color:var(--accent);border-bottom-color:var(--accent)}
+
+  main{max-width:1120px;margin:0 auto;padding:22px 20px 80px}
+  .view{display:none} .view.active{display:block}
+  .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+  h1.title{font-size:26px;font-weight:800;letter-spacing:-.02em;margin:0 0 4px;line-height:1.15}
+  .lede{color:var(--ink-soft);margin:0 0 18px;max-width:64ch;font-size:15px}
+  .status-line{font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:.04em;margin:0 0 16px;display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+  .status-line .dot{width:7px;height:7px;border-radius:50%;display:inline-block;margin-right:5px;vertical-align:middle}
+  .dot.ok{background:var(--primary)} .dot.fail{background:var(--danger)}
+
+  /* category filter row */
+  .catbar{display:flex;gap:7px;flex-wrap:wrap;margin:0 0 18px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+  .cat-chip{
+    font-family:var(--mono);font-size:11px;letter-spacing:.03em;
+    background:var(--surface);border:1px solid var(--line-strong);color:var(--ink-soft);
+    padding:6px 11px;border-radius:16px;font-weight:600;display:inline-flex;gap:6px;align-items:center;
+  }
+  .cat-chip .n{opacity:.55;font-weight:400}
+  .cat-chip:hover{border-color:var(--accent);color:var(--accent)}
+  .cat-chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+  .cat-chip.on .n{opacity:.8}
+
+  .cards{display:flex;flex-direction:column;gap:12px}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px;animation:rise .3s ease both}
+  @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .card .meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-family:var(--mono);font-size:11px;letter-spacing:.04em;color:var(--muted);margin-bottom:7px}
+  .src-badge{background:var(--surface-2);border:1px solid var(--line);border-radius:20px;padding:2px 9px;color:var(--ink-soft);font-weight:600}
+  .cat-badge{border-radius:20px;padding:2px 9px;font-weight:600;font-size:10.5px}
+  .cat-badge.practice{background:var(--primary-wash);border:1px solid #bfdcda;color:var(--primary-ink)}
+  .cat-badge.culture{background:var(--plum-wash);border:1px solid var(--plum-line);color:var(--plum)}
+  .via-badge{background:var(--amber-wash);border:1px solid var(--amber-line);color:var(--amber);border-radius:20px;padding:2px 8px;font-size:10.5px}
+  .card h3{font-size:17px;line-height:1.3;margin:0 0 6px;font-weight:700;letter-spacing:-.01em}
+  .card h3 a{color:var(--ink)} .card h3 a:hover{color:var(--accent)}
+  .snippet{color:var(--ink-soft);font-size:14.5px;margin:0 0 12px;line-height:1.55}
+  .snippet::selection{background:var(--amber-wash)}
+  .card-actions{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .act{border:1px solid var(--line-strong);background:var(--surface);color:var(--ink-soft);font-size:12.5px;font-weight:600;padding:6px 11px;border-radius:6px;display:inline-flex;align-items:center;gap:5px}
+  .act:hover{border-color:var(--accent);color:var(--accent)}
+  .act.on{background:var(--accent);border-color:var(--accent);color:#fff} .act.on:hover{color:#fff}
+
+  .tags-row{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+  .tag{font-family:var(--mono);font-size:11px;background:var(--accent-wash);color:var(--ink);border:1px solid var(--accent-line);padding:2px 8px;border-radius:5px;display:inline-flex;gap:6px;align-items:center}
+  .tag button{border:0;background:transparent;color:inherit;font-size:13px;line-height:1;padding:0;opacity:.6} .tag button:hover{opacity:1}
+  .tag-add{font-family:var(--mono);font-size:11px;border:1px dashed var(--line-strong);background:transparent;color:var(--muted);padding:3px 8px;border-radius:5px}
+  .tag-add:hover{border-color:var(--accent);color:var(--accent)}
+
+  .quote-box{margin-top:12px;border-top:1px dashed var(--line);padding-top:12px;display:none}
+  .quote-box.open{display:block}
+  .quote-box textarea{width:100%;min-height:64px;border:1px solid var(--line-strong);border-radius:8px;padding:9px 11px;font-family:var(--sans);font-size:14px;resize:vertical;background:var(--surface-2)}
+  .quote-box .hint{font-size:12px;color:var(--muted);margin:6px 0 8px}
+
+  .discovery{background:var(--amber-wash);border:1px solid var(--amber-line);border-radius:var(--radius);padding:15px 17px;margin-bottom:20px}
+  .discovery h2{font-family:var(--mono);font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--amber);margin:0 0 4px;font-weight:700}
+  .discovery p{font-size:13px;color:var(--ink-soft);margin:0 0 12px}
+  .chips{display:flex;gap:8px;flex-wrap:wrap}
+  .chip{background:var(--surface);border:1px solid var(--amber-line);border-radius:20px;padding:6px 8px 6px 12px;display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:var(--ink)}
+  .chip .chip-cat{font-family:var(--mono);font-size:10px;color:var(--muted);font-weight:400}
+  .chip .chip-add{border:0;background:var(--amber);color:#fff;font-size:11px;font-weight:700;padding:4px 9px;border-radius:14px;font-family:var(--mono)}
+  .chip .chip-add:hover{background:#95600f}
+  .chip .chip-x{border:0;background:transparent;color:var(--muted);font-size:15px;line-height:1;padding:0 2px} .chip .chip-x:hover{color:var(--danger)}
+  .chip .n{font-family:var(--mono);font-size:11px;color:var(--muted);font-weight:400}
+
+  .panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);margin-bottom:20px;overflow:hidden}
+  .panel > summary{list-style:none;cursor:pointer;padding:13px 17px;display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:var(--ink-soft)}
+  .panel > summary::-webkit-details-marker{display:none}
+  .panel > summary .chev{margin-left:auto;transition:transform .2s} .panel[open] > summary .chev{transform:rotate(90deg)}
+  .panel-body{padding:4px 17px 17px;border-top:1px solid var(--line)}
+  .src-group{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:14px 0 4px;font-weight:700}
+  .src-row{display:flex;gap:10px;align-items:center;padding:8px 0;border-bottom:1px solid var(--surface-2);flex-wrap:wrap}
+  .src-row:last-child{border-bottom:0}
+  .src-row .s-name{font-weight:600;font-size:14px;flex:1 1 180px;min-width:0}
+  .src-row .s-mode{font-family:var(--mono);font-size:10.5px;color:var(--amber)} .src-row .s-mode.direct{color:var(--primary)}
+  .src-row .s-status{font-family:var(--mono);font-size:10.5px;flex:0 0 92px;text-align:right}
+
+  .filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px;align-items:center}
+  .filter-chip{font-family:var(--mono);font-size:11.5px;background:var(--surface);border:1px solid var(--line-strong);color:var(--ink-soft);padding:5px 11px;border-radius:16px;font-weight:600}
+  .filter-chip.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .export-row{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0 22px}
+  .btn-primary{background:var(--accent);color:#fff;border:0;border-radius:7px;padding:9px 15px;font-size:13px;font-weight:700;font-family:var(--mono);letter-spacing:.04em}
+  .btn-ghost{background:transparent;border:1px solid var(--line-strong);color:var(--ink-soft);border-radius:7px;padding:9px 14px;font-size:13px;font-weight:600}
+  .btn-ghost:hover{border-color:var(--accent);color:var(--accent)}
+
+  .quotes-block{margin-top:32px}
+  .quote-card{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--amber);border-radius:var(--radius);padding:14px 16px;margin-bottom:10px}
+  .quote-card .q-text{font-size:15px;line-height:1.5;color:var(--ink);margin:0 0 8px}
+  .quote-card .q-src{font-family:var(--mono);font-size:11px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+
+  .empty{text-align:center;padding:44px 24px;color:var(--muted);border:1px dashed var(--line-strong);border-radius:var(--radius);background:var(--surface)}
+  .empty strong{display:block;color:var(--ink-soft);font-size:15px;margin-bottom:6px;font-weight:700}
+  .note{background:var(--surface-2);border:1px solid var(--line);border-radius:8px;padding:12px 14px;font-size:12.5px;color:var(--ink-soft);line-height:1.55;margin-top:16px}
+  .note b{color:var(--ink)}
+  .spinner{display:inline-block;width:13px;height:13px;border:2px solid var(--line-strong);border-top-color:var(--accent);border-radius:50%;animation:spin .7s linear infinite;vertical-align:middle}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  dialog{border:1px solid var(--line-strong);border-radius:var(--radius);padding:0;max-width:540px;width:calc(100% - 40px);color:var(--ink)}
+  dialog::backdrop{background:rgba(22,35,46,.4)}
+  .dlg-head{padding:16px 20px;border-bottom:1px solid var(--line);display:flex;align-items:center}
+  .dlg-head h3{margin:0;font-size:16px;font-weight:800}
+  .dlg-head button{margin-left:auto;border:0;background:transparent;font-size:20px;color:var(--muted);line-height:1}
+  .dlg-body{padding:18px 20px;font-size:14px;line-height:1.6}
+  .dlg-foot{padding:14px 20px;border-top:1px solid var(--line);display:flex;justify-content:flex-end}
+
+  @media (max-width:640px){
+    .bar{gap:12px} .wordmark{margin-right:0;flex:1 1 100%}
+    nav.tabs{overflow-x:auto;flex:1 1 100%} .bar-actions{flex:1 1 100%;justify-content:flex-end}
+    .trackbar{top:auto;position:static}
+    .trackbar .inner{padding:0 12px}
+    .track-btn{flex:1;padding:11px 8px 9px;font-size:10.5px}
+    h1.title{font-size:22px}
+    .catbar{overflow-x:auto;flex-wrap:nowrap;padding-bottom:14px}
+    .cat-chip{flex:0 0 auto}
+  }
+  @media (prefers-reduced-motion:reduce){*{animation:none !important;transition:none !important}}
+</style>
+</head>
+<body class="track-practice">
+<header>
+  <div class="bar">
+    <div class="wordmark">
+      <span class="name">Signal Desk</span>
+      <span class="sub">Employer Brand · OD · Culture</span>
+    </div>
+    <nav class="tabs" role="tablist" aria-label="Views">
+      <button role="tab" data-view="trusted" aria-selected="true">Trusted</button>
+      <button role="tab" data-view="discover" aria-selected="false">Discover</button>
+      <button role="tab" data-view="saved" aria-selected="false">Saved <span class="count" id="savedCount">0</span></button>
+    </nav>
+    <div class="bar-actions">
+      <button class="icon-btn" id="refreshBtn" title="Reload the latest data">↻ Refresh</button>
+      <button class="icon-btn" id="aboutBtn" title="How this works">About</button>
+    </div>
+  </div>
+</header>
+
+<div class="trackbar">
+  <div class="inner" role="tablist" aria-label="Tracks">
+    <button class="track-btn" role="tab" data-track="practice" aria-selected="true">
+      Practice <span class="sub">EB, OD, talent, critique</span>
+    </button>
+    <button class="track-btn" role="tab" data-track="culture" aria-selected="false">
+      Culture <span class="sub">Design, film, music, gaming &amp; more</span>
+    </button>
+  </div>
+</div>
+
+<main>
+  <!-- TRUSTED -->
+  <section class="view active" id="view-trusted" role="tabpanel">
+    <p class="eyebrow">Curated feeds</p>
+    <h1 class="title" id="trustedTitle">Sources you trust</h1>
+    <p class="lede" id="trustedLede"></p>
+
+    <details class="panel" id="srcPanel">
+      <summary>Source status <span id="srcSummary" class="s-mode"></span> <span class="chev">›</span></summary>
+      <div class="panel-body">
+        <div id="srcList"></div>
+        <div class="note">A <b>red</b> source didn't load last run — usually a wrong feed URL. Open <b>sources.json</b>, fix the <b>url</b>, or switch it to <b>"mode": "news"</b> with a <b>query</b> to watch it via Google News instead.</div>
+      </div>
+    </details>
+
+    <div class="catbar" id="trustedCats"></div>
+    <div class="status-line" id="trustedStatus"></div>
+    <div class="cards" id="trustedCards"></div>
+  </section>
+
+  <!-- DISCOVER -->
+  <section class="view" id="view-discover" role="tabpanel">
+    <p class="eyebrow">Across the news web</p>
+    <h1 class="title" id="discoverTitle">Discover &amp; propose</h1>
+    <p class="lede" id="discoverLede"></p>
+
+    <div class="discovery" id="discoveryBox" style="display:none">
+      <h2>New publishers spotted</h2>
+      <p>Not on your trusted list yet. Tap <b>Add</b> to copy a ready-made line — paste it into the "sources" list in sources.json, then commit.</p>
+      <div class="chips" id="candidateChips"></div>
+    </div>
+
+    <div class="catbar" id="discoverCats"></div>
+    <div class="status-line" id="discoverStatus"></div>
+    <div class="cards" id="discoverCards"></div>
+  </section>
+
+  <!-- SAVED -->
+  <section class="view" id="view-saved" role="tabpanel">
+    <p class="eyebrow">Your swipe file</p>
+    <h1 class="title">Saved &amp; quoted</h1>
+    <p class="lede">Everything you kept, with your tags and pulled quotes. Export it to drop straight into a proposal or a deck.</p>
+
+    <div class="export-row">
+      <button class="btn-ghost" id="copyQuotesBtn">Copy all quotes</button>
+      <button class="btn-ghost" id="exportJsonBtn">Download everything (JSON)</button>
+    </div>
+
+    <div class="catbar" id="savedCats"></div>
+    <div class="filters" id="savedFilters"></div>
+    <div class="cards" id="savedCards"></div>
+    <div class="quotes-block" id="quotesBlock"></div>
+  </section>
+</main>
+
+<dialog id="aboutDlg">
+  <div class="dlg-head"><h3>How this works &amp; honest limits</h3><button id="closeDlg" aria-label="Close">×</button></div>
+  <div class="dlg-body">
+    <p style="margin-top:0">A GitHub Action fetches every feed on a schedule and saves the results to a data file. This page just reads that file, so it loads instantly.</p>
+    <p><b>Two tracks.</b> <b>Practice</b> is reference material you'll actually read — EB, OD, talent, research, plus cultural critique. <b>Culture</b> is stimulus you'll skim for a spark — design, film, music, gaming, and the rest, filtered toward the branding-adjacent angle.</p>
+    <p><b>Data last refreshed:</b> <span id="lastUpdated">—</span></p>
+    <p>Worth knowing:</p>
+    <ul style="margin:8px 0 4px;padding-left:20px;color:var(--ink-soft)">
+      <li>"Recent" is <b>not the same as "trending"</b> — Google News gives us what was published lately, not what's actually buzzing.</li>
+      <li>Only article <b>summaries</b> are available, not full text.</li>
+      <li>Saved items live in <b>this browser only</b>.</li>
+      <li><b>Culture &amp; Critique</b> is the noisiest category by design — "good cultural analysis" is a judgement, not a keyword. Expect to prune it.</li>
+      <li>To change sources, categories, or topics, edit <b>sources.json</b> and commit.</li>
+    </ul>
+  </div>
+  <div class="dlg-foot"><button class="btn-primary" id="okDlg">Got it</button></div>
+</dialog>
+
+<script>
+"use strict";
+
+const LS = { saved:"sd3_saved", quotes:"sd3_quotes", dismissed:"sd3_dismissed" };
+let saved  = load(LS.saved, []);
+let quotes = load(LS.quotes, []);
+let dismissed = load(LS.dismissed, []);
+let DATA = { generatedAt:null, categories:{practice:[],culture:[]}, trusted:[], discover:[], candidates:[], sourceStatus:[] };
+
+let currentTrack = "practice";
+let currentView  = "trusted";
+const catFilter = { trusted:null, discover:null, saved:null };  // per-view selected category
+let savedTagFilter = null;
+
+function load(k, fb){ try{ const v=localStorage.getItem(k); return v?JSON.parse(v):fb; }catch(e){ return fb; } }
+function store(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+function esc(s){ return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function norm(s){ return String(s||"").toLowerCase().replace(/[^a-z0-9]/g,""); }
+function timeAgo(d){
+  const t=new Date(d); if(isNaN(t)) return "";
+  const s=Math.floor((Date.now()-t.getTime())/1000);
+  if(s<3600) return Math.max(1,Math.floor(s/60))+"m ago";
+  if(s<86400) return Math.floor(s/3600)+"h ago";
+  const days=Math.floor(s/86400);
+  if(days<30) return days+"d ago";
+  return t.toLocaleDateString(undefined,{month:"short",day:"numeric"});
+}
+
+const LEDE = {
+  practice: {
+    trusted:  "Reference material from the publishers on your list — employer brand, OD, talent, research, and cultural critique. Filter by category below.",
+    discover: "Recent coverage across the news web for your practice topics. New publishers get flagged so you can vet and add them."
+  },
+  culture: {
+    trusted:  "Stimulus from the culture side — design, advertising, film, music, books, gaming and more, angled toward what's useful from a branding perspective.",
+    discover: "Recent culture coverage across the news web. Skim it for a spark, not for completeness — this is a wide net."
+  }
+};
+
+/* ---------- load ---------- */
+async function loadData(){
+  document.getElementById("trustedStatus").innerHTML = `<span><span class="spinner"></span> Loading…</span>`;
+  try{
+    const res = await fetch("./feed-data.json?" + Date.now());
+    DATA = await res.json();
+  }catch(e){
+    DATA = { generatedAt:null, categories:{practice:[],culture:[]}, trusted:[], discover:[], candidates:[], sourceStatus:[] };
+  }
+  renderAll();
+  const el=document.getElementById("lastUpdated");
+  if(el) el.textContent = DATA.generatedAt ? timeAgo(DATA.generatedAt) : "not yet — run the Action once";
+}
+
+function renderAll(){
+  renderSources();
+  renderTrusted();
+  renderDiscover();
+  refreshSavedView();
+  document.getElementById("trustedLede").textContent  = LEDE[currentTrack].trusted;
+  document.getElementById("discoverLede").textContent = LEDE[currentTrack].discover;
+}
+
+/* ---------- category chips ---------- */
+function renderCatBar(containerId, items, view){
+  const el = document.getElementById(containerId);
+  const cats = (DATA.categories && DATA.categories[currentTrack]) || [];
+  const counts = {};
+  items.forEach(it => { counts[it.cat] = (counts[it.cat]||0)+1; });
+  const present = cats.filter(c => counts[c]);
+  if(!present.length){ el.innerHTML=""; return; }
+  const sel = catFilter[view];
+  el.innerHTML =
+    `<button class="cat-chip ${!sel?'on':''}" data-cat="">All <span class="n">${items.length}</span></button>` +
+    present.map(c => `<button class="cat-chip ${sel===c?'on':''}" data-cat="${esc(c)}">${esc(c)} <span class="n">${counts[c]}</span></button>`).join("");
+  el.onclick = (e)=>{
+    const b = e.target.closest("[data-cat]");
+    if(!b) return;
+    catFilter[view] = b.dataset.cat || null;
+    if(view==="trusted") renderTrusted();
+    else if(view==="discover") renderDiscover();
+    else refreshSavedView();
+  };
+}
+
+function inTrack(it){ return it.track === currentTrack; }
+function applyCat(items, view){
+  const c = catFilter[view];
+  return c ? items.filter(it => it.cat === c) : items;
+}
+
+/* ---------- trusted ---------- */
+function renderTrusted(){
+  const statusEl=document.getElementById("trustedStatus"), cardsEl=document.getElementById("trustedCards");
+  if(!DATA.generatedAt){
+    statusEl.innerHTML=""; document.getElementById("trustedCats").innerHTML="";
+    cardsEl.innerHTML=`<div class="empty"><strong>No data yet</strong>Run the “Update feed data” Action once (Actions → Run workflow), then Refresh.</div>`;
+    return;
+  }
+  const trackItems = (DATA.trusted||[]).filter(inTrack);
+  renderCatBar("trustedCats", trackItems, "trusted");
+  const items = applyCat(trackItems, "trusted");
+
+  const st = (DATA.sourceStatus||[]).filter(s=>s.track===currentTrack);
+  const ok = st.filter(s=>s.ok).length, fail = st.filter(s=>!s.ok).length;
+  statusEl.innerHTML =
+    `<span><span class="dot ok"></span>${ok} sources</span>` +
+    (fail?`<span><span class="dot fail"></span>${fail} unavailable</span>`:``) +
+    `<span>${items.length} articles</span>` +
+    `<span>updated ${esc(timeAgo(DATA.generatedAt))}</span>`;
+
+  if(!items.length){ cardsEl.innerHTML=`<div class="empty"><strong>Nothing here</strong>No articles in this category last run.</div>`; return; }
+  cardsEl.innerHTML="";
+  items.forEach(it=>cardsEl.appendChild(cardEl(it)));
+}
+
+/* ---------- discover ---------- */
+function renderDiscover(){
+  const statusEl=document.getElementById("discoverStatus"), cardsEl=document.getElementById("discoverCards");
+  const boxEl=document.getElementById("discoveryBox"), chipsEl=document.getElementById("candidateChips");
+  if(!DATA.generatedAt){
+    statusEl.innerHTML=""; document.getElementById("discoverCats").innerHTML=""; boxEl.style.display="none";
+    cardsEl.innerHTML=`<div class="empty"><strong>No data yet</strong>Run the Action once, then Refresh.</div>`;
+    return;
+  }
+  const trackItems = (DATA.discover||[]).filter(inTrack);
+  renderCatBar("discoverCats", trackItems, "discover");
+  const items = applyCat(trackItems, "discover");
+  statusEl.innerHTML = `<span>${items.length} articles</span><span>updated ${esc(timeAgo(DATA.generatedAt))}</span>`;
+
+  // candidates, filtered by track + current category
+  const dismissedSet = new Set(dismissed.map(norm));
+  let cands = (DATA.candidates||[]).filter(c => c.track===currentTrack && !dismissedSet.has(norm(c.name)));
+  if(catFilter.discover) cands = cands.filter(c => c.cat===catFilter.discover);
+  if(cands.length){
+    boxEl.style.display="block";
+    chipsEl.innerHTML = cands.map(c=>`
+      <span class="chip">
+        <span>${esc(c.name)}</span>
+        <span class="chip-cat">${esc(c.cat)}</span>
+        <span class="n">${c.count}×</span>
+        <button class="chip-add" data-add="${esc(c.name)}" data-track="${esc(c.track)}" data-cat="${esc(c.cat)}">Add</button>
+        <button class="chip-x" data-dismiss="${esc(c.name)}" title="Not relevant">×</button>
+      </span>`).join("");
+  } else boxEl.style.display="none";
+
+  if(!items.length){ cardsEl.innerHTML=`<div class="empty"><strong>Nothing here</strong>No articles in this category last run.</div>`; return; }
+  cardsEl.innerHTML="";
+  items.forEach(it=>cardsEl.appendChild(cardEl(it)));
+}
+
+document.getElementById("candidateChips").addEventListener("click", async (e)=>{
+  const add=e.target.closest("[data-add]"), dis=e.target.closest("[data-dismiss]");
+  if(add){
+    const {add:name, track, cat} = add.dataset;
+    const line = `    { "name": ${JSON.stringify(name)}, "track": ${JSON.stringify(track)}, "cat": ${JSON.stringify(cat)}, "mode": "news", "query": ${JSON.stringify('"'+name+'"')} },`;
+    try{ await navigator.clipboard.writeText(line); alert(`Copied! Paste into the "sources" list in sources.json, then commit:\n\n${line}`); }
+    catch(err){ prompt("Copy this into sources.json:", line); }
+  }
+  if(dis){ dismissed.push(dis.dataset.dismiss); store(LS.dismissed,dismissed); dis.closest(".chip").remove(); }
+});
+
+/* ---------- source status ---------- */
+function renderSources(){
+  const el=document.getElementById("srcList");
+  const st=(DATA.sourceStatus||[]).filter(s=>s.track===currentTrack);
+  document.getElementById("srcSummary").textContent = st.length?`${st.filter(s=>s.ok).length}/${st.length} ok`:"";
+  if(!st.length){ el.innerHTML=`<div class="note" style="margin-top:0">Run the Action once to see source status here.</div>`; return; }
+  const cats=(DATA.categories&&DATA.categories[currentTrack])||[];
+  let html="";
+  cats.forEach(c=>{
+    const rows=st.filter(s=>s.cat===c);
+    if(!rows.length) return;
+    html += `<div class="src-group">${esc(c)}</div>`;
+    html += rows.map(s=>`
+      <div class="src-row">
+        <span class="s-name">${esc(s.name)}</span>
+        <span class="s-mode ${s.mode==='direct'?'direct':''}">${s.mode==='direct'?'direct feed':'via GN'}</span>
+        <span class="s-status" style="color:${s.ok?'var(--primary)':'var(--danger)'}">${s.ok?('● '+s.count):'● failed'}</span>
+      </div>`).join("");
+  });
+  el.innerHTML=html;
+}
+
+/* ---------- cards ---------- */
+function isSaved(id){ return saved.some(s=>s.id===id); }
+function savedRec(id){ return saved.find(s=>s.id===id); }
+
+function cardEl(it){
+  const el=document.createElement("div");
+  el.className="card"; el.dataset.id=it.id;
+  const rec=savedRec(it.id); const tags=rec?rec.tags:[];
+  el.innerHTML=`
+    <div class="meta">
+      <span class="src-badge">${esc(it.source)}</span>
+      <span class="cat-badge ${esc(it.track)}">${esc(it.cat)}</span>
+      ${it.via?`<span class="via-badge">via GN</span>`:``}
+      <span>${esc(timeAgo(it.pubDate))}</span>
+    </div>
+    <h3><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
+    ${it.snippet?`<p class="snippet">${esc(it.snippet)}${it.snippet.length>=280?'…':''}</p>`:``}
+    <div class="card-actions">
+      <button class="act save ${isSaved(it.id)?'on':''}" data-act="save">${isSaved(it.id)?'✓ Saved':'＋ Save'}</button>
+      <button class="act" data-act="tag">🏷 Tag</button>
+      <button class="act" data-act="quote">❝ Quote</button>
+      <a class="act" href="${esc(it.link)}" target="_blank" rel="noopener">Open ↗</a>
+    </div>
+    <div class="tags-row" data-tags></div>
+    <div class="quote-box" data-quotebox>
+      <p class="hint">Select text in the summary above to pre-fill, or type a quote you copied from the full article.</p>
+      <textarea data-quoteinput placeholder="Paste or type the quote…"></textarea>
+      <div style="margin-top:8px;display:flex;gap:8px">
+        <button class="btn-primary" data-act="savequote">Save quote</button>
+        <button class="btn-ghost" data-act="cancelquote">Cancel</button>
+      </div>
+    </div>`;
+  renderTags(el,it,tags);
+  wireCard(el,it);
+  return el;
+}
+function renderTags(el,it,tags){
+  el.querySelector("[data-tags]").innerHTML =
+    (tags||[]).map(t=>`<span class="tag">${esc(t)}<button data-untag="${esc(t)}">×</button></span>`).join("")
+    + `<button class="tag-add" data-act="addtag">＋ tag</button>`;
+}
+function wireCard(el,it){
+  el.addEventListener("click",(e)=>{
+    const btn=e.target.closest("[data-act]"), untag=e.target.closest("[data-untag]");
+    if(untag){ const rec=savedRec(it.id); if(rec){ rec.tags=rec.tags.filter(t=>t!==untag.dataset.untag); persistSaved(); renderTags(el,it,rec.tags);} return; }
+    if(!btn) return;
+    const act=btn.dataset.act;
+    if(act==="save"){ toggleSave(it,el); return; }
+    if(act==="tag"||act==="addtag"){
+      const val=prompt("Add tag(s) — comma-separated:");
+      if(val){ ensureSaved(it,el); const rec=savedRec(it.id);
+        val.split(",").map(s=>s.trim()).filter(Boolean).forEach(t=>{ if(!rec.tags.includes(t)) rec.tags.push(t); });
+        persistSaved(); renderTags(el,it,rec.tags); if(currentView==="saved") refreshSavedView(); }
+      return;
+    }
+    if(act==="quote"){
+      const box=el.querySelector("[data-quotebox]"), ta=el.querySelector("[data-quoteinput]");
+      const sel=String(window.getSelection()).trim();
+      if(sel&&sel.length>4) ta.value=sel;
+      box.classList.toggle("open"); if(box.classList.contains("open")) ta.focus();
+      return;
+    }
+    if(act==="cancelquote"){ el.querySelector("[data-quotebox]").classList.remove("open"); return; }
+    if(act==="savequote"){
+      const ta=el.querySelector("[data-quoteinput]"), text=ta.value.trim();
+      if(!text){ ta.focus(); return; }
+      quotes.unshift({ id:"q_"+Date.now(), text, source:it.source, cat:it.cat, track:it.track, link:it.link, savedAt:Date.now() });
+      store(LS.quotes,quotes);
+      ta.value=""; el.querySelector("[data-quotebox]").classList.remove("open");
+      flash(el.querySelector('[data-act="quote"]'),"❝ Quoted");
+      if(currentView==="saved") refreshSavedView();
+      return;
+    }
+  });
+}
+function ensureSaved(it,el){
+  if(!isSaved(it.id)){
+    saved.unshift({ id:it.id, title:it.title, link:it.link, source:it.source, track:it.track, cat:it.cat, via:it.via, pubDate:it.pubDate, snippet:it.snippet, tags:[], savedAt:Date.now() });
+    persistSaved();
+    if(el){ const b=el.querySelector(".save"); if(b){ b.classList.add("on"); b.textContent="✓ Saved"; } }
+  }
+}
+function toggleSave(it,el){
+  const b=el.querySelector(".save");
+  if(isSaved(it.id)){ saved=saved.filter(s=>s.id!==it.id); b.classList.remove("on"); b.textContent="＋ Save"; renderTags(el,it,[]); }
+  else ensureSaved(it,el);
+  persistSaved(); if(currentView==="saved") refreshSavedView();
+}
+function persistSaved(){ store(LS.saved,saved); document.getElementById("savedCount").textContent=saved.length; }
+function flash(btn,text){ if(!btn) return; const o=btn.textContent; btn.textContent=text; btn.classList.add("on"); setTimeout(()=>{btn.textContent=o;btn.classList.remove("on");},1200); }
+
+/* ---------- saved ---------- */
+function refreshSavedView(){
+  persistSaved();
+  const cardsEl=document.getElementById("savedCards"), filtersEl=document.getElementById("savedFilters"), quotesEl=document.getElementById("quotesBlock");
+  const trackItems = saved.filter(inTrack);
+  renderCatBar("savedCats", trackItems, "saved");
+  let list = applyCat(trackItems, "saved");
+
+  const allTags=[...new Set(trackItems.flatMap(s=>s.tags))].sort();
+  filtersEl.innerHTML = allTags.map(t=>`<button class="filter-chip ${savedTagFilter===t?'on':''}" data-tag="${esc(t)}">#${esc(t)}</button>`).join("")
+    + (savedTagFilter?`<button class="filter-chip" data-clear="1">clear ×</button>`:``);
+  if(savedTagFilter) list=list.filter(s=>s.tags.includes(savedTagFilter));
+
+  if(!trackItems.length) cardsEl.innerHTML=`<div class="empty"><strong>Nothing saved in ${currentTrack==='practice'?'Practice':'Culture'} yet</strong>Hit Save on any article and it lands here.</div>`;
+  else if(!list.length) cardsEl.innerHTML=`<div class="empty"><strong>No matches for this filter</strong>Clear the filter to see everything.</div>`;
+  else { cardsEl.innerHTML=""; list.forEach(it=>cardsEl.appendChild(cardEl(it))); }
+
+  const trackQuotes = quotes.filter(q=>!q.track || q.track===currentTrack);
+  quotesEl.innerHTML = trackQuotes.length
+    ? `<p class="eyebrow">Pulled quotes · ${trackQuotes.length}</p>` + trackQuotes.map(q=>`
+        <div class="quote-card">
+          <p class="q-text">“${esc(q.text)}”</p>
+          <div class="q-src"><span>— ${esc(q.source)}</span>${q.cat?`<span>${esc(q.cat)}</span>`:``}<a href="${esc(q.link)}" target="_blank" rel="noopener">source ↗</a><button class="tag-add" data-delquote="${esc(q.id)}">remove</button></div>
+        </div>`).join("")
+    : "";
+}
+document.getElementById("savedFilters").addEventListener("click",(e)=>{
+  const t=e.target.closest("[data-tag]"), c=e.target.closest("[data-clear]");
+  if(c) savedTagFilter=null;
+  else if(t) savedTagFilter = savedTagFilter===t.dataset.tag ? null : t.dataset.tag;
+  else return;
+  refreshSavedView();
+});
+document.getElementById("quotesBlock").addEventListener("click",(e)=>{
+  const d=e.target.closest("[data-delquote]");
+  if(d){ quotes=quotes.filter(q=>q.id!==d.dataset.delquote); store(LS.quotes,quotes); refreshSavedView(); }
+});
+
+/* ---------- exports ---------- */
+document.getElementById("copyQuotesBtn").addEventListener("click", async ()=>{
+  if(!quotes.length){ alert("No quotes saved yet."); return; }
+  const text=quotes.map(q=>`“${q.text}”\n— ${q.source}${q.cat?` · ${q.cat}`:''} (${q.link})`).join("\n\n");
+  try{ await navigator.clipboard.writeText(text); alert("All quotes copied (both tracks)."); }
+  catch(e){ prompt("Copy your quotes:", text); }
+});
+document.getElementById("exportJsonBtn").addEventListener("click", ()=>{
+  const blob=new Blob([JSON.stringify({saved,quotes,exportedAt:new Date().toISOString()},null,2)],{type:"application/json"});
+  const a=document.createElement("a"); a.href=URL.createObjectURL(blob); a.download="signal-desk-export.json"; a.click(); URL.revokeObjectURL(a.href);
+});
+
+/* ---------- dialog ---------- */
+const dlg=document.getElementById("aboutDlg");
+document.getElementById("aboutBtn").addEventListener("click",()=>dlg.showModal());
+document.getElementById("closeDlg").addEventListener("click",()=>dlg.close());
+document.getElementById("okDlg").addEventListener("click",()=>dlg.close());
+
+/* ---------- track switch ---------- */
+const trackBtns=document.querySelectorAll(".track-btn");
+trackBtns.forEach(b=>b.addEventListener("click",()=>{
+  currentTrack=b.dataset.track;
+  trackBtns.forEach(x=>x.setAttribute("aria-selected", x===b?"true":"false"));
+  document.body.className = "track-"+currentTrack;
+  catFilter.trusted=catFilter.discover=catFilter.saved=null;  // reset filters per track
+  savedTagFilter=null;
+  renderAll();
+  window.scrollTo({top:0,behavior:"smooth"});
+}));
+
+/* ---------- tabs ---------- */
+const tabs=document.querySelectorAll("nav.tabs button");
+tabs.forEach(btn=>btn.addEventListener("click",()=>{
+  const v=btn.dataset.view;
+  tabs.forEach(b=>b.setAttribute("aria-selected", b===btn?"true":"false"));
+  document.querySelectorAll(".view").forEach(s=>s.classList.remove("active"));
+  document.getElementById("view-"+v).classList.add("active");
+  currentView=v;
+  if(v==="saved") refreshSavedView();
+  window.scrollTo({top:0,behavior:"smooth"});
+}));
+document.getElementById("refreshBtn").addEventListener("click", loadData);
+
+/* ---------- init ---------- */
+persistSaved();
+loadData();
+</script>
+</body>
+</html>
