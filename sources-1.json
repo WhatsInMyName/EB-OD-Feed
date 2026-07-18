@@ -1,0 +1,136 @@
+{
+  "_comment": "Master list. Two tracks: 'practice' (EB/OD reference material) and 'culture' (branding-adjacent stimulus). Every source and topic needs a track + cat. mode:'direct' uses 'url' (a real RSS feed). mode:'news' has no clean feed, so it's watched via a Google News search on 'query'.",
+
+  "locale": { "hl": "en-IN", "gl": "IN", "ceid": "IN:en" },
+
+  "categories": {
+    "practice": [
+      "Employer Brand",
+      "Organisation Development",
+      "Talent",
+      "Analyst & Research",
+      "Culture & Critique"
+    ],
+    "culture": [
+      "Advertising & Campaigns",
+      "Design & Identity",
+      "Film & TV",
+      "Music",
+      "Books & Publishing",
+      "Gaming",
+      "Architecture & Space",
+      "Sport",
+      "Food & Hospitality",
+      "Fashion & Retail",
+      "Tech & Internet Culture"
+    ]
+  },
+
+  "sources": [
+    { "name": "Josh Bersin", "track": "practice", "cat": "Analyst & Research", "mode": "direct", "url": "https://joshbersin.com/feed/" },
+    { "name": "MIT Sloan Management Review", "track": "practice", "cat": "Analyst & Research", "mode": "direct", "url": "https://sloanreview.mit.edu/feed/" },
+    { "name": "Harvard Business Review", "track": "practice", "cat": "Analyst & Research", "mode": "news", "query": "\"Harvard Business Review\"" },
+    { "name": "Gartner HR", "track": "practice", "cat": "Analyst & Research", "mode": "news", "query": "Gartner HR OR \"Gartner for HR\"" },
+    { "name": "McKinsey — People & Org", "track": "practice", "cat": "Analyst & Research", "mode": "news", "query": "McKinsey \"organizational\" OR \"people and organizational performance\"" },
+    { "name": "Deloitte Human Capital", "track": "practice", "cat": "Analyst & Research", "mode": "news", "query": "Deloitte \"Human Capital\" trends" },
+    { "name": "Gallup Workplace", "track": "practice", "cat": "Analyst & Research", "mode": "news", "query": "Gallup workplace employee engagement" },
+    { "name": "SHRM", "track": "practice", "cat": "Analyst & Research", "mode": "news", "query": "SHRM workplace HR" },
+
+    { "name": "Link Humans", "track": "practice", "cat": "Employer Brand", "mode": "direct", "url": "https://linkhumans.com/feed/" },
+    { "name": "Blu Ivy Group", "track": "practice", "cat": "Employer Brand", "mode": "direct", "url": "https://bluivygroup.com/feed/" },
+    { "name": "Undercover Recruiter", "track": "practice", "cat": "Employer Brand", "mode": "direct", "url": "https://theundercoverrecruiter.com/feed/" },
+    { "name": "LinkedIn Talent Blog", "track": "practice", "cat": "Employer Brand", "mode": "news", "query": "\"LinkedIn Talent Blog\" OR (LinkedIn talent solutions employer brand)" },
+    { "name": "Universum", "track": "practice", "cat": "Employer Brand", "mode": "news", "query": "Universum employer branding" },
+    { "name": "Glassdoor for Employers", "track": "practice", "cat": "Employer Brand", "mode": "news", "query": "\"Glassdoor for Employers\"" },
+    { "name": "Great Place to Work", "track": "practice", "cat": "Employer Brand", "mode": "news", "query": "\"Great Place to Work\" workplace culture" },
+
+    { "name": "ERE", "track": "practice", "cat": "Talent", "mode": "news", "query": "\"ERE Media\" recruiting OR \"talent acquisition\"" },
+    { "name": "RecruitingDaily", "track": "practice", "cat": "Talent", "mode": "direct", "url": "https://recruitingdaily.com/feed/" },
+    { "name": "SocialTalent", "track": "practice", "cat": "Talent", "mode": "news", "query": "\"SocialTalent\" recruitment OR hiring" },
+    { "name": "People Matters", "track": "practice", "cat": "Talent", "mode": "news", "query": "\"People Matters\" HR India" },
+
+    { "name": "Center for Creative Leadership", "track": "practice", "cat": "Organisation Development", "mode": "direct", "url": "https://www.ccl.org/feed/" },
+    { "name": "NeuroLeadership Institute", "track": "practice", "cat": "Organisation Development", "mode": "news", "query": "\"NeuroLeadership Institute\" OR \"your brain at work\"" },
+    { "name": "OD Network", "track": "practice", "cat": "Organisation Development", "mode": "news", "query": "\"Organization Development Network\" OR \"OD practitioner\"" },
+    { "name": "BCG — People & Org", "track": "practice", "cat": "Organisation Development", "mode": "news", "query": "BCG \"people and organization\"" },
+    { "name": "Korn Ferry Insights", "track": "practice", "cat": "Organisation Development", "mode": "news", "query": "\"Korn Ferry\" leadership organization" },
+
+    { "name": "Aeon", "track": "practice", "cat": "Culture & Critique", "mode": "direct", "url": "https://aeon.co/feed.rss" },
+    { "name": "The Conversation", "track": "practice", "cat": "Culture & Critique", "mode": "direct", "url": "https://theconversation.com/articles.atom" },
+    { "name": "Nieman Lab", "track": "practice", "cat": "Culture & Critique", "mode": "direct", "url": "https://www.niemanlab.org/feed/" },
+    { "name": "The Atlantic — Culture", "track": "practice", "cat": "Culture & Critique", "mode": "news", "query": "\"The Atlantic\" culture essay OR analysis" },
+    { "name": "The Marginalian", "track": "practice", "cat": "Culture & Critique", "mode": "direct", "url": "https://www.themarginalian.org/feed/" },
+
+    { "name": "Adweek", "track": "culture", "cat": "Advertising & Campaigns", "mode": "direct", "url": "https://www.adweek.com/feed/" },
+    { "name": "Campaign", "track": "culture", "cat": "Advertising & Campaigns", "mode": "news", "query": "\"Campaign\" advertising brand campaign" },
+    { "name": "Ads of the World", "track": "culture", "cat": "Advertising & Campaigns", "mode": "news", "query": "\"Ads of the World\" OR \"best ad campaigns\"" },
+    { "name": "Contagious", "track": "culture", "cat": "Advertising & Campaigns", "mode": "news", "query": "Contagious \"brand strategy\" OR \"creative effectiveness\"" },
+    { "name": "Afaqs (India)", "track": "culture", "cat": "Advertising & Campaigns", "mode": "news", "query": "afaqs advertising India brand" },
+
+    { "name": "It's Nice That", "track": "culture", "cat": "Design & Identity", "mode": "direct", "url": "https://www.itsnicethat.com/feed" },
+    { "name": "Creative Review", "track": "culture", "cat": "Design & Identity", "mode": "news", "query": "\"Creative Review\" design branding" },
+    { "name": "Design Week", "track": "culture", "cat": "Design & Identity", "mode": "news", "query": "\"Design Week\" rebrand OR identity" },
+    { "name": "Brand New (UnderConsideration)", "track": "culture", "cat": "Design & Identity", "mode": "news", "query": "\"Brand New\" rebrand logo identity review" },
+    { "name": "Pentagram", "track": "culture", "cat": "Design & Identity", "mode": "news", "query": "Pentagram identity design" },
+    { "name": "Dezeen", "track": "culture", "cat": "Design & Identity", "mode": "direct", "url": "https://www.dezeen.com/feed/" },
+
+    { "name": "IndieWire", "track": "culture", "cat": "Film & TV", "mode": "news", "query": "IndieWire film storytelling OR craft" },
+    { "name": "Film & TV craft", "track": "culture", "cat": "Film & TV", "mode": "news", "query": "\"visual storytelling\" film OR series craft analysis" },
+    { "name": "Vulture", "track": "culture", "cat": "Film & TV", "mode": "news", "query": "Vulture television culture criticism" },
+
+    { "name": "Pitchfork", "track": "culture", "cat": "Music", "mode": "news", "query": "Pitchfork music culture review" },
+    { "name": "Music & brand culture", "track": "culture", "cat": "Music", "mode": "news", "query": "music \"brand partnership\" OR \"artist collaboration\" culture" },
+    { "name": "Rolling Stone — Culture", "track": "culture", "cat": "Music", "mode": "news", "query": "\"Rolling Stone\" music culture trend" },
+
+    { "name": "The Millions", "track": "culture", "cat": "Books & Publishing", "mode": "news", "query": "\"The Millions\" books essay" },
+    { "name": "Literary Hub", "track": "culture", "cat": "Books & Publishing", "mode": "direct", "url": "https://lithub.com/feed/" },
+    { "name": "Publishing & ideas", "track": "culture", "cat": "Books & Publishing", "mode": "news", "query": "nonfiction book ideas business OR culture review" },
+
+    { "name": "Polygon", "track": "culture", "cat": "Gaming", "mode": "news", "query": "Polygon games culture design" },
+    { "name": "Game design & narrative", "track": "culture", "cat": "Gaming", "mode": "news", "query": "\"game design\" narrative OR worldbuilding analysis" },
+    { "name": "Gaming & brands", "track": "culture", "cat": "Gaming", "mode": "news", "query": "gaming brand OR esports sponsorship culture" },
+
+    { "name": "ArchDaily", "track": "culture", "cat": "Architecture & Space", "mode": "direct", "url": "https://www.archdaily.com/rss/" },
+    { "name": "Workplace design", "track": "culture", "cat": "Architecture & Space", "mode": "news", "query": "\"workplace design\" OR \"office design\" culture" },
+
+    { "name": "Sport & brand culture", "track": "culture", "cat": "Sport", "mode": "news", "query": "sport branding OR sponsorship culture identity" },
+    { "name": "The Athletic — Culture", "track": "culture", "cat": "Sport", "mode": "news", "query": "\"The Athletic\" sport culture story" },
+
+    { "name": "Food & hospitality culture", "track": "culture", "cat": "Food & Hospitality", "mode": "news", "query": "restaurant OR hospitality brand experience design" },
+    { "name": "Eater", "track": "culture", "cat": "Food & Hospitality", "mode": "news", "query": "Eater food culture trend" },
+
+    { "name": "Business of Fashion", "track": "culture", "cat": "Fashion & Retail", "mode": "news", "query": "\"Business of Fashion\" brand strategy" },
+    { "name": "Retail & brand experience", "track": "culture", "cat": "Fashion & Retail", "mode": "news", "query": "retail \"brand experience\" OR \"flagship store\" design" },
+
+    { "name": "The Verge", "track": "culture", "cat": "Tech & Internet Culture", "mode": "direct", "url": "https://www.theverge.com/rss/index.xml" },
+    { "name": "Internet culture & memes", "track": "culture", "cat": "Tech & Internet Culture", "mode": "news", "query": "\"internet culture\" OR meme brand marketing" },
+    { "name": "Garbage Day / newsletter culture", "track": "culture", "cat": "Tech & Internet Culture", "mode": "news", "query": "\"internet culture\" newsletter analysis platform" }
+  ],
+
+  "topics": [
+    { "track": "practice", "cat": "Employer Brand", "query": "\"employer branding\"" },
+    { "track": "practice", "cat": "Employer Brand", "query": "\"employee value proposition\" OR EVP employer" },
+    { "track": "practice", "cat": "Employer Brand", "query": "\"employer brand\" strategy OR campaign" },
+    { "track": "practice", "cat": "Talent", "query": "\"recruitment marketing\" OR \"talent attraction\"" },
+    { "track": "practice", "cat": "Organisation Development", "query": "\"organisation development\" OR \"organization development\"" },
+    { "track": "practice", "cat": "Organisation Development", "query": "\"culture change\" OR \"organisational culture\" workplace" },
+    { "track": "practice", "cat": "Analyst & Research", "query": "\"employee experience\" research OR report" },
+    { "track": "practice", "cat": "Culture & Critique", "query": "\"why\" campaign resonated OR \"struck a nerve\" culture analysis" },
+    { "track": "practice", "cat": "Culture & Critique", "query": "semiotics OR \"meaning making\" brand culture" },
+    { "track": "practice", "cat": "Culture & Critique", "query": "\"cultural moment\" OR zeitgeist brand analysis" },
+
+    { "track": "culture", "cat": "Advertising & Campaigns", "query": "\"brand campaign\" launch creative" },
+    { "track": "culture", "cat": "Advertising & Campaigns", "query": "advertising \"storytelling\" craft analysis" },
+    { "track": "culture", "cat": "Design & Identity", "query": "rebrand OR \"visual identity\" launch" },
+    { "track": "culture", "cat": "Design & Identity", "query": "\"brand identity\" design system typography" },
+    { "track": "culture", "cat": "Film & TV", "query": "film OR series \"world building\" OR storytelling craft" },
+    { "track": "culture", "cat": "Music", "query": "music culture \"brand\" OR fandom" },
+    { "track": "culture", "cat": "Books & Publishing", "query": "book cover design OR \"publishing\" brand" },
+    { "track": "culture", "cat": "Gaming", "query": "games \"narrative design\" OR player community" },
+    { "track": "culture", "cat": "Architecture & Space", "query": "\"workplace\" OR office architecture culture" },
+    { "track": "culture", "cat": "Sport", "query": "sport team identity OR fan culture branding" },
+    { "track": "culture", "cat": "Food & Hospitality", "query": "hospitality \"brand experience\" design" },
+    { "track": "culture", "cat": "Fashion & Retail", "query": "fashion brand storytelling OR collaboration" },
+    { "track": "culture", "cat": "Tech & Internet Culture", "query": "\"internet culture\" trend brand" }
+  ]
+}
