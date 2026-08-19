@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T06:25:23.046Z",
+  "generatedAt": "2026-08-19T09:23:19.147Z",
   "categories": {
     "practice": [
       "Employer Brand",
@@ -24,6 +24,42 @@
   },
   "trusted": [
     {
+      "id": "i_e8ehgo",
+      "title": "Ziggy Launches New Donut Cake Campaign Featuring Shahid Kapoor as Brand Ambassador",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFZHb0dTcllNMFc5ZFVJYjVnbUozcmJyM1JDczMycjZ6UzBOVmdrZkxjZGZveEp5eEFDdHdDejUxX2NnVmRndUJ2Z2pJS05LVDA1SjhYbG1SYjMxVEg0aTVWMmcyWElSaHRrakZsM0k3TmRyR09HdmZqUDVSeXVxVTQ1cXZ2YUFSZTBTckpDeFNnVkxrcWdSekV6RTZKUzNrTDh4aVZqelMySmNrMXdremE1dmxQV28tVU54SWpB?oc=5",
+      "source": "Campaign",
+      "track": "culture",
+      "cat": "Advertising & Campaigns",
+      "publisher": "Passionate In Marketing",
+      "via": true,
+      "pubDate": "2026-08-19T08:26:06.000Z",
+      "snippet": "Ziggy Launches New Donut Cake Campaign Featuring Shahid Kapoor as Brand Ambassador Passionate In Marketing"
+    },
+    {
+      "id": "i_u11b7s",
+      "title": "IKEA's most recent collection is an \"entry point\" for young collectors",
+      "link": "https://www.dezeen.com/2026/08/19/ikea-konstrunda-collection-collectible-design-art/",
+      "source": "Dezeen",
+      "track": "culture",
+      "cat": "Design & Identity",
+      "publisher": "Dezeen",
+      "via": false,
+      "pubDate": "2026-08-19T08:00:54.000Z",
+      "snippet": "Furniture company IKEA has launched the limited-edition Konstrunda collection, an assortment of furniture and homeware objects that reimagine collectible design from the likes of Andu Masebo at an affordable price point. Konstrunda, or Art Tour, consists of 22 pieces by seven des"
+    },
+    {
+      "id": "i_5agcyv",
+      "title": "How to Sell a Genocide has been removed from a library near Bondi – but libraries represent freedom of thought",
+      "link": "https://theconversation.com/how-to-sell-a-genocide-has-been-removed-from-a-library-near-bondi-but-libraries-represent-freedom-of-thought-289988",
+      "source": "The Conversation",
+      "track": "practice",
+      "cat": "Culture & Critique",
+      "publisher": "The Conversation",
+      "via": false,
+      "pubDate": "2026-08-19T06:43:17.000Z",
+      "snippet": "Sydney’s Waverley Council, which includes Bondi Beach within its boundaries, has removed a book on the war on Gaza, titled How to Sell a Genocide, from its library shelves, pending review. This followed a complaint from a survivor of last year’s Bondi Beach massacre. The Sydney M"
+    },
+    {
       "id": "i_f28rvc",
       "title": "Beco challenges what goes into everyday homecare products with new campaign via Colloquial",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZV8zcnh5ZFY4ZDVJX0NWQkxsTjdKeHRpN2hyWEhCYS1vSExuSkYtVk9MV3dYMjhsMklMNUFJUC1yUHBXeGxTdWRyb2pNQVY3cmNUUXJDR1duQXgyV05wQUdhdGlYU0MzZFlkdVNrSFU4dXdhSlV6NEREU0NGUXpTaEN4RmdKSGNrcE5HTUIzTVNNR3VRbTNVZGlfUDVlS1A5cGVpOHUtYzNKUDlTaFhJLUMtWXFmWXpYbmc?oc=5",
@@ -32,8 +68,20 @@
       "cat": "Advertising & Campaigns",
       "publisher": "marketech apac",
       "via": true,
-      "pubDate": "2026-08-19T06:11:15.000Z",
+      "pubDate": "2026-08-19T06:15:03.000Z",
       "snippet": "Beco challenges what goes into everyday homecare products with new campaign via Colloquial marketech apac"
+    },
+    {
+      "id": "i_qro6w",
+      "title": "SESC Pompéia indoor pond replicated for Lina Bo Bardi exhibition in Shanghai",
+      "link": "https://www.dezeen.com/2026/08/19/lina-bo-bardi-exhibition-open-architecture-shanghai/",
+      "source": "Dezeen",
+      "track": "culture",
+      "cat": "Design & Identity",
+      "publisher": "Dezeen",
+      "via": false,
+      "pubDate": "2026-08-19T05:00:43.000Z",
+      "snippet": "International studio Open Architecture drew on Lina Bo Bardi's own designs when creating The Poetics of Survival, the first major exhibition of the architect's work in China. The studio centred the exhibition, which is on show at the Power Station of Art (PSA) gallery in Shanghai"
     },
     {
       "id": "i_1uwb0k",
@@ -54,10 +102,10 @@
       "source": "Design Week",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Design Week",
+      "publisher": "designweek.co.uk",
       "via": true,
       "pubDate": "2026-08-19T04:30:07.000Z",
-      "snippet": "What can Prime Minister Burnham do for design? Design Week"
+      "snippet": "What can Prime Minister Burnham do for design? designweek.co.uk"
     },
     {
       "id": "i_u5ama1",
@@ -66,10 +114,10 @@
       "source": "Design Week",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Design Week",
+      "publisher": "designweek.co.uk",
       "via": true,
       "pubDate": "2026-08-19T04:00:21.000Z",
-      "snippet": "Thirst refreshed Ponche Kuba to celebrate the Caribbean Design Week"
+      "snippet": "Thirst refreshed Ponche Kuba to celebrate the Caribbean designweek.co.uk"
     },
     {
       "id": "i_s82zi9",
@@ -84,16 +132,16 @@
       "snippet": "Alexas Fotos/Pexels One Nation leader Pauline Hanson has called for a 75% cut to the tobacco tax and a freeze on any price indexation of the tax for three years. Hanson said this would make cigarettes cheaper and so undercut Australia’s growing illicit tobacco market. One Nation "
     },
     {
-      "id": "i_oagygx",
+      "id": "i_6ehbv5",
       "title": "Lancia Consult Achieves Great Place To Work® Certification™ Across Four Countries",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSHBOcENfVWNoei1sbG5ZQ25QbXhrbHRjYVNublJnRjRzZ2xiLVAyMkttUjkxT1ZSZmpRdEZOakwwcFZFbG9JZjFtaHRibzl6WTRxU0pTN21BUVlKc0hTSEsycGFMdXBUTHJaYzkxekJpQnNCOTByTThzWGFxdEJPaVU0akVPamVFN1V5TGo3YTBVZWYzV21HbFpnaFh3RjNWa2drZ2s1V3FQdjBZR2dfeTI4N0p6VVVoYVkzU0pTbXR4aTJhOXg4aVpKcWJ5MjF6OVI4ZGx5MzhzczFDeGFjem9laTJxUdIB6wFBVV95cUxPTDlSMWttWTJqREU2WlFRZFNhdWxKUzZXRnhDSWhDU0JIQkY1cnd4S0twMzlQZDBSMFdidUVvcHNFSGlZLTlUQllwdnpURnpUeTJOTGcwNGh3T2xmVVF5STRlNjNIY2FzMTdveVZpX29xM3lzNUVfbk9vTmotTTVlQlpMSWtUcHRVeUtGdkdMZ1JhVE9USWRaRzFFQjZiTUxlOWxXaDhZWTVJZnF0UW5kc2FvckdFYTZudVdrOXF0SElxMU55X3N6TllNZXk3bVFQbWxFaTJVbWxkajRjWHlQalJjclVrdVV2cEFv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOVhfTVhUZDU4YVpTRTRQMmt1cmg2WXZuQWM4MGxxMmRUbERNS2J5UkVGZE9pYmF0d0x0VXdMUzZYU09PaGI5M0l5RmhzYkZTMUxocFBqNFdyNkRyMkxxbVdhMWNscDNHTUdwTU1fd2FGam9xYnZyM2hBNk5pcHBSR3o3cEdOMk9aZElYSTk3Y05fdWVJR3JNMC0talJEQkw2d1NDTVNFdUphNDhSbXlRMzhPUTZYYmk3QldfLWdDUVIyMUxERVYwMDhDZ2xHd2NqOHcxRXJmYw?oc=5",
       "source": "Great Place to Work",
       "track": "practice",
       "cat": "Employer Brand",
-      "publisher": "The Manila Times",
+      "publisher": "PR Newswire",
       "via": true,
-      "pubDate": "2026-08-19T03:17:07.000Z",
-      "snippet": "Lancia Consult Achieves Great Place To Work® Certification™ Across Four Countries The Manila Times"
+      "pubDate": "2026-08-19T03:00:00.000Z",
+      "snippet": "Lancia Consult Achieves Great Place To Work® Certification™ Across Four Countries PR Newswire"
     },
     {
       "id": "i_7z7ani",
@@ -126,10 +174,10 @@
       "source": "Creative Review",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-08-19T02:01:44.000Z",
-      "snippet": "Snask on the power of fame and standing out Creative Review"
+      "snippet": "Snask on the power of fame and standing out creativereview.co.uk"
     },
     {
       "id": "i_sogx1i",
@@ -216,30 +264,6 @@
       "snippet": "No one knows whether this house or the large trees in its courtyard appeared on the site first. Chinese scholar trees, persimmon trees, and ginkgo trees stood tall, their expansive canopies intertwining with the woodland beyond the courtyard walls. Together, they created a powerf"
     },
     {
-      "id": "i_hf44oh",
-      "title": "Fortera Credit Union Named to 2026 PEOPLE Companies That Care List",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXVkM1VjQllJVUVySVhNMnRTUzUyWEJ4VF8zbEItYXl1c2JlRk5MaFRSd293NTZQa2V3QUp3TWZlN24yRUxxSGtQc3dfMHhXVFpoQS11LWxQa2ZubTV1VHFQS1hpMnlQRjZMNXNaQVNwdzFCaE56VlNDUzc0dXRNMU8wSjRwNEotQWxlV3U4SktWdW5aSmE0anNkOUszdFJqMjg1WnNIT3UtMm9QN1BBdkJ3?oc=5",
-      "source": "Great Place to Work",
-      "track": "practice",
-      "cat": "Employer Brand",
-      "publisher": "Clarksville Online",
-      "via": true,
-      "pubDate": "2026-08-18T23:00:56.000Z",
-      "snippet": "Fortera Credit Union Named to 2026 PEOPLE Companies That Care List Clarksville Online"
-    },
-    {
-      "id": "i_2pc57i",
-      "title": "Ace Bed Unveils 'Science That Beats Gravity' Ad Campaign",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUU1d3VGZGFhcmZ4bm9kcWxURGRIWUV1clR0RUZ4blhjajJjNWNwNTYzcm5ZLUlxNXVwSGg5Sm9ZcE1KVWc2S2traUFPRC1PaWNzQlp3QW5OQ2dSTThGcktEMTB4OXVFWEZjTkZDVzMzcEFOZUVseGtLUkdjWVE4SEhrWWV4SmhXbW8zYzVrTE1UVmhtTnJ2YVdWQ20?oc=5",
-      "source": "Campaign",
-      "track": "culture",
-      "cat": "Advertising & Campaigns",
-      "publisher": "Seoul Economic Daily",
-      "via": true,
-      "pubDate": "2026-08-18T22:00:05.000Z",
-      "snippet": "Ace Bed Unveils 'Science That Beats Gravity' Ad Campaign Seoul Economic Daily"
-    },
-    {
       "id": "i_tvq173",
       "title": "Why it might be time to rethink the human family tree",
       "link": "https://theconversation.com/why-it-might-be-time-to-rethink-the-human-family-tree-289819",
@@ -310,18 +334,6 @@
       "via": false,
       "pubDate": "2026-08-18T20:06:45.000Z",
       "snippet": "gremlin/Getty Last week, the Fair Work Commission ruled Gregory Baker, a computing academic at Macquarie University, should be treated as an ongoing, part-time employee, after the university had earlier declined his request to convert from a casual role. It was immediately descri"
-    },
-    {
-      "id": "i_cfgccv",
-      "title": "Does ‘AI-watermarking’ mean the party is over for cheating students?",
-      "link": "https://theconversation.com/does-ai-watermarking-mean-the-party-is-over-for-cheating-students-289889",
-      "source": "The Conversation",
-      "track": "practice",
-      "cat": "Culture & Critique",
-      "publisher": "The Conversation",
-      "via": false,
-      "pubDate": "2026-08-18T20:06:21.000Z",
-      "snippet": "Concerns about students cheating with AI are rife within schools and universities. Some lecturers have even expressed fears students have been “lobotomised by AI” amid reports AI-detection tools are patchy and far from fool-proof. Last week, New South Wales moved to ban take-home"
     },
     {
       "id": "i_jo8kf1",
@@ -513,7 +525,7 @@
       "publisher": "The Verge",
       "via": false,
       "pubDate": "2026-08-18T16:26:29.000Z",
-      "snippet": "Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Jay Janner/The Austin American-Statesman via Getty Images The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's "
+      "snippet": "Tesla Cybercabs are lined up on a lot at Tesla Giga Texas in Austin, Wednesday, April 8, 2026. | Image: Jay Janner/The Austin American-Statesman via Getty Images The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing its p"
     },
     {
       "id": "i_i5wpgb",
@@ -570,10 +582,10 @@
       "source": "Great Place to Work",
       "track": "practice",
       "cat": "Employer Brand",
-      "publisher": "mexicobusiness.news",
+      "publisher": "Mexico Business News",
       "via": true,
       "pubDate": "2026-08-18T14:26:41.000Z",
-      "snippet": "Eurofarma Named Top Pharma Employer in Latin America mexicobusiness.news"
+      "snippet": "Eurofarma Named Top Pharma Employer in Latin America Mexico Business News"
     },
     {
       "id": "i_z2lhhs",
@@ -610,6 +622,18 @@
       "via": true,
       "pubDate": "2026-08-18T14:00:00.000Z",
       "snippet": "Blue Cross Blue Shield Global Solutions℠ Earns Great Place To Work® Certification™ for Second Consecutive Year PR Newswire"
+    },
+    {
+      "id": "i_8vsntk",
+      "title": "NEW AD: Hinojosa Releases Data Center Ad Targeting Rural Markets",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVFPMXNCTFJSbHF1WGZhSDl2VVBRQ2hVSUpMNUgtbGJ5TzJTWWtxTXphY2dJQm10TUhLa1BUOW54UzVkLTRzZC1USTUtaC1EWkFxUndYdjREQ3k0QjRINXgtMTlVdTNrQU9BUHAtV0NWUjZmVTJvSmFaUUJBemRyczhVSjcwaUJQLU8wNTlUZ3RZUEd4N3FOeFl3TDR1QQ?oc=5",
+      "source": "Campaign",
+      "track": "culture",
+      "cat": "Advertising & Campaigns",
+      "publisher": "Gina Hinojosa for Texas Governor",
+      "via": true,
+      "pubDate": "2026-08-18T13:50:36.000Z",
+      "snippet": "NEW AD: Hinojosa Releases Data Center Ad Targeting Rural Markets Gina Hinojosa for Texas Governor"
     },
     {
       "id": "i_hp60z5",
@@ -870,10 +894,10 @@
       "source": "Great Place to Work",
       "track": "practice",
       "cat": "Employer Brand",
-      "publisher": "constructionworld.in",
+      "publisher": "Construction World",
       "via": true,
       "pubDate": "2026-08-18T09:58:52.000Z",
-      "snippet": "Ingram Micro India Earns Sixth Great Place to Work Certification constructionworld.in"
+      "snippet": "Ingram Micro India Earns Sixth Great Place to Work Certification Construction World"
     },
     {
       "id": "i_fv9cak",
@@ -996,18 +1020,6 @@
       "snippet": "Game developer Blue Hood Games has released a survival game named Europe Heatwave Simulator, where players need to outlast a 14-day heatwave without air conditioning in an apartment in Paris. Playable on the Steam platform, which is downloadable for Windows desktops, Europe Heatw"
     },
     {
-      "id": "i_2ob44m",
-      "title": "Dua Lipa borrows George Clooney’s iconic “What else?”in Nespresso brand campaign",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczl4VElnSWd6MzBoR3o5YVk4SU92UEVDTThoa2R0bEREVmw4cXpSNWJOXzctME1iMkI5MDI4NzlyZTNYMV9ON2dmYTU3RV9CZzg1SzdzQ3RNeWRZUDZsYWNCTGcyLVA4dzBqQTMwQlVDRHJfWlBrYkxURzI4R29VM1NYcTVRdjl2ZXV6Q2ZOM0hOMm1DNkpWSUF2TFFGTjAtSmc?oc=5",
-      "source": "Campaign",
-      "track": "culture",
-      "cat": "Advertising & Campaigns",
-      "publisher": "Campaign Middle East",
-      "via": true,
-      "pubDate": "2026-08-18T09:00:42.000Z",
-      "snippet": "Dua Lipa borrows George Clooney’s iconic “What else?”in Nespresso brand campaign Campaign Middle East"
-    },
-    {
       "id": "i_o65vfg",
       "title": "Joby Warrick, LaToya Watkins, Katy Simpson Smith, and more: 20 new books out today!",
       "link": "https://lithub.com/joby-warrick-latoya-watkins-katy-simpson-smith-and-more-20-new-books-out-today/",
@@ -1054,18 +1066,6 @@
       "via": true,
       "pubDate": "2026-08-18T07:27:52.000Z",
       "snippet": "Qween ‘flips the script on jewellery’ with Print campaign advertising Noida launch The Retail Jeweller India"
-    },
-    {
-      "id": "i_uk2a43",
-      "title": "Rungta Tea Launches AI-Powered Independence Day Campaign",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVzExNnpjRGRaM2hJVng3MUlEVGZfbWljWGF5N2Ryc2VPYm1zSWxmWjZwZmc1YjM0Q3g1YXVoTEJtNl9feW9qU0t0TjRPTEE5X3RuNm9VbDFWSjUyZGw3WUEtT2FlV1BXckRnMlBvRkxUY1JOWFVaREttMkdFUzZwN2JZb3RvMXNKbDRqOWR6bFlSLUFSeVE?oc=5",
-      "source": "Campaign",
-      "track": "culture",
-      "cat": "Advertising & Campaigns",
-      "publisher": "Passionate In Marketing",
-      "via": true,
-      "pubDate": "2026-08-18T07:26:09.000Z",
-      "snippet": "Rungta Tea Launches AI-Powered Independence Day Campaign Passionate In Marketing"
     },
     {
       "id": "i_rf1lf9",
@@ -1218,10 +1218,10 @@
       "source": "Creative Review",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-08-18T02:02:17.000Z",
-      "snippet": "Designed like Mamdani Creative Review"
+      "snippet": "Designed like Mamdani creativereview.co.uk"
     },
     {
       "id": "i_o60erm",
@@ -1380,6 +1380,18 @@
       "snippet": "How to \"include everything coherently and harmoniously in an overall whole that is undivided, unbroken, and without a border.\""
     },
     {
+      "id": "i_rnqchy",
+      "title": "New It Happens on PS5 campaign highlights the biggest moments of play",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFNwdm9BbUhkbXEzZFAyN2NfLUcweVUteElScDFWVmZ2UjVLQjAzN3ZIX0ZTb3gxcUJMcG9YUm1QT2szNkdZQ05kd2xQRjh4WG5rWk5xM3lNdURSTDJIV2VYdkxFakFqUEZxTDVWQUEwVzdReHZnREh5NHJucW8ySGhoQW5yYVdja2lma3Z6bFBoN0pLaW9EZVRuTFJmVkxSUVhOc29FVGZXV0VJY0hN?oc=5",
+      "source": "Campaign",
+      "track": "culture",
+      "cat": "Advertising & Campaigns",
+      "publisher": "PlayStation.Blog",
+      "via": true,
+      "pubDate": "2026-08-17T12:00:25.000Z",
+      "snippet": "New It Happens on PS5 campaign highlights the biggest moments of play PlayStation.Blog"
+    },
+    {
       "id": "i_rblxtk",
       "title": "Beco takes direct aim at Vim and Surf Excel with ingredient-led comparative campaign",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMk1BRldjWlRFVUozRUVXYjRXdmw0X1d2c2pmT0IwdHFrc1AzdmsydjNwd3hwdWw0TENqellBMGJ0N0thN0dDOV9hMk5ib2dZWGZhb3pTRzNBVFYyY0NUeTJmZEpMTERpUkloSzdhdmlVRjJhNWVzc3RHOXY1a0ticTVtVVplZm1uWnlUU2pod3A1bEdnUWt6V2tDWXMzS3VxcldYaDMwcG5OLW9paEFLT2Y5UFk4dFVTS0tCV0N5cU9fMXlFaU0wVGJxZnNLVFpVRU9jRGY4LUfSAdgBQVVfeXFMUDJNQUZXY1pURVVKM0VFV2I0V3ZsNF9XdnNqZk9CMHRxa3NQM3ZrMnYzcHd4cHVsNExDanpZQTBidDdLYTdHQzlfYTJOYm9nWVhmYW96U0czQVRWMmNDVHkyZmRKTExEaVJJaEs3YXZpVUYyYTVlc3N0Rzl2NWtLYnE1bVVaZWZtblp5VFNqaHdwNWxHZ1FreldrQ1lzM0t1cXJXWGgzMHBuTi1vaWhBS09mOVBZOHRVU0tLQldDeXFPXzF5RWlNMFRicWZzS1RaVUVPY0RmOC1H?oc=5",
@@ -1476,40 +1488,16 @@
       "snippet": "Dubai Airports Wins 2026 Gallup Exceptional Workplace Award safariindia.com"
     },
     {
-      "id": "i_s6d9y5",
-      "title": "\"I find it icky to glibly invoke brain chemistry in the marketing of style\"",
-      "link": "https://www.dezeen.com/2026/08/17/dopamine-decor-julie-lasky-opinion/",
-      "source": "Dezeen",
-      "track": "culture",
-      "cat": "Design & Identity",
-      "publisher": "Dezeen",
-      "via": false,
-      "pubDate": "2026-08-17T09:00:40.000Z",
-      "snippet": "The \"dopamine decor\" interiors trend is taking social media by storm, but it's just another disingenuous dressing-up of superficial style as life-improving experience, writes Julie Lasky. For some time now, the internet has labeled a maximalist decorating trend that embraces cand"
-    },
-    {
-      "id": "i_svto0u",
-      "title": "Waugh Thistleton Architects set to build \"tallest mass timber office building in the US\"",
-      "link": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
-      "source": "Dezeen",
-      "track": "culture",
-      "cat": "Design & Identity",
-      "publisher": "Dezeen",
-      "via": false,
-      "pubDate": "2026-08-17T08:11:57.000Z",
-      "snippet": "Architecture studios Waugh Thistleton Architects and Mithun have designed a 12-storey mass-timber office block in Bellevue, Washington. Designed for developer and contractor Skanska, the Bevel tower will become the tallest timber office building in the USA, when it completes. It "
-    },
-    {
       "id": "i_ko91o",
       "title": "Pentagram unveils dynamic visual identity for historic music venue De Bijloke",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT3l0SVQ4VFByNTNJb1E4RWJoTHVTbEYyM0l0XzM0MlpHcm9XUUFvTng2VnJsYUw0b2N3T0lkRFc5eDhCUU92LVpocEtqMEJkNm1pMEtjZmJQbFIzXzk1TlpWVUdmNmdkblkzMWR2dUtQRUJMcDhzR2lKREN2b2NOemlUVDc4YktkVk9NSDBUWVE4b2lWbndGSTJvZWtkQ3ZOdGpyV2tNUW0yazA?oc=5",
       "source": "Design Week",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Design Week",
+      "publisher": "designweek.co.uk",
       "via": true,
       "pubDate": "2026-08-17T04:30:58.000Z",
-      "snippet": "Pentagram unveils dynamic visual identity for historic music venue De Bijloke Design Week"
+      "snippet": "Pentagram unveils dynamic visual identity for historic music venue De Bijloke designweek.co.uk"
     },
     {
       "id": "i_rgp6mj",
@@ -1530,10 +1518,10 @@
       "source": "Gallup Workplace",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "gallup.com",
+      "publisher": "Gallup.com",
       "via": true,
       "pubDate": "2026-08-17T04:15:30.000Z",
-      "snippet": "AI's Effect on Workplace Culture gallup.com"
+      "snippet": "AI's Effect on Workplace Culture Gallup.com"
     },
     {
       "id": "i_eghh2e",
@@ -1542,10 +1530,10 @@
       "source": "Creative Review",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-08-17T02:58:07.000Z",
-      "snippet": "Gradwatch 2026: Jason Saffer, Central Saint Martins Creative Review"
+      "snippet": "Gradwatch 2026: Jason Saffer, Central Saint Martins creativereview.co.uk"
     },
     {
       "id": "i_cpnprx",
@@ -1686,10 +1674,10 @@
       "source": "Creative Review",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-08-14T09:14:01.000Z",
-      "snippet": "What Instagram’s brand refresh signals about its future Creative Review"
+      "snippet": "What Instagram’s brand refresh signals about its future creativereview.co.uk"
     },
     {
       "id": "i_f9y7ib",
@@ -1752,6 +1740,18 @@
       "snippet": "Hey Siri, how much is the news worth to an AI assistant? The answer, according to a report by Alexandra Bruell in The Wall Street Journal, starts at $100 million. Apple has approached publishers to use their news and up-to-date information in the revamped Siri AI, sources told th"
     },
     {
+      "id": "i_slrbkl",
+      "title": "Cottage Health Listed as a 2026 PEOPLE Companies that Care",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWVPMTNaVUpJQUlXMW14T05nZTM4aEZXLTlKcjFDODQ2WmtIR0wxV3RXTlNZUWJlLXV2SjRVbEk1c2h1REpFMXF1RFdteXRLUkJpdm9QSGdxNENGbHZrVC1Ub29USkVlV20xQ3I2UHk1SUcwS3RFSzhoSVRPTGVZTEtPdHZ4aWtRVUlBQzhZRjhKaHR0SGNJR3I5eVdPbVU?oc=5",
+      "source": "Great Place to Work",
+      "track": "practice",
+      "cat": "Employer Brand",
+      "publisher": "The Santa Barbara Independent",
+      "via": true,
+      "pubDate": "2026-08-13T16:17:56.000Z",
+      "snippet": "Cottage Health Listed as a 2026 PEOPLE Companies that Care The Santa Barbara Independent"
+    },
+    {
       "id": "i_k7bmd6",
       "title": "Despite Massive AI Investments, HR Jobs Are Booming. Why?",
       "link": "https://joshbersin.com/2026/08/despite-massive-ai-investments-hr-jobs-are-booming-why/",
@@ -1770,10 +1770,10 @@
       "source": "Great Place to Work",
       "track": "practice",
       "cat": "Employer Brand",
-      "publisher": "tribuneindia.com",
+      "publisher": "The Tribune",
       "via": true,
       "pubDate": "2026-08-13T12:23:53.000Z",
-      "snippet": "PromptTech Global Earns Great Place to Work® Certification tribuneindia.com"
+      "snippet": "PromptTech Global Earns Great Place to Work® Certification The Tribune"
     },
     {
       "id": "i_28odu9",
@@ -1830,10 +1830,10 @@
       "source": "Creative Review",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-08-13T02:51:33.000Z",
-      "snippet": "Why the battle for brand distinctiveness starts with type Creative Review"
+      "snippet": "Why the battle for brand distinctiveness starts with type creativereview.co.uk"
     },
     {
       "id": "i_hue41i",
@@ -1866,10 +1866,10 @@
       "source": "Polygon",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "Polygon.com",
+      "publisher": "polygon.com",
       "via": true,
       "pubDate": "2026-08-12T15:58:30.000Z",
-      "snippet": "There's a New GOTY 2026 Contender — and Many More Around the Corner Polygon.com"
+      "snippet": "There's a New GOTY 2026 Contender — and Many More Around the Corner polygon.com"
     },
     {
       "id": "i_hnonwe",
@@ -1950,10 +1950,10 @@
       "source": "Design Week",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Design Week",
+      "publisher": "designweek.co.uk",
       "via": true,
       "pubDate": "2026-08-12T04:00:33.000Z",
-      "snippet": "Thissaway rebrands The Belfry Hotel & Resort Design Week"
+      "snippet": "Thissaway rebrands The Belfry Hotel & Resort designweek.co.uk"
     },
     {
       "id": "i_5d6w9c",
@@ -1962,10 +1962,10 @@
       "source": "McKinsey — People & Org",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2026-08-12T00:00:00.000Z",
-      "snippet": "AI transformations run on trust McKinsey & Company"
+      "snippet": "AI transformations run on trust mckinsey.com"
     },
     {
       "id": "i_5yrhe4",
@@ -2038,18 +2038,6 @@
       "via": true,
       "pubDate": "2026-08-11T12:10:08.000Z",
       "snippet": "“Leadership Drift” Is Stalling Your AI Strategy Harvard Business Review"
-    },
-    {
-      "id": "i_gmj7o2",
-      "title": "The new 7UP rebrand is bound to be contentious",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYjhhQk5TdnJrd2NpN0lGbjU2UmtZWlZIdEJzTWFDSGtQMlNPamZfRDl3TC14QXduMGtBVzRWdXFOSnprU3dOaWgzNXRIYjFkbHZLa01sdmtIdUZMeU5USXNpNkFxWTJGSWhBU29CMGQxZkNMQXgzcnliLXh6WlpMN3kxdGN3WlJNTjRlZkc1SW11Y1FQbnc?oc=5",
-      "source": "Brand New (UnderConsideration)",
-      "track": "culture",
-      "cat": "Design & Identity",
-      "publisher": "Creative Bloq",
-      "via": true,
-      "pubDate": "2026-08-11T11:55:42.000Z",
-      "snippet": "The new 7UP rebrand is bound to be contentious Creative Bloq"
     },
     {
       "id": "i_5lc4ol",
@@ -2130,10 +2118,10 @@
       "source": "Creative Review",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-08-11T02:12:11.000Z",
-      "snippet": "What do the new euro designs say about Europe? Creative Review"
+      "snippet": "What do the new euro designs say about Europe? creativereview.co.uk"
     },
     {
       "id": "i_hor4f5",
@@ -2352,16 +2340,28 @@
       "snippet": "C P Snow’s ‘Two Cultures’ lecture provoked a savage response from fellow critic F R Leavis. What was at the heart of it all? - by Sam Dresser Read on Aeon"
     },
     {
-      "id": "i_nizx0u",
-      "title": "Day 1 at TechHR India 2026 challenged almost everything we thought we knew about work - People Matters",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTloVmVyM2dBNFp4cm9yWFpEbHF3bXVraWI3RUFUMmdqQU9nWGJzZkMwV1llZ0hrUWFGX2VuVFdodW9NNmdWakctdmhKbmNhaHFKcjVPSDFUVGVVR1R2RlhTLURoam1LeWV5blJERTFiTTNQeUR3ZVhfSW9EbFNGWFZoU3hfZkhicXAxTEdFUHhJMC1aUFJYMmc4ZUdmTEFlUzJTRDgyT1hvbjYyOWZqaFRELUhySFlpTVc0czVLSEZQa2QzYjZXOWkxdzhfX3hfM2Y1U2RB?oc=5",
+      "id": "i_ipvvex",
+      "title": "TechHR India 2026: HCL Healthcare's CEO Shikhar Malhotra on building healthier workplaces - People Matters",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRU1FaTB3S3VxNE9HQ25TSzBBNTJLaThnbUliTDRHUmF5OU9WMlh2UmRuSjRETlRlRzJDb0lOVHlBY0xwYmdSY3F0Rm9nb2tNZWJXVG9tSGFxWTk5UHhIeEpsRGNuc3BRTFdrUmZrcEFTcnNnbHpVRmptdk4zSjhjQ2thdk1wUmJMLXpHdjJZRjFDUTNvTGZtRnQwcUpxam9tWDZmb0d4aDVRcldZdjhrWFJlc1hDUGR4dzFqUEgxOTNLOXNLRHJGcHpqaEZSN01mV25odkNOLVg?oc=5",
       "source": "People Matters",
       "track": "practice",
       "cat": "Talent",
       "publisher": "HR News",
       "via": true,
       "pubDate": "2026-08-06T07:00:00.000Z",
-      "snippet": "Day 1 at TechHR India 2026 challenged almost everything we thought we knew about work People Matters - HR News"
+      "snippet": "TechHR India 2026: HCL Healthcare's CEO Shikhar Malhotra on building healthier workplaces People Matters - HR News"
+    },
+    {
+      "id": "i_mjim3s",
+      "title": "Why Fashion Brands Need More Instagram Ads Than Ever",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTg5X2RRVnpwbjFLM3hObTU2S053NGNUQk9ZQm1KSXk4UlFFU0hlU0sxT2lobmgxVGppRUVFYWItSmJxeHFlOHFYNFB6LVpwNk9SNFZKT2Q4QjllMHJiQUNxeWk0MXJ6aE1JZHByRXlZQjNxaGVwRmQ0a3NLZDZ2WDVrR3ROM1BZQkgwT2czVExMRUpORmFYTWQzZThpQjZ5UVNmaXBPUHZmSGRIeVE?oc=5",
+      "source": "Business of Fashion",
+      "track": "culture",
+      "cat": "Fashion & Retail",
+      "publisher": "The Business of Fashion",
+      "via": true,
+      "pubDate": "2026-08-06T07:00:00.000Z",
+      "snippet": "Why Fashion Brands Need More Instagram Ads Than Ever The Business of Fashion"
     },
     {
       "id": "i_j4if64",
@@ -2454,10 +2454,10 @@
       "source": "Polygon",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "Polygon.com",
+      "publisher": "polygon.com",
       "via": true,
       "pubDate": "2026-08-05T07:00:00.000Z",
-      "snippet": "Big Walk Is for the Italians Polygon.com"
+      "snippet": "Big Walk Is for the Italians polygon.com"
     },
     {
       "id": "i_193qir",
@@ -2508,18 +2508,6 @@
       "snippet": "Alice Mollon/Ikon Images Marketing capabilities — the complex bundles of skills, processes, and organizational know-how that enable companies to implement customer-related activities and adapt to marketplace changes — are rated by marketing professionals as important to business "
     },
     {
-      "id": "i_a0a5t",
-      "title": "Honest Conversations About AI in Film Often Feel Impossible. IndieWire, Andreessen Horowitz, Cultural Leadership Fund, and Masters vs Machine Tackled the Challenge",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmE4eFVveVFzSF9scG00cE84WS1ScE9XeFozc2V5TnQtWm1HYWppTDFJSXVYMDdsSF9ta213ZlU2TmlSWHQxbnhyNUV2aklma3dOcHpONXVrN2lXVTk4b1A2aDVrUHZpUy16amJva25rNUlpVm5tWG50ZEQ0UWVXa2E4dVBtLXdHNjFHRzk4QmVVQlpIQk1vUl93V1RnYmgzTERN?oc=5",
-      "source": "IndieWire",
-      "track": "culture",
-      "cat": "Film & TV",
-      "publisher": "Yahoo",
-      "via": true,
-      "pubDate": "2026-08-03T07:00:00.000Z",
-      "snippet": "Honest Conversations About AI in Film Often Feel Impossible. IndieWire, Andreessen Horowitz, Cultural Leadership Fund, and Masters vs Machine Tackled the Challenge Yahoo"
-    },
-    {
       "id": "i_h3kudo",
       "title": "The Best Fashion Stores in the World",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQczh1b1VpSVFLaEdEcXI0QmVjREVhb0cwRzVLaWdJWjNvakxSaXFqUjg5Wm5PUDFNR19QU2Vnd19FdXoycllBMUlWZDdZczI4cUU5X0FDbi1helNLTjhOeUFXV2lBbTQ1ZzhiOFB5U3U0LVg5ZWxZLVR4Vm5BWEVDQ2gxQklOS29sTENDdXo5VS0?oc=5",
@@ -2540,7 +2528,7 @@
       "cat": "Talent",
       "publisher": "Mediabistro",
       "via": true,
-      "pubDate": "2026-08-01T07:00:00.000Z",
+      "pubDate": "2026-08-01T19:25:54.000Z",
       "snippet": "Mediabistro Weekly Drop: The Worldwide Leader In Severance Edition Mediabistro"
     },
     {
@@ -2616,30 +2604,6 @@
       "snippet": "AI use may improve engagement, but only under the right conditions HR Dive"
     },
     {
-      "id": "i_atevl0",
-      "title": "Korn Ferry Builds Leadership Foundation for LA28 Olympic and Paralympic Games",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYkJmMG5yeXhZZk9HdXJ6eWNWOHg1LUtiZE16RVJ1R01LOHdfY2xjNFZaSjJVOEJwTXZmNDR1R3RBeURkd2xBb2xNRlhzOVdxcnJuX21WU3QtTGRCaDhhajVBaWxlZ3JtaUVBOEJFT21lbWI5N0x5Y3c4ak13TTlZNVhKSENSMS1PT19oQ1Z6TWVNOGZYXzdka1QzemdqTlBnN2UwX0FNNGhNaXc?oc=5",
-      "source": "Korn Ferry Insights",
-      "track": "practice",
-      "cat": "Organisation Development",
-      "publisher": "finance.yahoo.com",
-      "via": true,
-      "pubDate": "2026-07-28T07:00:00.000Z",
-      "snippet": "Korn Ferry Builds Leadership Foundation for LA28 Olympic and Paralympic Games finance.yahoo.com"
-    },
-    {
-      "id": "i_dpajpj",
-      "title": "3 Questions to Pressure-Test Your Priorities",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xNEI4bWNMUV9PTUtlZTVuaThEMmdVU2lUbnhyRHptREZaUHRHbjdEeUc5SElfY2lhSWJlbWpBaVRVZHNNMFNENWV2N045VGRQblhjc05lM3dYQWx1ZW9NX0N3UE5PNUVXeUFfd3VUTDQ0QWVseXFJ?oc=5",
-      "source": "Harvard Business Review",
-      "track": "practice",
-      "cat": "Analyst & Research",
-      "publisher": "Harvard Business Review",
-      "via": true,
-      "pubDate": "2026-07-27T07:00:00.000Z",
-      "snippet": "3 Questions to Pressure-Test Your Priorities Harvard Business Review"
-    },
-    {
       "id": "i_8igwo8",
       "title": "Gartner Survey Finds AI Automation Is Reducing Some Entry Level Hiring at Nearly One-Quarter of Organizations",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdGQ3ZWFnZ0VKaDJFeXJ5MFVYT1NacEpCem9yTUgtem1uUTlZTTF0alE1QnVRcnNoZUt2SEwtTTBGZFdzTHVvZ09fS1hROTlCN2VTaXlVdG1XbndpU0RMSkxFTDZUUWdYOTNkQ3pCUmVBNG1tOG5ETkRwZEpIM2I4N1BuOUxzczhYcmhYUkRKSUVHbklZSXY4RXJfdVY4cFMzbkRHeW5vT1pRb1pqZFhFd1BUemFGb3B6bzBvTHFZbXBxVVZha01jVUl1eTdxU1FzZGNCM1FzREo0dDhRQ05wNHFZbVJfRzF6bXBjRnFBb180ZUdXRG1yZFFpRExGSXM?oc=5",
@@ -2686,18 +2650,6 @@
       "via": true,
       "pubDate": "2026-07-26T07:00:00.000Z",
       "snippet": "Employee engagement hits lowest level since 2020, costing world $10 trillion eciks.org"
-    },
-    {
-      "id": "i_ycdqwl",
-      "title": "Heritage as the cornerstone of destination branding",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlRKb3pOYnV3VTRQXzZoT2FoOHFXc0hDZmUtdHA3d0hrdTNNWk5vOHVXR0htbV9jUVgyeEUyeTVhVXJuVW9NV0FNcERBelpTcGs4Qk5zbmxPUWh2b21sTWltTHV1VzkzX0piUWNqMVJoTVBBYXNmWUlNSVM3TFVoVGoycF9iMkdrV3NfdmxvSmlnV1U?oc=5",
-      "source": "Sport & brand culture",
-      "track": "culture",
-      "cat": "Sport",
-      "publisher": "Nhan Dan Online",
-      "via": true,
-      "pubDate": "2026-07-24T09:54:38.000Z",
-      "snippet": "Heritage as the cornerstone of destination branding Nhan Dan Online"
     },
     {
       "id": "i_bi7uth",
@@ -2814,10 +2766,10 @@
       "source": "Gallup Workplace",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "gallup.com",
+      "publisher": "Gallup.com",
       "via": true,
       "pubDate": "2026-07-21T07:00:00.000Z",
-      "snippet": "Employee Engagement Remains Flat as AI Adoption Accelerates gallup.com"
+      "snippet": "Employee Engagement Remains Flat as AI Adoption Accelerates Gallup.com"
     },
     {
       "id": "i_wrwcnn",
@@ -2850,10 +2802,10 @@
       "source": "Creative Review",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-07-20T07:00:00.000Z",
-      "snippet": "The age of ‘good enough’ is branding’s biggest problem Creative Review"
+      "snippet": "The age of ‘good enough’ is branding’s biggest problem creativereview.co.uk"
     },
     {
       "id": "i_j5krhl",
@@ -2934,10 +2886,10 @@
       "source": "ERE",
       "track": "practice",
       "cat": "Talent",
-      "publisher": "citybiz",
+      "publisher": "citybiz.co",
       "via": true,
       "pubDate": "2026-07-14T07:00:00.000Z",
-      "snippet": "ProvenBase Appoints Danielle Moseley as VP of Revenue and Business Development citybiz"
+      "snippet": "ProvenBase Appoints Danielle Moseley as VP of Revenue and Business Development citybiz.co"
     },
     {
       "id": "i_uzee2",
@@ -3018,10 +2970,10 @@
       "source": "McKinsey — People & Org",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2026-07-08T07:00:00.000Z",
-      "snippet": "From adoption to impact: Three horizons of AI transformation McKinsey & Company"
+      "snippet": "From adoption to impact: Three horizons of AI transformation mckinsey.com"
     },
     {
       "id": "i_zdzq93",
@@ -3108,18 +3060,6 @@
       "snippet": "The explosive AI market is changing everything, and even Handshake, the leader in university recruiting and early career growth, is taking the bait. Today Handshake acquired Uplimit, one of the pioneers in AI-native corporate learning, with a goal of building a massive AI skills "
     },
     {
-      "id": "i_omfzvx",
-      "title": "Serena Williams and the coming reckoning with GLP-1s and performance enhancement - The Athletic",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUEh3Tm54Wm5vOWhnUkVBUExMSEhQeF9lWEZJbExQNmVBaHlYVXZ4QV9Xa2laUzlXQk5oUkc2ekJIVzg3TS1PWTZWSlJKQTJtemxRUWtpOTVCTUd0UzlBdXlydXN0U3J1SGpsM0FMcjhDMjA5THE3SjBPZ3ZYUW15WTg4N2JQZ3ZwOVE3Rl9TbEo3dWlOWUZuQklBVXB0SG10QXFQb1pINHotdXlQQXBNajZRYUp3dm5wS2dB?oc=5",
-      "source": "The Athletic — Culture",
-      "track": "culture",
-      "cat": "Sport",
-      "publisher": "The New York Times",
-      "via": true,
-      "pubDate": "2026-06-30T07:00:00.000Z",
-      "snippet": "Serena Williams and the coming reckoning with GLP-1s and performance enhancement - The Athletic The New York Times"
-    },
-    {
       "id": "i_e8l56f",
       "title": "Are Frontier Models Becoming A Commodity?",
       "link": "https://joshbersin.com/2026/06/are-frontier-models-becoming-a-commodity/",
@@ -3138,10 +3078,10 @@
       "source": "Korn Ferry Insights",
       "track": "practice",
       "cat": "Organisation Development",
-      "publisher": "citybiz",
+      "publisher": "citybiz.co",
       "via": true,
-      "pubDate": "2026-06-29T12:00:11.000Z",
-      "snippet": "Korn Ferry to Acquire AMS in $1.1 Billion Deal to Expand Global Talent Solutions Platform citybiz"
+      "pubDate": "2026-06-29T07:00:00.000Z",
+      "snippet": "Korn Ferry to Acquire AMS in $1.1 Billion Deal to Expand Global Talent Solutions Platform citybiz.co"
     },
     {
       "id": "i_qb114w",
@@ -3156,16 +3096,28 @@
       "snippet": "Are ChatGPT and other AI chatbots politically biased? We tested them. The Washington Post"
     },
     {
+      "id": "i_awywqa",
+      "title": "The Two-Organizations Problem",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lcEV1OThobFJ1MDJHbDdUOFd5ZllKd3lDbVVIZG5idkJyUXEwX2hQb3BBU0MxbnNXdVpleWJyeTJpU2FGbkFWdDJLZDZ4ZDI1MC1scVhHVU5kZGNEclRaUDhKQQ?oc=5",
+      "source": "Harvard Business Review",
+      "track": "practice",
+      "cat": "Analyst & Research",
+      "publisher": "Harvard Business Review",
+      "via": true,
+      "pubDate": "2026-06-26T07:00:00.000Z",
+      "snippet": "The Two-Organizations Problem Harvard Business Review"
+    },
+    {
       "id": "i_p4mmbr",
       "title": "Workers with this mindset are thriving in the AI era, says BCG leader",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1Z1TGlocXJnd0JUZnE1cmFvb2lCN3NPUlNVM2NLMmVVemdrYmFmQmxXWE5XNW9GU2xJd0UxY1dja1VQTjVhNGlhbFVwYjBhbFdPdjF1S2dmNG5WbDB5TjQwVlAwLUVUU2JkZnJ6dUhPM2J6enl0Y3Mzcmc4Z2k1TXV1TkZ2N1F6NTZjTXVjcEtIRG4tUTBaUzRDYUdmVmlxUUE?oc=5",
       "source": "BCG — People & Org",
       "track": "practice",
       "cat": "Organisation Development",
-      "publisher": "businessinsider.com",
+      "publisher": "Business Insider",
       "via": true,
       "pubDate": "2026-06-26T07:00:00.000Z",
-      "snippet": "Workers with this mindset are thriving in the AI era, says BCG leader businessinsider.com"
+      "snippet": "Workers with this mindset are thriving in the AI era, says BCG leader Business Insider"
     },
     {
       "id": "i_gn7iuj",
@@ -3222,10 +3174,10 @@
       "source": "Design Week",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Design Week",
+      "publisher": "designweek.co.uk",
       "via": true,
       "pubDate": "2026-06-23T07:00:00.000Z",
-      "snippet": "FutureBrand develops new brand ecosystem for Riyadh Air Design Week"
+      "snippet": "FutureBrand develops new brand ecosystem for Riyadh Air designweek.co.uk"
     },
     {
       "id": "i_nd4yf3",
@@ -3282,10 +3234,10 @@
       "source": "Design Week",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Design Week",
+      "publisher": "designweek.co.uk",
       "via": true,
       "pubDate": "2026-06-17T07:00:00.000Z",
-      "snippet": "Coca-Cola’s vibrant visual identity and packaging for FIFA ’26 Design Week"
+      "snippet": "Coca-Cola’s vibrant visual identity and packaging for FIFA ’26 designweek.co.uk"
     },
     {
       "id": "i_ezsqr1",
@@ -3294,10 +3246,10 @@
       "source": "Design Week",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Design Week",
+      "publisher": "designweek.co.uk",
       "via": true,
       "pubDate": "2026-06-16T07:00:00.000Z",
-      "snippet": "KFC partner with JKR for major global brand identity overhaul Design Week"
+      "snippet": "KFC partner with JKR for major global brand identity overhaul designweek.co.uk"
     },
     {
       "id": "i_ncdudv",
@@ -3342,10 +3294,10 @@
       "source": "ERE",
       "track": "practice",
       "cat": "Talent",
-      "publisher": "The National Law Review",
+      "publisher": "natlawreview.com",
       "via": true,
       "pubDate": "2026-06-12T00:42:05.000Z",
-      "snippet": "The ERE Recruiting Innovation Summit Returns to San Diego as AI Reshapes the Future of Talent Acquisition The National Law Review"
+      "snippet": "The ERE Recruiting Innovation Summit Returns to San Diego as AI Reshapes the Future of Talent Acquisition natlawreview.com"
     },
     {
       "id": "i_dhsdho",
@@ -3414,22 +3366,10 @@
       "source": "Sport & brand culture",
       "track": "culture",
       "cat": "Sport",
-      "publisher": "It's Nice That",
+      "publisher": "itsnicethat.com",
       "via": true,
       "pubDate": "2026-06-09T07:00:00.000Z",
-      "snippet": "Mamdani’s NYC World Cup campaign is inspired by sports memorabilia, city signage, the subway and the five boroughs It's Nice That"
-    },
-    {
-      "id": "i_pc9zoz",
-      "title": "In Senegal, the national team is ‘the drug of the people’. They will bring joy and noise to this World Cup - The Athletic",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3RHSEd4eE9XbXBQcmk0SXprRXVEYWxmSHV0d1hmbWJmZ0ZRa3BveDFnWnc3WEFoUklYbGFRWlA2eFd1TDNNNlBob3FYYjAza0pUQ09FRHlYMHlFYlpFWW1sTTgyX2JYdE5mZXU3NWtRWTFBRWwyOXgyRnp5cVVOTw?oc=5",
-      "source": "The Athletic — Culture",
-      "track": "culture",
-      "cat": "Sport",
-      "publisher": "The New York Times",
-      "via": true,
-      "pubDate": "2026-06-09T07:00:00.000Z",
-      "snippet": "In Senegal, the national team is ‘the drug of the people’. They will bring joy and noise to this World Cup - The Athletic The New York Times"
+      "snippet": "Mamdani’s NYC World Cup campaign is inspired by sports memorabilia, city signage, the subway and the five boroughs itsnicethat.com"
     },
     {
       "id": "i_nolgwe",
@@ -3450,10 +3390,10 @@
       "source": "McKinsey — People & Org",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2026-06-08T07:00:00.000Z",
-      "snippet": "HR Monitor 2026: A turning point for the people function McKinsey & Company"
+      "snippet": "HR Monitor 2026: A turning point for the people function mckinsey.com"
     },
     {
       "id": "i_5snm39",
@@ -3642,10 +3582,10 @@
       "source": "Pentagram",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "learn.g2.com",
+      "publisher": "G2 Learning Hub",
       "via": true,
       "pubDate": "2026-05-29T07:00:00.000Z",
-      "snippet": "8 Leading Branding Agencies for IT Services Growth in 2026 learn.g2.com"
+      "snippet": "8 Leading Branding Agencies for IT Services Growth in 2026 G2 Learning Hub"
     },
     {
       "id": "i_m4xqvn",
@@ -3666,10 +3606,10 @@
       "source": "Sport & brand culture",
       "track": "culture",
       "cat": "Sport",
-      "publisher": "Sportfive",
+      "publisher": "sportfive.com",
       "via": true,
       "pubDate": "2026-05-28T07:00:00.000Z",
-      "snippet": "Changing Gears: Analysing Cycling's Sponsorship Landscape in 2026 Sportfive"
+      "snippet": "Changing Gears: Analysing Cycling's Sponsorship Landscape in 2026 sportfive.com"
     },
     {
       "id": "i_jm5kyn",
@@ -3682,6 +3622,18 @@
       "via": true,
       "pubDate": "2026-05-26T07:00:00.000Z",
       "snippet": "DS Group’s Rajeev Jain on why FMCG brands must move from ads to content afaqs!"
+    },
+    {
+      "id": "i_khg3w2",
+      "title": "What a Spider Can Teach Cinematographers About Film Noir",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelRwa1djcFFPUkxYVXhyQjN4SERGUURXVG55M3BqcGlYTzBvbGF5LUxVZjVmV2IxTUh1eGFWSXZmRElCVlYxWjdpaDRBaDZ1S0wyX2JJV19famFNNGltSEI4VVBmbXJEejNvMXY0bzhlZkF2RkFPYzBHdEpsWm1NQ1ZtYTRFTjdNRVNnRXk3enFrTGs?oc=5",
+      "source": "IndieWire",
+      "track": "culture",
+      "cat": "Film & TV",
+      "publisher": "IndieWire",
+      "via": true,
+      "pubDate": "2026-05-26T07:00:00.000Z",
+      "snippet": "What a Spider Can Teach Cinematographers About Film Noir IndieWire"
     },
     {
       "id": "i_hvp3co",
@@ -3738,10 +3690,10 @@
       "source": "Korn Ferry Insights",
       "track": "practice",
       "cat": "Organisation Development",
-      "publisher": "Consultancy-me.com",
+      "publisher": "consultancy-me.com",
       "via": true,
       "pubDate": "2026-05-22T07:00:00.000Z",
-      "snippet": "Gulf organisations race ahead on AI adoption, but scaling and workforce gaps persist Consultancy-me.com"
+      "snippet": "Gulf organisations race ahead on AI adoption, but scaling and workforce gaps persist consultancy-me.com"
     },
     {
       "id": "i_j54gyw",
@@ -3804,6 +3756,18 @@
       "snippet": "Telemundo Evolves Brand Identity for FIFA World Cup 2026 Little Black Book | LBBOnline"
     },
     {
+      "id": "i_pgiqsk",
+      "title": "‘Toxic’ to title: Inside Arsenal’s first Premier League for 22 years and how they nailed their ‘win window’ - The Athletic",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTNZTE44WjE4MmpKS1hmTDloQW9UV0FUMjZRUWtDbXZYWnJzTnQ5YXg5MzYzZVFVVWZ0TWpGSGZ2Tm15U3RRb1RNMkh3YVMwN1FCc0ZXbi1lZnY5ZE5QaktLRFFFV1U5SmxYX1FQaFBYTGI3bnctUzdtZ0VYQ3pGaVNfekxOOU1XTEhJay1fRUdEd29ianZz?oc=5",
+      "source": "The Athletic — Culture",
+      "track": "culture",
+      "cat": "Sport",
+      "publisher": "The New York Times",
+      "via": true,
+      "pubDate": "2026-05-20T07:00:00.000Z",
+      "snippet": "‘Toxic’ to title: Inside Arsenal’s first Premier League for 22 years and how they nailed their ‘win window’ - The Athletic The New York Times"
+    },
+    {
       "id": "i_gxnzun",
       "title": "The Sports Bra revolutionized the bar scene. Now, it’s seeking the public’s help to raise $1.2m - The Athletic",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUWU4VGlMZHE4cVVFYnBpbTBjb0dtOVllU3ZaTnpIWVF5RnJlRk1JeUdCbFJvQU9TT0tNRUFuV0FFSThSbjdvZ3VzNzZ1V2pHQ0t3QUhLc1ZDSGdpRUtzUjZzVEhJNlFsNndYdkVYU1BKTGR4djI5ZGk1X3NkYWo0RkY2NGpyMGtWQmthZW5waUZtdkY1TjVuWlJmUEtqQnFWRVRF?oc=5",
@@ -3838,6 +3802,18 @@
       "via": true,
       "pubDate": "2026-05-19T07:00:00.000Z",
       "snippet": "Food retail trends 2026: Why Gen Z no longer shops by aisle BakeryAndSnacks.com"
+    },
+    {
+      "id": "i_hmag9z",
+      "title": "Marathon Sports Unveils New Brand Identity in 51st Year",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnRCYjZMOVg1Q0c1dkJ5Q3RPUVpodUJGcXBzQXFlTWFqWno2NThObjlmVnlBYXRGQ0NCMUdCQ3hBcXJ3d1QxYXgxUHBhX0JJVnIxSDVNUjVscVhJd2NNRGlrRHhSVjNiSUpKUTRjQmFySHhEUHhmV29KVDZXMmo4WkZQMXZtS0hFYktFS25PZi1YTjNmekE?oc=5",
+      "source": "Sport & brand culture",
+      "track": "culture",
+      "cat": "Sport",
+      "publisher": "SGB Media",
+      "via": true,
+      "pubDate": "2026-05-18T07:00:00.000Z",
+      "snippet": "Marathon Sports Unveils New Brand Identity in 51st Year SGB Media"
     },
     {
       "id": "i_r97zpf",
@@ -3924,18 +3900,6 @@
       "snippet": "Why right now is the most exciting moment in years to build an employer brand. There are moments in any industry when the rules quietly rewrite themselves. When the advantages that used to belong to the biggest players suddenly belong to whoever moves with the most intention. We "
     },
     {
-      "id": "i_d664rb",
-      "title": "Texas Tech is college softball’s new villain — and the Red Raiders don’t care - The Athletic",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmc4Zlc3U01TV29IbUV2M3JXaDM5V0hfdzRsdGZHSGdBam5McVo2aVhqZjNJMkt3YWwyY1FOaXlBNmI5YVIxVHhRaTJPZUE2RVVXaHcwaExPS2ZlLWdWejJpYXN5Rm1FUWtVcUI1Z1cxY0o1a0FTQW9ZWGdhWkNuUjV6dFFiZ2c4REotVW5mc25aYm5FaUt0Vw?oc=5",
-      "source": "The Athletic — Culture",
-      "track": "culture",
-      "cat": "Sport",
-      "publisher": "The New York Times",
-      "via": true,
-      "pubDate": "2026-05-14T07:00:00.000Z",
-      "snippet": "Texas Tech is college softball’s new villain — and the Red Raiders don’t care - The Athletic The New York Times"
-    },
-    {
       "id": "i_8aluzy",
       "title": "How Employer Brands Build Loyalty in Life’s Hardest Moments",
       "link": "https://bluivygroup.com/blog/how-employer-brands-build-loyalty-in-lifes-hardest-moments/",
@@ -3946,6 +3910,18 @@
       "via": false,
       "pubDate": "2026-05-13T19:36:05.000Z",
       "snippet": "Employer Branding Strategy, Leadership Reputation and Workplace Culture in North America As organizations across the United States and Canada navigate rising burnout, workforce transformation, return-to-office mandates, and evolving expectations around leadership reputation, empl"
+    },
+    {
+      "id": "i_j22xlw",
+      "title": "Reimagining workplace design to strengthen culture, collaboration and belonging",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xU010VURCOUJibzQyZDUtcWlqdmVhZEFraHhPMTZNVGpyOUIxRG5MMjdrcFE4bHdnRlNCTnJ2MWlFdXU0MFJmTldNNXZ3d1UzMVNkamMtZXJCX3M3cjA2M3VQRkNUVHNQ?oc=5",
+      "source": "Workplace design",
+      "track": "culture",
+      "cat": "Architecture & Space",
+      "publisher": "jacobs.com",
+      "via": true,
+      "pubDate": "2026-05-13T17:40:31.000Z",
+      "snippet": "Reimagining workplace design to strengthen culture, collaboration and belonging jacobs.com"
     },
     {
       "id": "i_1v5a0b",
@@ -4026,10 +4002,10 @@
       "source": "Creative Review",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-05-07T08:30:53.000Z",
-      "snippet": "Most Creative Design Agency: Design Bridge and Partners Creative Review"
+      "snippet": "Most Creative Design Agency: Design Bridge and Partners creativereview.co.uk"
     },
     {
       "id": "i_91mars",
@@ -4152,9 +4128,9 @@
       "snippet": "Human Capital Trends 2026 Deloitte"
     },
     {
-      "id": "i_wfquq9",
+      "id": "i_c65duk",
       "title": "Gen Z’s Workplace Priorities Are Different — HR Has to Keep Up",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3otYnN2cnROanVSVnhHVExybEVocWd2WTlQRUlhVWUzZFZ5UnZLX19vSnE3RC02RVFtalBoVFJzOC1UTldUcHRMSWk4cWhSaXQ5c2VBN3prVThVbXVkbGk4aTBLMFd4RDljZkdYbUxtRXdKajYyeEc5cDNfSEdRQzhZcXAtUDZzcUowOEZsSF9pVGRYQWd2UC1vVjBZWmh3dTNNdGpZdVRpcmhrOTJ0SEZyaWliYUxycDE3Sw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFRtMHZlWGpIU2piVnQ0OVBPUmMtM2NFYmhERGNSY0FyUGdUbHZGVWxHSE9WVDBUeE5jNzVDek1aaVZvMUR2MDh5eDdpTGR1dGpYZ0cwSFJNTnFtNk8zYWFQNHR3M3BzMk5XdGl3OC1hTjhIVVZwRTVyY3FOcVBfNzR3c1M1OXVlLUluSDlrTkpqZmpyczhFbUctcjFzUExsSFNWbXc3b1NUTG1FUFhIUU1iclZJZGc1OElQanVMR1V5bnc?oc=5",
       "source": "SHRM",
       "track": "practice",
       "cat": "Analyst & Research",
@@ -4174,18 +4150,6 @@
       "via": true,
       "pubDate": "2026-04-30T07:00:00.000Z",
       "snippet": "Silver Pride Cinema Festival returning to Wilmington in May Port City Daily"
-    },
-    {
-      "id": "i_5zwcvv",
-      "title": "Airwallex and Arsenal transform sponsorship into culturally relevant branded entertainment through the Who Are Ya? campaign",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRXFKcDVPX25hSS1HNGZiQ1N2SURLaWF2OUNtVElLckk4Rlo5b19vMmdIRXhuMjk4ZWpZTFBad0xBWGR1dVQ1bHlBNFkxU3FuZFZUbFdPVXQyWTBUSTFIUnNQcGM0OG42MGtzVUlPWEhVN3FUMnBqaTRubE9oMG5WTTlKeDUyZWUyN2VZdXdsOFgyOHRLenRraWhtalNMYTdrSFV6bmU5aGJrb2FockVVRVhKUXJjLURwS1M3TGhzNjhiS0RsTFZBY3MzbEFUZzBvSXA4Z0dwQk5SYkt6ZGhyTkxlUU5yci1QdTU5QUxUakk4bWxZcHc?oc=5",
-      "source": "Sport & brand culture",
-      "track": "culture",
-      "cat": "Sport",
-      "publisher": "media-marketing.com",
-      "via": true,
-      "pubDate": "2026-04-30T07:00:00.000Z",
-      "snippet": "Airwallex and Arsenal transform sponsorship into culturally relevant branded entertainment through the Who Are Ya? campaign media-marketing.com"
     },
     {
       "id": "i_hf2bpv",
@@ -4326,10 +4290,10 @@
       "source": "Pentagram",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-04-23T07:00:00.000Z",
-      "snippet": "New St Paul’s Cathedral identity blends past and present Creative Review"
+      "snippet": "New St Paul’s Cathedral identity blends past and present creativereview.co.uk"
     },
     {
       "id": "i_k8u752",
@@ -4380,18 +4344,6 @@
       "snippet": "Digitalspielkultur | Academic analysis and YouTube essays TITEL kulturmagazin"
     },
     {
-      "id": "i_wz24ol",
-      "title": "NFL’s custom scouting systems tell the story of the sport’s changing technology",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUlieDU2QjliU0tVWk9zcW5nR3lyVEdnV2FPcUZHTTJ1U1NhaDZIRGw1N2Q5Qk52LUNFUzE0MVZzcDR6TWpPUzRlWUxvWU1SdFR0akp1ZUs1c1FkcUd4OVh0OEF4OTN6SDdYTnJoZTBzVzEzdDBJWU9na2VibngxbWRfOWJNb292MnlkNURveG9YaHp0R1E5d1VOMmN2UzNQbmxUbUxpbExNOUZnR1pyOE1MMA?oc=5",
-      "source": "The Athletic — Culture",
-      "track": "culture",
-      "cat": "Sport",
-      "publisher": "The New York Times",
-      "via": true,
-      "pubDate": "2026-04-21T07:00:00.000Z",
-      "snippet": "NFL’s custom scouting systems tell the story of the sport’s changing technology The New York Times"
-    },
-    {
       "id": "i_3zsv7n",
       "title": "Could Microsoft Win The War For Enterprise AI?",
       "link": "https://joshbersin.com/2026/04/could-microsoft-win-the-war-for-enterprise-ai/",
@@ -4414,18 +4366,6 @@
       "via": true,
       "pubDate": "2026-04-17T07:00:00.000Z",
       "snippet": "Why Corporate America Desperately Needs Storytellers Mediabistro"
-    },
-    {
-      "id": "i_pf15qz",
-      "title": "How the ‘Blue Heron’ Editor Turned the Director’s Childhood Into One of 2026’s Best Films",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcnpWZFBHWVFCRndRWGUzQTJTcWp4cEo4WHptbHp1VnJMQVFYcjJYdy01V2VCWVc4NWpMVWlPcnVRS1pid3BiQWVzX2dIcmMtVmd2UmdjbUVzekY5WEJCZ2tVMy1mSnFfMFdtalJSeVY2NFliYTcyWXd1ZEozdmFUUjI0UC15QWE5OG9Bb3NlQjNlSzNuTno4?oc=5",
-      "source": "IndieWire",
-      "track": "culture",
-      "cat": "Film & TV",
-      "publisher": "IndieWire",
-      "via": true,
-      "pubDate": "2026-04-17T07:00:00.000Z",
-      "snippet": "How the ‘Blue Heron’ Editor Turned the Director’s Childhood Into One of 2026’s Best Films IndieWire"
     },
     {
       "id": "i_sd5m78",
@@ -4482,10 +4422,10 @@
       "source": "Design Week",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "designboom.com",
+      "publisher": "Designboom",
       "via": true,
       "pubDate": "2026-04-16T07:00:00.000Z",
-      "snippet": "how spanish ceramics bridge culture, memory and identity at milan design week 2026 designboom.com"
+      "snippet": "how spanish ceramics bridge culture, memory and identity at milan design week 2026 Designboom"
     },
     {
       "id": "i_rr712w",
@@ -4530,10 +4470,10 @@
       "source": "Polygon",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "Polygon.com",
+      "publisher": "polygon.com",
       "via": true,
       "pubDate": "2026-04-13T07:00:00.000Z",
-      "snippet": "Islamic history becomes video game wonder in this lovely new puzzle platformer Polygon.com"
+      "snippet": "Islamic history becomes video game wonder in this lovely new puzzle platformer polygon.com"
     },
     {
       "id": "i_4f4eu1",
@@ -4590,22 +4530,10 @@
       "source": "McKinsey — People & Org",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2026-04-06T07:00:00.000Z",
-      "snippet": "How AI is—and isn’t—changing the future of work McKinsey & Company"
-    },
-    {
-      "id": "i_jb04et",
-      "title": "Dusty May watched film with a former principal. It’s a secret to Michigan’s success - The Athletic",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTJtLXNXSFByaU1JVUZSMlZZV2NpLWVFcUpRR3lmejl1Y3lBS0tKa2V3bmNvb0J1dVRDTzIwaGFTWlFxaC1DcEZ5OU1OX0FpUkxDN2k3WTJFajVKTnlkdDZKMTVxb2xDOWI5amZLTzNreXhPRmtIaHY0SjBHWUdWSFBacU9lVFo3amZNR1Y2aDJIVERxc29oaFNBdmVMRHk0ZThN?oc=5",
-      "source": "The Athletic — Culture",
-      "track": "culture",
-      "cat": "Sport",
-      "publisher": "The New York Times",
-      "via": true,
-      "pubDate": "2026-04-05T07:00:00.000Z",
-      "snippet": "Dusty May watched film with a former principal. It’s a secret to Michigan’s success - The Athletic The New York Times"
+      "snippet": "How AI is—and isn’t—changing the future of work mckinsey.com"
     },
     {
       "id": "i_ddgr4t",
@@ -4614,10 +4542,10 @@
       "source": "Creative Review",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-04-03T07:00:00.000Z",
-      "snippet": "How design can help cut through noise in an emergency Creative Review"
+      "snippet": "How design can help cut through noise in an emergency creativereview.co.uk"
     },
     {
       "id": "i_div39a",
@@ -4644,16 +4572,28 @@
       "snippet": "Coinbase advertisement ‘Your Way Out’ blends cinema with low-poly game visuals The Cryptonomist"
     },
     {
+      "id": "i_afpp1e",
+      "title": "How to Find Leaders Early Using Neuroscience and AI",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNjl4RS1QRjJHMFhjWUJUMXFvMVlzNHpBMkxGTmxhZmNDMkF6U0NaaVNxVGFzanc1SWVSWW9fNkRqZXI5cXEtcTBNUXV0Qk9VaTZEdGxnRDdWZzczT2ZqdG5YS2RaQzFOSU13RkRheXFHVGVHc3JuaklNSTR2SmF2V1VqRlAwMHlqZEZ6LTdBYjh6d2NvVEE0Umk1bkw?oc=5",
+      "source": "Korn Ferry Insights",
+      "track": "practice",
+      "cat": "Organisation Development",
+      "publisher": "Knowledge at Wharton",
+      "via": true,
+      "pubDate": "2026-03-31T07:00:00.000Z",
+      "snippet": "How to Find Leaders Early Using Neuroscience and AI Knowledge at Wharton"
+    },
+    {
       "id": "i_fe565h",
       "title": "Swang x Jordan Brand Partnership Reframes Golf Through Culture and Community",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWlZna19MQTB3ZHM3X1FBRlVnZzViXy01WDhOT3RmcnVWcWIyOTZCTXRRY2ZKSzBWeVNDSGc4dVNKWXpQcnF3TUhLTXB1a0RrMjBQQ2xJMzljbi1yZDBDR3lrdjJwbTRLb1AtQkp5VEl3LWFOYThFOThNX1lhTy16ODdtQjhGenVjOXFXOWtueFQ5VDgtY3lFNUNrTmZsc2lfcTlwYUJmellEWmp0?oc=5",
       "source": "Music & brand culture",
       "track": "culture",
       "cat": "Music",
-      "publisher": "stupidDOPE",
+      "publisher": "stupiddope.com",
       "via": true,
       "pubDate": "2026-03-31T07:00:00.000Z",
-      "snippet": "Swang x Jordan Brand Partnership Reframes Golf Through Culture and Community stupidDOPE"
+      "snippet": "Swang x Jordan Brand Partnership Reframes Golf Through Culture and Community stupiddope.com"
     },
     {
       "id": "i_7nafj0",
@@ -4686,10 +4626,10 @@
       "source": "Garbage Day / newsletter culture",
       "track": "culture",
       "cat": "Tech & Internet Culture",
-      "publisher": "goodthingsguy.com",
+      "publisher": "Good Things Guy",
       "via": true,
       "pubDate": "2026-03-27T07:00:00.000Z",
-      "snippet": "How 7 Dogs Became a Story The Internet Got Wrong (But it’s Still Good News) goodthingsguy.com"
+      "snippet": "How 7 Dogs Became a Story The Internet Got Wrong (But it’s Still Good News) Good Things Guy"
     },
     {
       "id": "i_fsshru",
@@ -4698,10 +4638,10 @@
       "source": "Creative Review",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-03-25T16:14:32.000Z",
-      "snippet": "Annual Awards 2026 Design Shortlist Creative Review"
+      "snippet": "Annual Awards 2026 Design Shortlist creativereview.co.uk"
     },
     {
       "id": "i_fhmbm",
@@ -4710,10 +4650,10 @@
       "source": "Internet culture & memes",
       "track": "culture",
       "cat": "Tech & Internet Culture",
-      "publisher": "openthemagazine.com",
+      "publisher": "Open Magazine",
       "via": true,
       "pubDate": "2026-03-25T07:00:00.000Z",
-      "snippet": "Bachcha, Brands & the missing Baap: When Moment Marketing lasts only for a moment openthemagazine.com"
+      "snippet": "Bachcha, Brands & the missing Baap: When Moment Marketing lasts only for a moment Open Magazine"
     },
     {
       "id": "i_vmh0e8",
@@ -4738,6 +4678,18 @@
       "via": true,
       "pubDate": "2026-03-23T07:00:00.000Z",
       "snippet": "In the new reality of work, success will belong to organizations that build their strategy around human advantage Deloitte"
+    },
+    {
+      "id": "i_w88qqz",
+      "title": "The LA Effect: Ohtani, Son, and the New Wave of Asian Sponsorship in US Sports",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGRUVjR0ZFdGUi1ON0NRUFB1MVd0RFhFWnRmd3Yxakxkb0dZanZ6WGhaWUg0RU9OTV9neDE1eElvVGJnbXVwYUtRei05ako2RUprZ1JpSWdKSF8xcjlEYmQ1VXNyQ2JZMVJ2OXBLM3BpbnE1Y0ttUzUyemVTMUJwWDJzV1lDaEtJRV9XSktTTzdHd3ZfRDBVc1pwQlJNXzZ0UTRBd1hnUDR2Wl91RWxPeTRMcmRXX3pG?oc=5",
+      "source": "Sport & brand culture",
+      "track": "culture",
+      "cat": "Sport",
+      "publisher": "sportcal.com",
+      "via": true,
+      "pubDate": "2026-03-23T07:00:00.000Z",
+      "snippet": "The LA Effect: Ohtani, Son, and the New Wave of Asian Sponsorship in US Sports sportcal.com"
     },
     {
       "id": "i_8isvvl",
@@ -4818,10 +4770,10 @@
       "source": "Retail & brand experience",
       "track": "culture",
       "cat": "Fashion & Retail",
-      "publisher": "designboom.com",
+      "publisher": "Designboom",
       "via": true,
       "pubDate": "2026-03-13T07:00:00.000Z",
-      "snippet": "el departamento stages berlin nightlife inside nude project’s flagship store designboom.com"
+      "snippet": "el departamento stages berlin nightlife inside nude project’s flagship store Designboom"
     },
     {
       "id": "i_b9e19s",
@@ -4878,10 +4830,10 @@
       "source": "Universum",
       "track": "practice",
       "cat": "Employer Brand",
-      "publisher": "Graduate Management Admission Council",
+      "publisher": "gmac.com",
       "via": true,
       "pubDate": "2026-03-10T23:14:40.000Z",
-      "snippet": "Apple, Google, & J.P. Morgan are the world’s most attractive employers Graduate Management Admission Council"
+      "snippet": "Apple, Google, & J.P. Morgan are the world’s most attractive employers gmac.com"
     },
     {
       "id": "i_6ndz3k",
@@ -5142,10 +5094,10 @@
       "source": "McKinsey — People & Org",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2026-02-19T08:00:00.000Z",
-      "snippet": "The State of Organizations 2026: Three tectonic forces that are reshaping organizations McKinsey & Company"
+      "snippet": "The State of Organizations 2026: Three tectonic forces that are reshaping organizations mckinsey.com"
     },
     {
       "id": "i_a50iz6",
@@ -5220,6 +5172,18 @@
       "snippet": "9 Outdated Diet Trends That Need to Be Retired ASAP, According to Dietitians EatingWell"
     },
     {
+      "id": "i_n03kmd",
+      "title": "Sports Media Career Guide | Who Wins in 2026",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFhyMklWSUdnSDRpUC1ocXU4YkdYQWRlaXBCOHNUNC1fUmt2a1hqVkNUazl5Yl8tNDc0YkZlS3FkczNuc0V1eU5ud2lFUGhxM0tEaVhmOWlTZTFjSWp0ZHNnLWpMWkhaWVRQMmtpTEEwNkhiTkJqdERXNm9LU0RCc1NxN3hsUDZIbDFfZFpWNi1qSDZEVTF3eUt5Sl9qaVE5UDNMVURvbVdzaGpLN1E?oc=5",
+      "source": "ERE",
+      "track": "practice",
+      "cat": "Talent",
+      "publisher": "Mediabistro",
+      "via": true,
+      "pubDate": "2026-02-12T08:00:00.000Z",
+      "snippet": "Sports Media Career Guide | Who Wins in 2026 Mediabistro"
+    },
+    {
       "id": "i_ez93zj",
       "title": "‘Good Luck, Have Fun, Don’t Die’ Tells Its Comic Nightmare Through Gorgeous Cinematography",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzZaaG9kamYzYmladF9ha2VDVDBvaUgxamp1SUM0X1oxaGpzbENrdWR4bVdNS0I4Y0dKM3NKMXotQktsa2VDTk9oaHpWcGlfbnRfUmJiS1UybFUxOUZzaGRDSnVVQU1lRjl1SGxtMENnR0hyWVpEano3d1NOVVdTX1Q3VXpuMklWWDE0MDVYVWNxUjNtZk14dHFQOTRPQTFvVU1xYWoxVHk?oc=5",
@@ -5232,16 +5196,16 @@
       "snippet": "‘Good Luck, Have Fun, Don’t Die’ Tells Its Comic Nightmare Through Gorgeous Cinematography IndieWire"
     },
     {
-      "id": "i_mpree3",
-      "title": "Why Fashion Needs to Stop Sleeping on YouTube",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV1M3bnRjUDlCNEFZYk10ZVdrLU1zYWdvV2xtclJtU3E5NHI5Nmt2TU1mdjAtN0NRLWRST1FMT1Bxdl9IQzBldFFCbmVsUTd6SGtyOTV3dDhaY3hjQmNDb2JPTWhuSU5ZODJsV1FHRDVXbGo0a3cxS0xTMkYxb2RwSU5TaGxLemF6Y2w0bWpxdVlkNWV1RDFrTEdBLTZPdw?oc=5",
-      "source": "Business of Fashion",
+      "id": "i_jn92o9",
+      "title": "The Seahawks didn’t just win the Super Bowl. They did something even more challenging - The Athletic",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWUI2Y0ctNXRndzNMMWg5bXJESnpUVTVHZGdkdkhrVklBMkNKeHpfSmpZR2sxNm9wQ2Eza240aC1BRlpYZXc2SVVSWGZidTcxT1FRNEFqWnlvc2V6bE4xWEZ1WHFNTGJFS3o5UWpqMkl0QkE4SjJCZWVGRTBmS1VlbGljWFVENlhfWFpPdm9EbENzdkprQTVxa0hERmdfdjJqcTBGcmRGQ25IWTZxcXU2SVdxVkxqQ21NbjVCTlBvNy1Td0tzRzNxSnJNMEdSMGJjWlE?oc=5",
+      "source": "The Athletic — Culture",
       "track": "culture",
-      "cat": "Fashion & Retail",
-      "publisher": "The Business of Fashion",
+      "cat": "Sport",
+      "publisher": "The New York Times",
       "via": true,
-      "pubDate": "2026-02-12T08:00:00.000Z",
-      "snippet": "Why Fashion Needs to Stop Sleeping on YouTube The Business of Fashion"
+      "pubDate": "2026-02-10T08:00:00.000Z",
+      "snippet": "The Seahawks didn’t just win the Super Bowl. They did something even more challenging - The Athletic The New York Times"
     },
     {
       "id": "i_bo4jti",
@@ -5262,10 +5226,10 @@
       "source": "Food & hospitality culture",
       "track": "culture",
       "cat": "Food & Hospitality",
-      "publisher": "Elle India",
+      "publisher": "elle.in",
       "via": true,
       "pubDate": "2026-02-06T08:00:00.000Z",
-      "snippet": "Siddhant Dhuwali: Building the Future of Experiential Hospitality in India Elle India"
+      "snippet": "Siddhant Dhuwali: Building the Future of Experiential Hospitality in India elle.in"
     },
     {
       "id": "i_c4r6t7",
@@ -5442,10 +5406,22 @@
       "source": "McKinsey — People & Org",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2026-01-23T08:00:00.000Z",
-      "snippet": "The link between organizational health and public sector performance McKinsey & Company"
+      "snippet": "The link between organizational health and public sector performance mckinsey.com"
+    },
+    {
+      "id": "i_dco73e",
+      "title": "The scientific case for ping-pong: Why athletes — and you — should play more table tennis",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0pqTEZsRlkwS3NnZUFHQjJHT08tTEo1eEU2ZVhyeU4wYVJLZEJfdVFLRFNpTjVNZU5EWDNVQ3gzdFhNbE5wVjBSV1BmUUNRajdLanoyaHU5Mjc0RldicERiNGlBR19JTjlIR0dKVHd4eGQtZzEtOWEtSFhsZEpiLVNHS3VHUzNvTUVvVEpUcUZ1eFF5YmtaQ1dyNjJVWjNiOE50WW9ZN1U?oc=5",
+      "source": "The Athletic — Culture",
+      "track": "culture",
+      "cat": "Sport",
+      "publisher": "The New York Times",
+      "via": true,
+      "pubDate": "2026-01-22T08:00:00.000Z",
+      "snippet": "The scientific case for ping-pong: Why athletes — and you — should play more table tennis The New York Times"
     },
     {
       "id": "i_xe2cta",
@@ -5622,10 +5598,10 @@
       "source": "Game design & narrative",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "Hampshire College",
+      "publisher": "hampshire.edu",
       "via": true,
       "pubDate": "2025-12-19T08:00:00.000Z",
-      "snippet": "Hampshire College Professor Jess Erion Is Narrative Designer of a New Virtual Reality Game Hampshire College"
+      "snippet": "Hampshire College Professor Jess Erion Is Narrative Designer of a New Virtual Reality Game hampshire.edu"
     },
     {
       "id": "i_v2n71y",
@@ -5652,16 +5628,28 @@
       "snippet": "Pentagram designs an uplifting identity for eVTOL brand Vertical Aerospace wallpaper.com"
     },
     {
+      "id": "i_mj04am",
+      "title": "IndieWire Craft Roundtables: The Production Designers Behind 2025’s Most Vivid Movies Discuss Their Processes",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmpRb3ZuY1UxcHlOVUFrSFNQb1ZEaU1SY01saG5JTl9uU1lvN09HVEc1c3lPNDQwTWlXTGhCbTFEQlZZQktkUkxHeUhxNzNITElvZ3o1Tlh3cExUWkZadGphNmw0MGxxaG1jS1cxTWpETHZuamZ5WlRBN2twV0RIWXJxMi1CUDhweHdQcWE0S0hramtIR2VYY1BzYmE?oc=5",
+      "source": "IndieWire",
+      "track": "culture",
+      "cat": "Film & TV",
+      "publisher": "IndieWire",
+      "via": true,
+      "pubDate": "2025-12-16T08:00:00.000Z",
+      "snippet": "IndieWire Craft Roundtables: The Production Designers Behind 2025’s Most Vivid Movies Discuss Their Processes IndieWire"
+    },
+    {
       "id": "i_za2dyp",
       "title": "The best ad campaigns of the year 2025",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByZEM3WHlyTXAwZkwyUnRHLVZpTTBYY2Q4MV9iUlRDYlltclhZQzhWSUFHRkQ5VFg3QzZwc19DTmNVZklSU1JvZ2M3TnRDUmVjcmdtMzFvZ2ZKWTVQbk5WYkhEcHJ6YjNuVHNkVUdhNW9GSTFHTTFSOUtMdE4?oc=5",
       "source": "Ads of the World",
       "track": "culture",
       "cat": "Advertising & Campaigns",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2025-12-12T08:00:00.000Z",
-      "snippet": "The best ad campaigns of the year 2025 Creative Review"
+      "snippet": "The best ad campaigns of the year 2025 creativereview.co.uk"
     },
     {
       "id": "i_wy5gol",
@@ -5676,16 +5664,28 @@
       "snippet": "Absolute Best…. Ad campaigns of 2025 marketing-beat.co.uk"
     },
     {
+      "id": "i_m5xrqz",
+      "title": "The Michigan Football Story Is Getting Worse By the Second. There’s Only One Solution.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkxBajF0X2Q0MkRKVWdyQlRpaEZuX0ZwYlgzZ3BwN1Y4NVBfbkNsMFZ0QmRTaVJ1RmlsTjNzdXVhOWVKQlg5V3JOdF9Td240MVE0clo5c1AtSy1CeTlFMTJRTmpoa0g4YVUzX1pyRGJjc0hLSlJsR0FfQW9hV2NXbjMxMDVmdHFUTDllYS1LYXBMeFk?oc=5",
+      "source": "The Athletic — Culture",
+      "track": "culture",
+      "cat": "Sport",
+      "publisher": "Slate",
+      "via": true,
+      "pubDate": "2025-12-12T08:00:00.000Z",
+      "snippet": "The Michigan Football Story Is Getting Worse By the Second. There’s Only One Solution. Slate"
+    },
+    {
       "id": "i_qy7aas",
       "title": "The Worst Food and Dining Trends of 2025, According to Eater Editors",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyc0liUENTSmVxZlJkdlV6MWs0elc4aUV6NDkyNW9rc21SOTNhalN5NF95X3RnUnhUQ09VRUJ6SlMzeVJILVp6YnNWbkV0VGIyTDB4b2dtdVBHcFh2SGUtV3REaU9aOVB0N2VfQ0ZmZTl0UnRVNDNNa1JaSUM?oc=5",
       "source": "Eater",
       "track": "culture",
       "cat": "Food & Hospitality",
-      "publisher": "eater.com",
+      "publisher": "Eater",
       "via": true,
       "pubDate": "2025-12-11T08:00:00.000Z",
-      "snippet": "The Worst Food and Dining Trends of 2025, According to Eater Editors eater.com"
+      "snippet": "The Worst Food and Dining Trends of 2025, According to Eater Editors Eater"
     },
     {
       "id": "i_ax73ew",
@@ -5694,10 +5694,10 @@
       "source": "Eater",
       "track": "culture",
       "cat": "Food & Hospitality",
-      "publisher": "eater.com",
+      "publisher": "Eater",
       "via": true,
       "pubDate": "2025-12-11T08:00:00.000Z",
-      "snippet": "The Best Food and Dining Trends of 2025, According to Eater Editors eater.com"
+      "snippet": "The Best Food and Dining Trends of 2025, According to Eater Editors Eater"
     },
     {
       "id": "i_724dun",
@@ -5706,10 +5706,10 @@
       "source": "McKinsey — People & Org",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2025-12-09T08:00:00.000Z",
-      "snippet": "Women in the Workplace 2025 report McKinsey & Company"
+      "snippet": "Women in the Workplace 2025 report mckinsey.com"
     },
     {
       "id": "i_7rxmu8",
@@ -5742,10 +5742,10 @@
       "source": "Gaming & brands",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "Sportfive",
+      "publisher": "sportfive.com",
       "via": true,
       "pubDate": "2025-12-03T08:00:00.000Z",
-      "snippet": "L’esport et le sponsoring : un marché en pleine accélération Sportfive"
+      "snippet": "L’esport et le sponsoring : un marché en pleine accélération sportfive.com"
     },
     {
       "id": "i_tqhwrc",
@@ -5754,10 +5754,10 @@
       "source": "McKinsey — People & Org",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2025-12-01T08:00:00.000Z",
-      "snippet": "Redefine AI upskilling as a change imperative McKinsey & Company"
+      "snippet": "Redefine AI upskilling as a change imperative mckinsey.com"
     },
     {
       "id": "i_v8cos4",
@@ -5808,6 +5808,18 @@
       "snippet": "Review: ‘Stranger Things’ Is Shrinking As It Nears the End Vulture"
     },
     {
+      "id": "i_djcnrj",
+      "title": "15 Best Sports TV Shows Of All Time, Ranked",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TZmwzTWhVaGFoTWF0c2lrR3UxY3dPUzBnMndiY1d1S1FxbjNGR0MxSDFCQ0xscTRqb19kTE9sc3pReUlhWDVyX3VLbVp3NVRSc2dNeVV5QzAtVkFfMEFwc0x5N1NKTVdIbHh3?oc=5",
+      "source": "The Athletic — Culture",
+      "track": "culture",
+      "cat": "Sport",
+      "publisher": "TVLine",
+      "via": true,
+      "pubDate": "2025-11-25T08:00:00.000Z",
+      "snippet": "15 Best Sports TV Shows Of All Time, Ranked TVLine"
+    },
+    {
       "id": "i_qxz3d9",
       "title": "From Meme to Marketing",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDQ0ZjdGUlFCM0pQdllMQzA0OWt3QzlkZWVfLWVTLVY1V0xnaEtvOGE2VlZhblNpTkZOZHUyY09RY0ZsdE1VQ3loX2IxNmxFejNDeW4wMlk4YldQbU5fWlJwTnFDdGFLOUo5ejdJWVlyNzZ2RXVzN1I2SDhxNXBLbg?oc=5",
@@ -5838,10 +5850,10 @@
       "source": "Film & TV craft",
       "track": "culture",
       "cat": "Film & TV",
-      "publisher": "ourculturemag.com",
+      "publisher": "Our Culture Mag",
       "via": true,
       "pubDate": "2025-11-20T08:00:00.000Z",
-      "snippet": "From a First Cut to a Lifelong Craft: Shiyi Xie’s Journey Into Editing ourculturemag.com"
+      "snippet": "From a First Cut to a Lifelong Craft: Shiyi Xie’s Journey Into Editing Our Culture Mag"
     },
     {
       "id": "i_80hw9m",
@@ -5850,10 +5862,10 @@
       "source": "McKinsey — People & Org",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2025-11-19T08:00:00.000Z",
-      "snippet": "Change is changing: How to meet the challenge of radical reinvention McKinsey & Company"
+      "snippet": "Change is changing: How to meet the challenge of radical reinvention mckinsey.com"
     },
     {
       "id": "i_6p64kl",
@@ -5874,10 +5886,10 @@
       "source": "Business of Fashion",
       "track": "culture",
       "cat": "Fashion & Retail",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2025-11-17T08:00:00.000Z",
-      "snippet": "The State of Fashion 2026: When the rules change McKinsey & Company"
+      "snippet": "The State of Fashion 2026: When the rules change mckinsey.com"
     },
     {
       "id": "i_qdw4eu",
@@ -5886,10 +5898,10 @@
       "source": "Pentagram",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "It's Nice That",
+      "publisher": "itsnicethat.com",
       "via": true,
       "pubDate": "2025-11-13T08:00:00.000Z",
-      "snippet": "Pentagram design Mozilla Foundation’s new internet-savvy editorial platform Nothing Personal It's Nice That"
+      "snippet": "Pentagram design Mozilla Foundation’s new internet-savvy editorial platform Nothing Personal itsnicethat.com"
     },
     {
       "id": "i_kjzh9m",
@@ -5958,10 +5970,10 @@
       "source": "Brand New (UnderConsideration)",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "It's Nice That",
+      "publisher": "itsnicethat.com",
       "via": true,
       "pubDate": "2025-10-29T07:00:00.000Z",
-      "snippet": "Bold.af: the Affinity rebrand blends personality and precision, relaunching with a bang It's Nice That"
+      "snippet": "Bold.af: the Affinity rebrand blends personality and precision, relaunching with a bang itsnicethat.com"
     },
     {
       "id": "i_vzn9t6",
@@ -5970,10 +5982,10 @@
       "source": "Ads of the World",
       "track": "culture",
       "cat": "Advertising & Campaigns",
-      "publisher": "musebyclios.com",
+      "publisher": "Muse by Clio",
       "via": true,
       "pubDate": "2025-10-27T07:00:00.000Z",
-      "snippet": "Let’s Watch Fintech Slay the Bureaucracy Monster musebyclios.com"
+      "snippet": "Let’s Watch Fintech Slay the Bureaucracy Monster Muse by Clio"
     },
     {
       "id": "i_66b2ha",
@@ -6030,10 +6042,10 @@
       "source": "Brand New (UnderConsideration)",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Hyperallergic",
+      "publisher": "hyperallergic.com",
       "via": true,
       "pubDate": "2025-10-10T07:00:00.000Z",
-      "snippet": "People Really Hate the Philadelphia Art Museum Rebrand Hyperallergic"
+      "snippet": "People Really Hate the Philadelphia Art Museum Rebrand hyperallergic.com"
     },
     {
       "id": "i_pl3ogd",
@@ -6150,10 +6162,10 @@
       "source": "McKinsey — People & Org",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2025-09-10T07:00:00.000Z",
-      "snippet": "Improving organizational health in Indian companies McKinsey & Company"
+      "snippet": "Improving organizational health in Indian companies mckinsey.com"
     },
     {
       "id": "i_axs5oi",
@@ -6216,6 +6228,18 @@
       "snippet": "Office design isn’t keeping up with post-COVID work styles - here’s what workers really want The Conversation"
     },
     {
+      "id": "i_mr9jcz",
+      "title": "Eventbrite’s colourful rebrand captures the spirit of joy and community",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXpwaGd3aGIyZlcyY29Cc001Zmk1OEZVWS1KQlJrTVVoRDNMaURydm0wQkVLR2RxeEVDbVFsZmlvbDJzME9oX2JYZnB5TTVUZ2xMVVNUNy1KUTI2MGVGandHUzhWYzExSTFHNUE5eWwwdVRFY2NNaXlrbWpicnQ3YVppNmcyOFFnVFgtZWlTdTNOM0ZQc2hGOW1ITGhXMzJSUmF5YXhsSjl6Uk9CdDNz?oc=5",
+      "source": "Brand New (UnderConsideration)",
+      "track": "culture",
+      "cat": "Design & Identity",
+      "publisher": "Creative Bloq",
+      "via": true,
+      "pubDate": "2025-03-05T08:00:00.000Z",
+      "snippet": "Eventbrite’s colourful rebrand captures the spirit of joy and community Creative Bloq"
+    },
+    {
       "id": "i_6tk5gy",
       "title": "FAI announces Christine Kenny as new Chief Operating Officer",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaXNvdVNaWGNGdnVKUkc5OE41MHlGOWw3Z3ZLSmozWG1HOWtMb1RzdVBJaDIwc05IM0JrT0h0VDRCNGJxaVJWQ0xpV3hPaDZWUUQwTUxqTFVlZlF2dUNGZDM2aW5Gdm12YzNrUU9uMVpGX3pHV3pGN2dWbHZuUF9ySHhZVkQ0eHVFTUNVVmtmd3Bvc09sSXo2NVlVNndyRHVkaE0yaW9GdnhYVFVuYzlISlBCc0NZcmZo?oc=5",
@@ -6250,18 +6274,6 @@
       "via": true,
       "pubDate": "2025-01-16T08:00:00.000Z",
       "snippet": "LinkedIn launches AI-powered ‘job match’ feature to simplify job search, recruitment Telangana Today"
-    },
-    {
-      "id": "i_bwibs7",
-      "title": "Welcome to TLNT.com: We’re Glad You’re Here",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5seTBvSVZndmlMbzFpVlI2MkNTa2tFZzBNYUp5cXFGem9nOW51T21USU9Cclo0OGlKenpoalk4T2wxY05BeThNLTdVUkp0SENkVUM3c2FwYzhNNFJ6N2ZYbFBMbGpuZU5meXZ0TWJ6elRKUkdac29Lcg?oc=5",
-      "source": "ERE",
-      "track": "practice",
-      "cat": "Talent",
-      "publisher": "ere.net",
-      "via": true,
-      "pubDate": "2025-01-02T10:12:16.000Z",
-      "snippet": "Welcome to TLNT.com: We’re Glad You’re Here ere.net"
     },
     {
       "id": "i_h0oub6",
@@ -6510,10 +6522,10 @@
       "source": "BCG — People & Org",
       "track": "practice",
       "cat": "Organisation Development",
-      "publisher": "businessinsider.com",
+      "publisher": "Business Insider",
       "via": true,
       "pubDate": "2024-06-29T07:00:00.000Z",
-      "snippet": "AI advice is the new moneymaker for consultants. Here's what BCG, Bain, and Deloitte are telling clients. businessinsider.com"
+      "snippet": "AI advice is the new moneymaker for consultants. Here's what BCG, Bain, and Deloitte are telling clients. Business Insider"
     },
     {
       "id": "i_ofohfm",
@@ -6696,18 +6708,6 @@
       "snippet": "Sad about Pitchfork? Try one of these classic collections of music writing. Literary Hub"
     },
     {
-      "id": "i_cc3c5b",
-      "title": "Crafting company culture: The power of workplace design",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTE1ldFNPSzJHcEV0YTZLSngtV255dW95UUlVaV9XczFpUVdMSjg1ZUlISHJNbm1OYjUwdUZwdjdEeHU0RW5XSUtOSmJGNzQ0Y2RLdmxnaWxwTnBZV1FWN0g2WkpXaU9Zb2NPSjU2aUF4RG5UQUpzRVhDdTZpWUZNUTY1eG92RUMyTi1ock9qSQ?oc=5",
-      "source": "Workplace design",
-      "track": "culture",
-      "cat": "Architecture & Space",
-      "publisher": "TBBW",
-      "via": true,
-      "pubDate": "2024-04-04T07:00:00.000Z",
-      "snippet": "Crafting company culture: The power of workplace design TBBW"
-    },
-    {
       "id": "i_19ncdl",
       "title": "King River Capital, Immutable, and Polygon Labs launch the $100M Inevitable Games Fund",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdl9veFBSaGIwcUJlZHA0aGt0UEVJMGlIc0ZET1JfX3pqSF9ZMGQ2Wk5la3d2MUdvbWFCQXY2WnI4bkNDR0RuaHFlbmhKR1NFUFhzM2lFb1NOZS1vNjU3QTU4S2NPdmszRU4tRnJxWlE4QVdSQkpkNWE0cGRWTDZ2cjBVVnd4MjhvT3ljM2E0U0ptNDljcERvU2hmLVZxZTVFRjNwaFY1R1dFM0pRTVJSRkwxOUdyZGZPYUQ3ZXVJY2hxZThJRDh6OHRMS2FDeHoxdDhvN2lR?oc=5",
@@ -6738,10 +6738,10 @@
       "source": "Brand New (UnderConsideration)",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2024-01-23T08:00:00.000Z",
-      "snippet": "A stylish new look for sustainable media brand Good-Loop Creative Review"
+      "snippet": "A stylish new look for sustainable media brand Good-Loop creativereview.co.uk"
     },
     {
       "id": "i_g5dxjv",
@@ -6822,10 +6822,10 @@
       "source": "Film & TV craft",
       "track": "culture",
       "cat": "Film & TV",
-      "publisher": "lensmenreviews.com",
+      "publisher": "Lensmen Reviews",
       "via": true,
       "pubDate": "2023-10-31T07:00:00.000Z",
-      "snippet": "Koozhangal Review | PS Vinothraj Movie Is an Indie Masterclass on Visual Storytelling lensmenreviews.com"
+      "snippet": "Koozhangal Review | PS Vinothraj Movie Is an Indie Masterclass on Visual Storytelling Lensmen Reviews"
     },
     {
       "id": "i_abm5gr",
@@ -6918,10 +6918,10 @@
       "source": "Polygon",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "gamedeveloper.com",
+      "publisher": "Game Developer",
       "via": true,
       "pubDate": "2023-07-03T07:00:00.000Z",
-      "snippet": "Iconic game Barbie Fashion Designer faced incredible technological hurdles gamedeveloper.com"
+      "snippet": "Iconic game Barbie Fashion Designer faced incredible technological hurdles Game Developer"
     },
     {
       "id": "i_ey322p",
@@ -7038,10 +7038,10 @@
       "source": "Universum",
       "track": "practice",
       "cat": "Employer Brand",
-      "publisher": "businessinsider.com",
+      "publisher": "Business Insider",
       "via": true,
       "pubDate": "2022-08-24T07:00:00.000Z",
-      "snippet": "The 20 companies and agencies computer science students most want to work for businessinsider.com"
+      "snippet": "The 20 companies and agencies computer science students most want to work for Business Insider"
     },
     {
       "id": "i_gi7qxv",
@@ -7062,10 +7062,10 @@
       "source": "Polygon",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "Exchange4Media",
+      "publisher": "exchange4media.com",
       "via": true,
       "pubDate": "2022-06-16T07:00:00.000Z",
-      "snippet": "Polygon announces launch of eDAO - an entertainment focused Web3 company Exchange4Media"
+      "snippet": "Polygon announces launch of eDAO - an entertainment focused Web3 company exchange4media.com"
     },
     {
       "id": "i_tshw2o",
@@ -7074,10 +7074,10 @@
       "source": "Game design & narrative",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "gamedeveloper.com",
+      "publisher": "Game Developer",
       "via": true,
       "pubDate": "2022-03-31T07:00:00.000Z",
-      "snippet": "Narrative Design in Elden Ring gamedeveloper.com"
+      "snippet": "Narrative Design in Elden Ring Game Developer"
     },
     {
       "id": "i_9kd2uj",
@@ -7086,10 +7086,10 @@
       "source": "The Millions",
       "track": "culture",
       "cat": "Books & Publishing",
-      "publisher": "Los Angeles Review of Books",
+      "publisher": "lareviewofbooks.org",
       "via": true,
       "pubDate": "2021-11-26T08:00:00.000Z",
-      "snippet": "Past Our Breaking Points: A Conversation with Anjali Enjeti Los Angeles Review of Books"
+      "snippet": "Past Our Breaking Points: A Conversation with Anjali Enjeti lareviewofbooks.org"
     },
     {
       "id": "i_ml474k",
@@ -7152,18 +7152,6 @@
       "snippet": "Dr David Rock of the NeuroLeadership Institute: Five Things You Need To Be A Highly Effective… Medium"
     },
     {
-      "id": "i_talu4s",
-      "title": "The NeuroLeadership Institute Appoints Mika Liss as President",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGt6cDdIV2Fac1YySWlFZUZLRmVJaHVuWDlQM2VZNUk5bmM1LUpYcVZyWkpXOEhsNmpQQzdXWTNRYm1mdGJDY3NRc2lWQnRkZEp4OU1weU1OSHNKMENJcEtyTHlRUmlDOGhETEJER2xtNkdPdFdVYkc0ekdNanA4dnNER1FxQ1ZnQ1plMFJlV2VrR2JIcDlncTNiRG1EQ2F1?oc=5",
-      "source": "NeuroLeadership Institute",
-      "track": "practice",
-      "cat": "Organisation Development",
-      "publisher": "citybiz",
-      "via": true,
-      "pubDate": "2021-03-16T07:00:00.000Z",
-      "snippet": "The NeuroLeadership Institute Appoints Mika Liss as President citybiz"
-    },
-    {
       "id": "i_xp71te",
       "title": "Understanding \"rape culture\" in Bangladesh, India, & Pakistan",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGJZdmg4bXFCOTlJaXRJcXJRb2xoR3hrQ2ItVEQ4WjhGM3FuaC0tT0NVZkhXSGppaTlPUjJjclRMVWhKd1hreUM1VGV1ZjZzU3BFVzBoZUNxaFNVbnRSeVlaYXJHdlNfNVIzelNTNGt5emhROGFldjZCVW91ZFhjNjVsZFdYX1QtRk1XX3JQcVhhMHhYQ1lnajJPaXlpV0NBblZqMEUyWUo2NnZ0UDZr?oc=5",
@@ -7194,10 +7182,10 @@
       "source": "Ads of the World",
       "track": "culture",
       "cat": "Advertising & Campaigns",
-      "publisher": "econsultancy.com",
+      "publisher": "Econsultancy",
       "via": true,
       "pubDate": "2019-11-20T08:00:00.000Z",
-      "snippet": "10 of the best ad campaigns from the UK’s top supermarkets econsultancy.com"
+      "snippet": "10 of the best ad campaigns from the UK’s top supermarkets Econsultancy"
     },
     {
       "id": "i_7wu6c0",
@@ -7270,6 +7258,18 @@
       "via": true,
       "pubDate": "2018-06-20T07:00:00.000Z",
       "snippet": "LasikPlus CEO Craig Joffe Named a Glassdoor Top CEO in 2018 Newswire.com"
+    },
+    {
+      "id": "i_gvw3rj",
+      "title": "Approaching diversity with the brain in mind",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX0dfTzMxODMtSlA5bXNrLVhWLWhGeUtuV2xEcXcyWGRESzk0SXVoaVc1ejVBSUUxSWRjZ0hBdkoyTGw2RDNFa01UQzY3ZkFlZF9HdmdPM2tWZ05udElRNU1lRmhHdjBkQU00a2NnbUhyOXdVZXJPYzVRUWhUdmZZczBUeWU5dmViWW80ZHJtZw?oc=5",
+      "source": "NeuroLeadership Institute",
+      "track": "practice",
+      "cat": "Organisation Development",
+      "publisher": "Strategy+business",
+      "via": true,
+      "pubDate": "2018-06-07T07:00:00.000Z",
+      "snippet": "Approaching diversity with the brain in mind Strategy+business"
     },
     {
       "id": "i_b5tbb",
@@ -7356,16 +7356,16 @@
       "snippet": "Glassdoor Study Reveals Interview Process Getting Longer, Averaging About 24 Days Across 25 Countries PR Newswire"
     },
     {
-      "id": "i_1u13on",
-      "title": "Glassdoor Reveals New Look And Feel",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDVKR2t3Ql9ONXdfSWU1TjdzelFVNzRxdDRtUGM4SVZXWUxnMkUzTTd3b2Q1dVByOVduU2xzREdJZ3NzY0l2NmtteUdPUnFKaTZaZUVkWTZLUjlib1BqbkZpN2g2Y09Qa2RiTGRHZW5oOUZJQzRfYVdCeGF4Wnk2em9LR0Rxb2xieHVXdTlrQnJPc0pVS3c?oc=5",
+      "id": "i_oksqox",
+      "title": "Glassdoor Unveils Employees' Choice Awards For Highest Rated CEOs In 2017",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSmdocnFKNnNiMTRYbDV2XzhlbGdtUGRlU2I4Z3dMNm1jNUlqZkxXNkVxc2lmdnh1TlpUaUl1Q2kzcndvbWI4OEVTbXNKMVBJVVQyMFh2R0p0OHJtR0NubTVpRGd6Y3JCZUxOeFBlRXh0dnFqT3gzSnBuOEhjSXREclRVQXlVMktFMzB1dkxDWXZVRk9UcHdpTnd5WmQyNEpLYzV6bkdNV3hPa2NTYWlqMEdvQXFwaHFnWFRrQUd2ZXgtUzZCTHJz?oc=5",
       "source": "Glassdoor for Employers",
       "track": "practice",
       "cat": "Employer Brand",
       "publisher": "PR Newswire",
       "via": true,
-      "pubDate": "2017-04-26T07:00:00.000Z",
-      "snippet": "Glassdoor Reveals New Look And Feel PR Newswire"
+      "pubDate": "2017-06-21T07:00:00.000Z",
+      "snippet": "Glassdoor Unveils Employees' Choice Awards For Highest Rated CEOs In 2017 PR Newswire"
     },
     {
       "id": "i_yypxu5",
@@ -7517,13 +7517,13 @@
       "id": "i_687fda",
       "title": "The Best New Fashion Launches of 2026",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wU2JIRktwT2V2UTdmNUZnX2lHX1dzVklYb3YtYU44dU5zVU80LS1uSU9lcDh5clc0a3V1dUhRNDZ1NUlobG4wVVpzRlp4Tk54MTRyUFdOd1d0RERpUUFCekFCalpiUnl3eFlHR2xJVWYyY2M?oc=5",
-      "source": "people.com",
+      "source": "People.com",
       "track": "culture",
       "cat": "Fashion & Retail",
-      "publisher": "people.com",
+      "publisher": "People.com",
       "via": true,
       "pubDate": "2026-08-18T20:48:00.000Z",
-      "snippet": "The Best New Fashion Launches of 2026 people.com"
+      "snippet": "The Best New Fashion Launches of 2026 People.com"
     },
     {
       "id": "i_rdbrmb",
@@ -7565,25 +7565,25 @@
       "id": "i_nmtx90",
       "title": "OVO x MLB 2026 Collection Brings Five Baseball Franchises Into Streetwear",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnVMME5nQTlTdkxtTU51eTdVcmdXTGJ3NGlKWnh6SmlTYlJtT2lQUENJbGQtQ1RjWlVfYVRrbFotc1ZvWmt6RUZNeFJ6OEtVam9HWXFyUUZtRHpmUml2aWpHSjl6dWFDc1h1Q1paN0ZxcDAzdFEyYVc1c250SU5Xd3JYbVh2My1wYnYtSWE2QnZvczJTRk0yRm5Pa3pyQlFfbDFEZzJvbDM?oc=5",
-      "source": "stupidDOPE",
+      "source": "stupiddope.com",
       "track": "culture",
       "cat": "Sport",
-      "publisher": "stupidDOPE",
+      "publisher": "stupiddope.com",
       "via": true,
       "pubDate": "2026-08-18T11:52:34.000Z",
-      "snippet": "OVO x MLB 2026 Collection Brings Five Baseball Franchises Into Streetwear stupidDOPE"
+      "snippet": "OVO x MLB 2026 Collection Brings Five Baseball Franchises Into Streetwear stupiddope.com"
     },
     {
       "id": "i_nufjkc",
       "title": "Vivo V80 Lite Leak: Is It Really the Vivo S2 Rebrand?",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40cTJjMjU4cVhrSTdBNmQ4MjVndjNtT3Q4SVVCLTFHY1RiRUpDMHViV05Wd3llR2xpRW5tQUlwX1lDZktwN3FpT09zMmFPaWR6SWttYUd0dmJlTlhYMFRiUjFn?oc=5",
-      "source": "techgenyz.com",
+      "source": "Techgenyz",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "techgenyz.com",
+      "publisher": "Techgenyz",
       "via": true,
       "pubDate": "2026-08-18T11:19:54.000Z",
-      "snippet": "Vivo V80 Lite Leak: Is It Really the Vivo S2 Rebrand? techgenyz.com"
+      "snippet": "Vivo V80 Lite Leak: Is It Really the Vivo S2 Rebrand? Techgenyz"
     },
     {
       "id": "i_gteh1n",
@@ -7649,13 +7649,13 @@
       "id": "i_ckuoog",
       "title": "Hue seeks to build international heritage, music festival brand",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnJScXc0V2ZuRkFWU3QxUThJYkxVclMydE5UZm1mRlhROW05ZlZKcEU5Yjh4Mk1jQW53cEdqc3ZPOE5QSnZfX1MtNUdtRVBUOWI5WkwxQzgwMXJ3YVJ2eFFDV3BPS2xadjRrM0l0NmJSWjJGMWZ2dEFZN3VWT1lqUVlqcjZZdTJBVnRaTlBobG56N2NaV1BSZktiRkl4RnBrejBDSlNHeXJ3QmlvX2k2bmJyc0FFWmMyVS1kQUdobThyV0RvYUZ1ODAxQ1k?oc=5",
-      "source": "dtinews.dantri.com.vn",
+      "source": "DTiNews",
       "track": "culture",
       "cat": "Music",
-      "publisher": "dtinews.dantri.com.vn",
+      "publisher": "DTiNews",
       "via": true,
       "pubDate": "2026-08-15T16:13:00.000Z",
-      "snippet": "Hue seeks to build international heritage, music festival brand dtinews.dantri.com.vn"
+      "snippet": "Hue seeks to build international heritage, music festival brand DTiNews"
     },
     {
       "id": "i_bc4etn",
@@ -7922,18 +7922,6 @@
       "snippet": "Nothing launches ‘Start with Nothing’, a new brand campaign celebrating India’s most fearless creative voices Passionate In Marketing"
     },
     {
-      "id": "i_3d4b9i",
-      "title": "Cancer Pseudoscience and the Cultural Moment",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFh2cV9rRGxvWEpDTDNJT011VC1reUtjU3F0T0wzYV8yT3oyaXpRckNLZlZtdHh1NlNKR1d0UTFBcHlIUldIdG1FeVN5ZFVZeHp1d180cjJXeVRmd0pQSjRCN2lKSG00akdpX2dzeWpxS1pUUy03MEtHcGRIQ2VoSWRLQ0NjU0xsWkpUd0tlRExFdEE?oc=5",
-      "source": "The Good Men Project",
-      "track": "practice",
-      "cat": "Culture & Critique",
-      "publisher": "The Good Men Project",
-      "via": true,
-      "pubDate": "2026-08-05T07:00:00.000Z",
-      "snippet": "Cancer Pseudoscience and the Cultural Moment The Good Men Project"
-    },
-    {
       "id": "i_5vln4i",
       "title": "TBWA Launches “Handmade, Imperfect, but Very Expressive” Rebrand from DXD",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUxyZzZIWGJXQ19iTHlWR0JJa1BQb2xvQWlqM0U1am9rVTNsemRJUDRlcnJkWnQxTGhrOVUxRHhwNlFwMnpzUUdZMWs2ZkZUVm11VWxLb2ZhQ0tjR255cmpxZ29tSlJEMXYxZUxWVkQ4Rk84aUJrXzE0ZEFGVUxFZml5MFFPYVlwTzJRNmRDeVA4NzB6UzhjcEF5Zm4?oc=5",
@@ -7949,25 +7937,25 @@
       "id": "i_bx9yus",
       "title": "NTB expands international footprint with new visual identity and dedicated solutions platform",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWVxVlNWdS16TkQ5bnV0QjFBSDVFWktReGRHa2gzcmRfZXl1akxoOHdmRGc1UGxEX19RQWlLYTdFWnp0bU45eEU5TlhPZU40TTJPMWRmTHJXV1U1dHhhZl9kcXo0UEZyWkUxNjliZFM3cXl4Z0ZZSV90V0RKdlZ6U1R2VlY1dWdwa09PY2ZmTkNia0YzaS15QlJqNTF0LTktTTRRSmN3ZEJvbWFEb0J3SWxteS1vUFJqeVB1T09kbkhYZ0pvQU9IOGp3RTR3d1dGZnBQZ3lWTVM3RXpaV0xGSWZ5clpFZXhwOTFETzJ4ZUx4bDVWemtGWGN2cw?oc=5",
-      "source": "kommunikasjon.ntb.no",
+      "source": "NTB Kommunikasjon",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "kommunikasjon.ntb.no",
+      "publisher": "NTB Kommunikasjon",
       "via": true,
       "pubDate": "2026-08-04T07:00:00.000Z",
-      "snippet": "NTB expands international footprint with new visual identity and dedicated solutions platform kommunikasjon.ntb.no"
+      "snippet": "NTB expands international footprint with new visual identity and dedicated solutions platform NTB Kommunikasjon"
     },
     {
       "id": "i_boa1o2",
       "title": "Samsung Galaxy F70 Pro 5G Launches in India as M47 Rebrand With LPDDR5X It Cannot Fully Use",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDhBN0plX3ZEUDZkS2pXdkJoM1BDREZKMXg2blhQLXFKdExFSHNrZm51RGllYm9lTC1pUXZmTTdiVy1BYWp1V3dpVFB3T21od3U2WHRsSHFvTnJkY1ZRWnpKbGZMd1BTZWpSbE45NWp2eGRUQThrQVN0VFR1OU5URjlsVmNZazduMi1VX1h6d0FyTTAzZ0w1aFRldF8zRkw3OHZvYVdCZXRLTU0zUHFvV0lMSVF0N25ZZWRnX29pb09pQ3BXWmNDVmxYV3JmaW41?oc=5",
-      "source": "Tech Times",
+      "source": "techtimes.com",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Tech Times",
+      "publisher": "techtimes.com",
       "via": true,
       "pubDate": "2026-08-03T07:00:00.000Z",
-      "snippet": "Samsung Galaxy F70 Pro 5G Launches in India as M47 Rebrand With LPDDR5X It Cannot Fully Use Tech Times"
+      "snippet": "Samsung Galaxy F70 Pro 5G Launches in India as M47 Rebrand With LPDDR5X It Cannot Fully Use techtimes.com"
     },
     {
       "id": "i_izh8z1",
@@ -8177,13 +8165,13 @@
       "id": "i_avef80",
       "title": "Siemens Energy begins preparations for the launch of an independent brand",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0FfS2hSMVVBLUhycTNCZzh3NFJ6bDN3RHg0YThGY3l4NzRzcENfVHRsTlhPaFE1S3htMVJNYXQzdTQ0NUxzanpkVmZPOXpQYUVvQmE1bFVSR01zY1QwdXU4X3BFLTBJSjFCWnFnNDE5V2RKNzM2YmJVbUVpa2NseDk3bk01NXZTcTBqZDhFU2VlMU9rLUM0?oc=5",
-      "source": "siemens-energy.com",
+      "source": "Siemens Energy",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "siemens-energy.com",
+      "publisher": "Siemens Energy",
       "via": true,
       "pubDate": "2026-07-14T13:02:44.000Z",
-      "snippet": "Siemens Energy begins preparations for the launch of an independent brand siemens-energy.com"
+      "snippet": "Siemens Energy begins preparations for the launch of an independent brand Siemens Energy"
     },
     {
       "id": "i_uwdhqc",
@@ -8244,6 +8232,18 @@
       "via": true,
       "pubDate": "2026-07-11T07:00:00.000Z",
       "snippet": "Q-CTRL Tells Aussie Government The Challenges Of Australian Tech Quantum Zeitgeist"
+    },
+    {
+      "id": "i_dcxwk4",
+      "title": "House of Amud | Interior Architect / Spatial Experience Designer",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00SloycGJKZ3N6Vkt1ckhqVTZqNUEtQXFGZFg4ZTdaVTFlX2haRlpPSjdYLVVLTkJLY0VpMUdlWWo2bXF0R0ZCYjlZSnBHaWZLLUlfdm5mNW1nUHZBT0w5S19fUE91QXZqZHc?oc=5",
+      "source": "Architectenweb",
+      "track": "culture",
+      "cat": "Food & Hospitality",
+      "publisher": "Architectenweb",
+      "via": true,
+      "pubDate": "2026-07-10T07:00:00.000Z",
+      "snippet": "House of Amud | Interior Architect / Spatial Experience Designer Architectenweb"
     },
     {
       "id": "i_1deg7x",
@@ -8321,13 +8321,13 @@
       "id": "i_i4ovkx",
       "title": "More of a performance than a fixed system, Ronnie Scott’s new identity does a typographic dance",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHMzUHNoMXY1VzJ2NVZmUGxyV2tZWDlXZTh4LXFCT2t3X0dDeHJocHFheWZ0MnFtZXhIbXdXdnhCWlVnWkxUWkVIVDNYTnBWSldVZUN5anJtU3ZWNUIxWUxhenVSU3VLUE80QTN0VnEtdzlZaC1TZUNjWnY1a0p3UDlrRnJkTUc4LWloZGF1OGh6ZXJ5RnprVm44Y3d0M3FPTFgtZ2htWUxIZnlPSXc?oc=5",
-      "source": "It's Nice That",
+      "source": "itsnicethat.com",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "It's Nice That",
+      "publisher": "itsnicethat.com",
       "via": true,
       "pubDate": "2026-07-07T07:00:00.000Z",
-      "snippet": "More of a performance than a fixed system, Ronnie Scott’s new identity does a typographic dance It's Nice That"
+      "snippet": "More of a performance than a fixed system, Ronnie Scott’s new identity does a typographic dance itsnicethat.com"
     },
     {
       "id": "i_v4joli",
@@ -8345,13 +8345,13 @@
       "id": "i_kemfn",
       "title": "Sporting CP reveals first new brand identity in 25 years",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTjlEZzkyaExUUWcwZ3hsbV9FM1JUbDBxTXBTT01mbjFaUGhmSGsxRjAtX3JScDh6VXBYM0trVVZyZWVqLTBCazVnYm9lX0JZZkJxVVVUWk1sWkp3OGZycW0wNTh5UVJKN1VSU19ISlR2dUJxT3NiT0hhV0M5MnRITUV3a2R6MGItRXFYX082Zw?oc=5",
-      "source": "Design Week",
+      "source": "designweek.co.uk",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Design Week",
+      "publisher": "designweek.co.uk",
       "via": true,
       "pubDate": "2026-07-06T07:00:00.000Z",
-      "snippet": "Sporting CP reveals first new brand identity in 25 years Design Week"
+      "snippet": "Sporting CP reveals first new brand identity in 25 years designweek.co.uk"
     },
     {
       "id": "i_w6gpuw",
@@ -8441,13 +8441,13 @@
       "id": "i_ulatt9",
       "title": "QNY Creative Named Oak Farms Dairy Agency of Record, Launches Texas Brand Campaign",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM283d3NIbGRJalBwRUVZcEtYNXpVYlExRVU2S2lrZHpNWGVDZkJ0WkhucUtNcUYwdWJDU0lqdlZmQlc1dk5ZallZWVNFUXNDRkJoUFBjRDVYcUx5MDUxTTlSWW1ON0hVOElHNmdVLUgxSGI2Y3VuRDhpYThiVmZINTVPb25sNXNkckthRlFpUVB6NUpfNUVfeXRHZUtfU1ZjZXBDSUlKcWdodzZOc0F3LXE0dmZfenE0SWlLcQ?oc=5",
-      "source": "citybiz",
+      "source": "citybiz.co",
       "track": "culture",
       "cat": "Advertising & Campaigns",
-      "publisher": "citybiz",
+      "publisher": "citybiz.co",
       "via": true,
       "pubDate": "2026-06-29T07:00:00.000Z",
-      "snippet": "QNY Creative Named Oak Farms Dairy Agency of Record, Launches Texas Brand Campaign citybiz"
+      "snippet": "QNY Creative Named Oak Farms Dairy Agency of Record, Launches Texas Brand Campaign citybiz.co"
     },
     {
       "id": "i_3yfk93",
@@ -8537,13 +8537,13 @@
       "id": "i_u36cfa",
       "title": "Rapha’s brand identity is rebooted with six bespoke typefaces inspired by vintage cycling ephemera",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ05NbkU0OTFoMGxPV2ZSbEQ3a001Zmw0UjJ6VS12NkdLbEE1bzhRMU9wbUhpZWJuMkxVX0FYZ2dPMC02enJBSV9IZ3RkdTYxN1otTWcyTk43UTA2U0dZekpQa3Y3RTFid0tTOFZJcldwNk1OazRld0k2M3lkX2FZX1lR?oc=5",
-      "source": "It's Nice That",
+      "source": "itsnicethat.com",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "It's Nice That",
+      "publisher": "itsnicethat.com",
       "via": true,
       "pubDate": "2026-06-25T07:00:00.000Z",
-      "snippet": "Rapha’s brand identity is rebooted with six bespoke typefaces inspired by vintage cycling ephemera It's Nice That"
+      "snippet": "Rapha’s brand identity is rebooted with six bespoke typefaces inspired by vintage cycling ephemera itsnicethat.com"
     },
     {
       "id": "i_e34pba",
@@ -8741,13 +8741,13 @@
       "id": "i_kned8f",
       "title": "What prevents a fashion brand from becoming just another label? Aditya Birla's CMO shares",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDQyMmk3RFNnTU1NVVRieUUySXljNHcwd0ZjaDlIbDh3VWl5RzA0cWgyOWx1bXYwTHBGbHlFMWxoX0YxZlVCSnF5cUpZbDNVdHRsc3dnYkRUTEM2anMxby1VWVVJSjY1czdHaW4xSlJkMERVMnIwVWJaY0xNMlR3ZF80R1ozQ2NTR2FTWm1WcWZGQkEydHduTzRmbVM1T3VaMnEtZ3Z0ZGxpWVFXdXN1VVB3UWliRmJQZFI1bVhPczA5RmVQejZxTExnb2dXcWPSAc8BQVVfeXFMT1Q0MjJpN0RTZ01NTVVUYnlFMkl5YzR3MHdGY2g5SGw4d1VpeUcwNHFoMjlsdW12MExwRmx5RTFsaF9GMWZVQkpxeXFKWWwzVXR0bHN3Z2JEVExDNmpzMW8tVVlVSUo2NXM3R2luMUpSZDBEVTJyMFViWmNMTTJUd2RfNEdaM0NjU0dhU1ptVnFmRkJBMnR3bk80Zm1TNU91WjJxLWd2dGRsaVlRV3VzdVVQd1FpYkZiUGRSNW1YT3MwOUZlUHo2cUxMZ29nV3Fj?oc=5",
-      "source": "socialsamosa.com",
+      "source": "Social Samosa",
       "track": "culture",
       "cat": "Fashion & Retail",
-      "publisher": "socialsamosa.com",
+      "publisher": "Social Samosa",
       "via": true,
       "pubDate": "2026-06-15T07:00:00.000Z",
-      "snippet": "What prevents a fashion brand from becoming just another label? Aditya Birla's CMO shares socialsamosa.com"
+      "snippet": "What prevents a fashion brand from becoming just another label? Aditya Birla's CMO shares Social Samosa"
     },
     {
       "id": "i_xpyned",
@@ -8813,13 +8813,13 @@
       "id": "i_80jq29",
       "title": "Why fashion brands are going beyond discounts for this year’s ‘end of season sale’",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbEpUN0x0cnA0RVJ1enJrNG5Od3JPM3daQUpodnpJTmlzaEI1Nm8xYjN6R0F1NndzcXVFaEI4VkEzWVNpd2k2MlBKVFROSzUtQ3RJTnpOa3dkamFiZWVUOFVVS0owWVFKT2o0eG9waFZOSkJzMjF2aXRON3BpZzVkMUVGSXNib0JfcDZMd19qRTIxSk05cEpkTlJtZEhLandCdFpVVXlydURieHdTZUJlZW5PaDNWbjk2TkJqcEswQnc4X1VWV3lEcll5b2lrSU5Ic2RB?oc=5",
-      "source": "Exchange4Media",
+      "source": "exchange4media.com",
       "track": "culture",
       "cat": "Fashion & Retail",
-      "publisher": "Exchange4Media",
+      "publisher": "exchange4media.com",
       "via": true,
       "pubDate": "2026-06-08T07:00:00.000Z",
-      "snippet": "Why fashion brands are going beyond discounts for this year’s ‘end of season sale’ Exchange4Media"
+      "snippet": "Why fashion brands are going beyond discounts for this year’s ‘end of season sale’ exchange4media.com"
     },
     {
       "id": "i_alzv37",
@@ -8933,25 +8933,25 @@
       "id": "i_c4owrr",
       "title": "Why brand design still matters in the age of AI",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMU1jLTc0SGFyUFo4aFlRZWRxejhQUllXaEZsellUN2RJVGJ4cWliRG5oNHJiY0pYWDloR25lVHZsNVlwSFRCWVMxazQwbkpxcWhWUjlYeEx2Ri1MNjFNT1U0Qm40N3R6UHljWTdCQ0ZJVmJqZmgyeDE0RFNUYlhOMElkU2xTektHdlhzeFNTeERzNTEzdWJhTk9PS01vUkZ3dWpRZzRaOA?oc=5",
-      "source": "Creative Review",
+      "source": "creativereview.co.uk",
       "track": "culture",
       "cat": "Books & Publishing",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2026-05-27T07:00:00.000Z",
-      "snippet": "Why brand design still matters in the age of AI Creative Review"
+      "snippet": "Why brand design still matters in the age of AI creativereview.co.uk"
     },
     {
       "id": "i_43qvcm",
       "title": "Tencent Games Spotlights Future Player Experiences with 45 Major Updates at SPARK 2026",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUGxEbDI0S2Jqa2pyXzlWUS1mR05iLWRkNUlRQzBzbW43QUN6NDJyWnpaXzM4UWJlUS1mcEx6RHBwMEZwTFYxTDBSbHozbllHUGVfSkU1anZSYl82QndiaVFxWUNYbHlPaHhxQkwtV0pGdWZ4VmVsVWttOGI3ZklIdThwckNEdVRnR2tQd0NKT3ZRbjR5aEk5dld5eGFTWWxXLTAxeXZQb3dHa0lFQXBGR0dCYk9kaWJuS1pZ?oc=5",
-      "source": "TNGlobal",
+      "source": "technode.global",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "TNGlobal",
+      "publisher": "technode.global",
       "via": true,
       "pubDate": "2026-05-27T07:00:00.000Z",
-      "snippet": "Tencent Games Spotlights Future Player Experiences with 45 Major Updates at SPARK 2026 TNGlobal"
+      "snippet": "Tencent Games Spotlights Future Player Experiences with 45 Major Updates at SPARK 2026 technode.global"
     },
     {
       "id": "i_2n4lkg",
@@ -9065,13 +9065,13 @@
       "id": "i_j22xlw",
       "title": "Reimagining workplace design to strengthen culture, collaboration and belonging",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xU010VURCOUJibzQyZDUtcWlqdmVhZEFraHhPMTZNVGpyOUIxRG5MMjdrcFE4bHdnRlNCTnJ2MWlFdXU0MFJmTldNNXZ3d1UzMVNkamMtZXJCX3M3cjA2M3VQRkNUVHNQ?oc=5",
-      "source": "Jacobs",
+      "source": "jacobs.com",
       "track": "culture",
       "cat": "Architecture & Space",
-      "publisher": "Jacobs",
+      "publisher": "jacobs.com",
       "via": true,
       "pubDate": "2026-05-13T17:40:31.000Z",
-      "snippet": "Reimagining workplace design to strengthen culture, collaboration and belonging Jacobs"
+      "snippet": "Reimagining workplace design to strengthen culture, collaboration and belonging jacobs.com"
     },
     {
       "id": "i_5pauga",
@@ -9120,18 +9120,6 @@
       "via": true,
       "pubDate": "2026-05-13T07:00:00.000Z",
       "snippet": "McDonald’s and Chicago Fire FC Announce Landmark Stadium Naming Rights Partnership: McDonald’s Park to Open in 2028 as a New Destination for Soccer, Culture, and Community in Chicago Chicago Fire FC"
-    },
-    {
-      "id": "i_pabfks",
-      "title": "The Mediterranean Lab: Actiu Redefines its Clerkenwell Showroom Experience",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONEZVekxFNjFta0VqVTVPbnhyb0QydFhHMkdOalp1T3hpQldzWFU0a2F6aTRIdXE4R21vT2RLSUlFd1JCcXVSSTY0VTY2YVkzOFhOOHRTU3Z4SnBNM2VMY2NiN3FsMDF3aEg4bVgxUHZBcmI3TVFVOHlLSW5MZDlhUjhmZ1B6dkNwYzczOWFSVnd0eklWWnhXZVRrX0pkUmVkbHVkQUFaaDA5OVJMOHRjVEpNUTdiTlBtT0VnVU1NVk5PcVBtajlvLWZB?oc=5",
-      "source": "Hospitality Interiors",
-      "track": "culture",
-      "cat": "Food & Hospitality",
-      "publisher": "Hospitality Interiors",
-      "via": true,
-      "pubDate": "2026-05-13T07:00:00.000Z",
-      "snippet": "The Mediterranean Lab: Actiu Redefines its Clerkenwell Showroom Experience Hospitality Interiors"
     },
     {
       "id": "i_cc497k",
@@ -9278,6 +9266,18 @@
       "snippet": "The future workforce – culture change and skill go under the spotlight at UK Construction Week London Plant & Works Engineering"
     },
     {
+      "id": "i_j5b58h",
+      "title": "How K-pop is selling F1 merch, and why it matters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHJRQTVuVUx6RUlYOHE2dEdDcVI0alpieGhFMkhSdHdTelZtekhVNllENFlSRWpEazhicFVRa0xKM2Z3V1ExNnBQMmhEdUdyMHV5RVFEdVBaSUR3VTNwRFFOOEVxZUptRUlMTGdaenJsdG40OEh2cF9KRXFJeVlzVmtNdEZabUN2cjVEa2dSeDNSeUNuNDJ5cGRRVXg?oc=5",
+      "source": "Sporting Goods Intelligence Europe",
+      "track": "culture",
+      "cat": "Sport",
+      "publisher": "Sporting Goods Intelligence Europe",
+      "via": true,
+      "pubDate": "2026-04-27T07:00:00.000Z",
+      "snippet": "How K-pop is selling F1 merch, and why it matters Sporting Goods Intelligence Europe"
+    },
+    {
       "id": "i_2f4fkp",
       "title": "Nykaa Fashion’s Brand Strategy Expansion Beyond Beauty",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbW9VM2NRaGtuTmJ6MGNsZjZMMmRzbElyME5BVi0xUHhfa0xuLWo0YVhxdnR4MzhlNkE5dW5WQzM1WWRaSjVZZzZRaGdPaTIyeVVncDc4YWUwbGNDcktxVEVYZzNKNnNuS19fdEFQLXBKWjdKemREY2FmZVVtUm1aYTNUQ0tLZWE4RG5USFlB?oc=5",
@@ -9305,13 +9305,13 @@
       "id": "i_d3nsc0",
       "title": "Player Obsessed: Inside Helpshift’s New Approach to Support, Engagement, Community, and Trust & Safety",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUW5LcVRWcmRlNzlzUlBrSEpsNHV5ajgxTnBKT1F2MVlDbEtkZnZKTVZYQlVGSFozd25XX1VEb041VGY5UzhLY2hqN2NHUHQzZVQ4aHhSYVctRTRIX1d5VDRHQmM4UzUtVlluSjdBbmNGSmVDdEw0M3U3dW94S0ROa3BWMzBjbTYtejVQQ0lpS3ZLdVI3N2syazVYNmhtYmNEbkN6dnZaY2NMUUdNWWZ3WFJaRWthbGhJQkliTkRaRFVGLXlWZTBaUFFFcTVYdlNZ?oc=5",
-      "source": "gamedeveloper.com",
+      "source": "Game Developer",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "gamedeveloper.com",
+      "publisher": "Game Developer",
       "via": true,
       "pubDate": "2026-04-20T07:00:00.000Z",
-      "snippet": "Player Obsessed: Inside Helpshift’s New Approach to Support, Engagement, Community, and Trust & Safety gamedeveloper.com"
+      "snippet": "Player Obsessed: Inside Helpshift’s New Approach to Support, Engagement, Community, and Trust & Safety Game Developer"
     },
     {
       "id": "i_lkn3we",
@@ -9353,13 +9353,13 @@
       "id": "i_d2fm8a",
       "title": "Amazon rainforest’s new brand identity highlights human creativity over AI",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTF0Yk8yLUxaTzJKejFWWi1zb09EWnlZOHB3bnA3R1E2bkV2dzZjYmJLWUQ3TjdiWDVqR2JJS2x0Q1lOOWtLaXJTZHJSeWhmbndKOHJncUxYR1dlaHZBSjBMeVJyUW4xNl9TV2dJVGZCXzUzQ1QzejRKOFNvVVI2M2UxSk96Y29sV0xSalBRbC02T3ZqS2ZVWG8yVlJMLXdZcnhCOXl5QWR4Q1ZVMThCb3ktMFNTSFhkSVcyZkMxMDNQT21PMDg3SnlCMnFMbVJGSW5meER3?oc=5",
-      "source": "Exchange4Media",
+      "source": "exchange4media.com",
       "track": "culture",
       "cat": "Design & Identity",
-      "publisher": "Exchange4Media",
+      "publisher": "exchange4media.com",
       "via": true,
       "pubDate": "2026-04-15T07:00:00.000Z",
-      "snippet": "Amazon rainforest’s new brand identity highlights human creativity over AI Exchange4Media"
+      "snippet": "Amazon rainforest’s new brand identity highlights human creativity over AI exchange4media.com"
     },
     {
       "id": "i_2i1btl",
@@ -9497,13 +9497,13 @@
       "id": "i_yfz64v",
       "title": "Theatre designers are being disrespected – and I should know",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkFyY0dLM0xObENzbHFlcVpuNmFQXzctMFdncFVMTGFvUUtUdEhMWWxmbzZiZ0ZuR3VWWGhFU3V1ejZJN1lGV1diaFl2aG4zRG9SZlpFdE5OTG9RMXhnVlE3T0lVVmdmYXp5Z0dWVkxhcThsTVRnaTg0ZFBkNEl3YUVYaGdPTm1SWDQ0QjM0U3daTUhIQWhOU1ozS1BJcVBlbFhVTF9IQno5LVZvbngyNFI0V25wOE9x?oc=5",
-      "source": "ArtsHub Australia",
+      "source": "ArtsHub",
       "track": "culture",
       "cat": "Advertising & Campaigns",
-      "publisher": "ArtsHub Australia",
+      "publisher": "ArtsHub",
       "via": true,
       "pubDate": "2026-03-30T07:00:00.000Z",
-      "snippet": "Theatre designers are being disrespected – and I should know ArtsHub Australia"
+      "snippet": "Theatre designers are being disrespected – and I should know ArtsHub"
     },
     {
       "id": "i_jba7ue",
@@ -9593,49 +9593,37 @@
       "id": "i_1envxk",
       "title": "The Lakmé Fashion Week x FDCI grand finale by péro mixed fashion with collaborative brand storytelling",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMUtySGFSejJPeXo3TDNMa19qMVFKSGRYcnNFM2prQ2pQMVdJenRlVTM1ekp1LS1WTjZVaUFWYldPamVKeWJIbk1iQkljNktOQlVQTVhjaWQzSTVpZ0k4NHdXNXF2MkVGVXFCRE1YWll5NXRjZ0xCcUNfV05hSTM3dnRfYzRwN0piV1o3TlJiSzJzbWlzTlhzQjdsOGl5VFJzcmFOZkl5SmxsOV8yOC1qUmNnZlhvczRNVXpXN0k0R3Z4amdyOFNlX0xzOGNOdjRBWHB4YUVIcWJBRFl0U0gwdV9oZHBTSG8?oc=5",
-      "source": "openthemagazine.com",
+      "source": "Open Magazine",
       "track": "culture",
       "cat": "Fashion & Retail",
-      "publisher": "openthemagazine.com",
+      "publisher": "Open Magazine",
       "via": true,
       "pubDate": "2026-03-23T07:00:00.000Z",
-      "snippet": "The Lakmé Fashion Week x FDCI grand finale by péro mixed fashion with collaborative brand storytelling openthemagazine.com"
-    },
-    {
-      "id": "i_ophik9",
-      "title": "Team India Or Superstar Battlefield? Ravichandran Ashwin Exposes The Dark Side Of Fan Culture",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWlmM1FQRzh3RE9jTVZOSWppWXVnY25QTVMycjl2OWVWSGJyZ2o5ZE5VNWlDYVhHR3FBSDNGY1BRMkQ5amFkRjc2WllCdGIyQTVRQ09CNTFXd0FUMGVlZ0RsR19pR25uZUtndjMzUUlJT0VQOGRaZFN2TWh1RmVLLTlxTGVBVWFyLXBfdlVnck9LeUpxWXM4Uno2ZmcxMWR1YWtIQWg0WGVBSmswM0VjOFozdEs?oc=5",
-      "source": "rvcj.com",
-      "track": "culture",
-      "cat": "Sport",
-      "publisher": "rvcj.com",
-      "via": true,
-      "pubDate": "2026-03-20T07:19:11.000Z",
-      "snippet": "Team India Or Superstar Battlefield? Ravichandran Ashwin Exposes The Dark Side Of Fan Culture rvcj.com"
+      "snippet": "The Lakmé Fashion Week x FDCI grand finale by péro mixed fashion with collaborative brand storytelling Open Magazine"
     },
     {
       "id": "i_33nwy2",
       "title": "GECU and EVP CIO Fernando Ortega recognized with Employer Support of the Guard and Reserve military awards",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLXF2b3dhRGxzTGt6UllYb0pNVzUtTDN4dmt6UV9sank2bHNBVXA0YVMzenBUZmJKZmI3M1VOV3FDWlBudW1qTF9VTkVzV29DNlpaaFo1ZkcyZW82OEpqeHM1SVNRb3AyXzZZVGJtekotOHFuOFM3MUVxczJGWUxaUU5uY1lfN1hKWi14My1BanlLdDVCZjRnRlBSaWliRUV3aFJIaS1DSWFPSFc2SDRuVlByVGJfTEZwNEZfalJvczBVUnRKYUpYaU45cVVLMi1Ua3A3dFdSWlI2cTd2LUxaeg?oc=5",
-      "source": "CUInsight",
+      "source": "cuinsight.com",
       "track": "practice",
       "cat": "Employer Brand",
-      "publisher": "CUInsight",
+      "publisher": "cuinsight.com",
       "via": true,
       "pubDate": "2026-03-20T07:00:00.000Z",
-      "snippet": "GECU and EVP CIO Fernando Ortega recognized with Employer Support of the Guard and Reserve military awards CUInsight"
+      "snippet": "GECU and EVP CIO Fernando Ortega recognized with Employer Support of the Guard and Reserve military awards cuinsight.com"
     },
     {
       "id": "i_cn72l5",
       "title": "Laika’s 20 years of stop-motion carry lessons aplenty in craft and storytelling",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3lacFpGLTRXeW0zNFNLYnp5WUctZE40YXVhcVQ2TXdoSUxEcG8tQzNJZE5ibDFud1lscFhmMVhwbWdiTWJ4UWZ6Uk50YUc3Z1Y3WS1sVlR3YmVSLV9BSFYxeUZyeWZVMVJ0U2hfdkVWNzRUOTN0blZYN0oyUk8xNUdyQTVJWWlUOWxoTE4yUGp2WGZDTUNSb0VsRQ?oc=5",
-      "source": "It's Nice That",
+      "source": "itsnicethat.com",
       "track": "culture",
       "cat": "Film & TV",
-      "publisher": "It's Nice That",
+      "publisher": "itsnicethat.com",
       "via": true,
       "pubDate": "2026-03-20T07:00:00.000Z",
-      "snippet": "Laika’s 20 years of stop-motion carry lessons aplenty in craft and storytelling It's Nice That"
+      "snippet": "Laika’s 20 years of stop-motion carry lessons aplenty in craft and storytelling itsnicethat.com"
     },
     {
       "id": "i_c3xuam",
@@ -9917,13 +9905,13 @@
       "id": "i_bgdtoy",
       "title": "World's Largest Ongoing Study of the Employee Experience",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHhfTUkzMjZNZGtXVDFwNFpVQzBJM3gxUkVMZmg2WUtTUV9Xa3BDaTR1blEwai1udW1lU05razl1LWxRT2NSWGMxVG51ZW0tTEU0dEVIVzQ0YmxIZFE3ZzZZR0RiX25HcTNNTV9naElzalVNSldrRjdYUjI3N2VGVkxfUG9kZ2o3cFBjczk1ZXBmazYzNzE0?oc=5",
-      "source": "gallup.com",
+      "source": "Gallup.com",
       "track": "practice",
       "cat": "Analyst & Research",
-      "publisher": "gallup.com",
+      "publisher": "Gallup.com",
       "via": true,
       "pubDate": "2026-02-16T08:00:00.000Z",
-      "snippet": "World's Largest Ongoing Study of the Employee Experience gallup.com"
+      "snippet": "World's Largest Ongoing Study of the Employee Experience Gallup.com"
     },
     {
       "id": "i_5nlf7d",
@@ -9989,13 +9977,13 @@
       "id": "i_m855x9",
       "title": "Levellr secures $2.5m funding to scale community intelligence platform for game studios and brands",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa0tiTVZackp5Sk82V3dsUnZxU2F3U3d5VmZqaDlBdld2VTFLRGtwbElzWWZKX3hnVm9NaE5ZS1ZXSEVBcGpiSndBcExjYWRSUV8xY1ZLQ2FIZkxHSFFhNm9jR2VZRVhoN0VacEgwczVsci1uZ2RzdzAzUHpJQjlrUUFRMERqMVhDb1ZpeW1EUXYxR3RvaktIUno3c1pZWXZCekpqU2MwM0pCV29RdklHbVhTaFh2NkxQTnZQc3RURlppeWs?oc=5",
-      "source": "pocketgamer.biz",
+      "source": "PocketGamer.biz",
       "track": "culture",
       "cat": "Gaming",
-      "publisher": "pocketgamer.biz",
+      "publisher": "PocketGamer.biz",
       "via": true,
       "pubDate": "2026-02-09T08:00:00.000Z",
-      "snippet": "Levellr secures $2.5m funding to scale community intelligence platform for game studios and brands pocketgamer.biz"
+      "snippet": "Levellr secures $2.5m funding to scale community intelligence platform for game studios and brands PocketGamer.biz"
     },
     {
       "id": "i_lxzs0f",
@@ -10193,13 +10181,13 @@
       "id": "i_trfb42",
       "title": "Faber Editions’ type-led cover design system is breathing new life into old books",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGhlRkxiMURpaXRzcTMyNHJLRWZfelE5bm9ydlBaUUUxMXZPbVpJMzF4U1FLZ1pJbDQ5OHUydWxRSjV5b2s0N0FpZndXX2k0S1JMRll4Zk1sNGdNclNhZnFLWW9JT3dtZ1NGaUJ2QWNWLVoyM1JXenY3aHBQWmRXRDRuazc1TVdRZnFfM29FNzZIMDdGTGtJNDR0aTM?oc=5",
-      "source": "It's Nice That",
+      "source": "itsnicethat.com",
       "track": "culture",
       "cat": "Books & Publishing",
-      "publisher": "It's Nice That",
+      "publisher": "itsnicethat.com",
       "via": true,
       "pubDate": "2026-01-12T08:00:00.000Z",
-      "snippet": "Faber Editions’ type-led cover design system is breathing new life into old books It's Nice That"
+      "snippet": "Faber Editions’ type-led cover design system is breathing new life into old books itsnicethat.com"
     },
     {
       "id": "i_2wkzap",
@@ -10248,18 +10236,6 @@
       "via": true,
       "pubDate": "2025-12-30T08:00:00.000Z",
       "snippet": "2025 Design Trends Year in Review: Craft, Conflict, and Cultural Weight PRINT Magazine"
-    },
-    {
-      "id": "i_3hz5lw",
-      "title": "Register Now for HOTEL & SHOP PLUS 2026 in Shanghai",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjVldDR4Mk5mOGtrZkQwaVNWazl0UnZwcHUxWFBWSUpWc3U3SnF1MDR2T1dHNHNoUnJ2RHo2YnNHZWd2SW95c0tFVjZ6cV9qdlY2aVRvcEJfNHYza1QtZ24tTXdCYVdCRTZFSXJtQU1fMUFFYzRNX3Z3SUxiRTExeWs4TjVuTjRVN2ljakRhOGJOMVUzemxfcg?oc=5",
-      "source": "Hospitality Net",
-      "track": "culture",
-      "cat": "Food & Hospitality",
-      "publisher": "Hospitality Net",
-      "via": true,
-      "pubDate": "2025-12-30T08:00:00.000Z",
-      "snippet": "Register Now for HOTEL & SHOP PLUS 2026 in Shanghai Hospitality Net"
     },
     {
       "id": "i_xkxgy8",
@@ -10313,13 +10289,13 @@
       "id": "i_8p4z3p",
       "title": "Prabhas Ignites Global Storytelling Revolution with The Script Craft International Short Film Festival",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb0Q3WDZyQjBhbTRGNWpXRS1VNHd4MkhYR3Y3SUx4eU5DbE9WNDBuTTZoeUkzREJjM1RaLWdNcDJUQUJIVzJtRGNzYlRxemMxOV9SQnBOMlBhT3FTOVd5N1RrYzJzNGwxNnRRdHdGUkpnSE90czNPZGpkRW16SkY0OFdURnkzSWtDUkVXWkc2NEx5NWtFSVJIbzVvMzI4dzEtaG9jNDRFYjJaMXlfRXdmTU9qRjR0b2dIU3dBTl9CZFg5TUJQRzJISUxxNkZCbk9mQnFZdkh2SGd5T2xKZTZIMGxNdU5PdnBpRHpkUzV5OXRCcDRxeG1mNw?oc=5",
-      "source": "telugutimes.net",
+      "source": "Telugu Times",
       "track": "culture",
       "cat": "Film & TV",
-      "publisher": "telugutimes.net",
+      "publisher": "Telugu Times",
       "via": true,
       "pubDate": "2025-12-20T08:00:00.000Z",
-      "snippet": "Prabhas Ignites Global Storytelling Revolution with The Script Craft International Short Film Festival telugutimes.net"
+      "snippet": "Prabhas Ignites Global Storytelling Revolution with The Script Craft International Short Film Festival Telugu Times"
     },
     {
       "id": "i_n991dx",
@@ -10337,13 +10313,13 @@
       "id": "i_z2flah",
       "title": "10 Best Fashion Collaborations That Defined 2025",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81dnNlbzJodzg4WXZ3ZXVLTkhsOG1MYm8tVUU5TENHSkxXM0paTjlaZWxkTHJXWERqMVY4bVpXQVh0aGZmei1pRWdWUVE2anBDMDdDMEFTRWdxX0xXZXZtbGxydF95NUk1dVZINWxQVDRRTUxYVzJr?oc=5",
-      "source": "Vogue Arabia",
+      "source": "voguearabia.com",
       "track": "culture",
       "cat": "Fashion & Retail",
-      "publisher": "Vogue Arabia",
+      "publisher": "voguearabia.com",
       "via": true,
       "pubDate": "2025-12-19T08:00:00.000Z",
-      "snippet": "10 Best Fashion Collaborations That Defined 2025 Vogue Arabia"
+      "snippet": "10 Best Fashion Collaborations That Defined 2025 voguearabia.com"
     },
     {
       "id": "i_yrw541",
@@ -10385,13 +10361,13 @@
       "id": "i_kkbv1o",
       "title": "Air India launches new brand campaign as part of its 2026 transformation drive",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeXo1RngtdDJybzNTZ0U4YUJveTY4bEVDLUhRdTB3NXhLNnNFd195eC1kSWVCeVhrdGpMMVZLZ09kNW9reXgzTDJMVFVuNXVIdWFjUkZWZE02ZUQ3T1pnemY2UW1jUEdIbFlKbDNZenRuWkxqS3ZpN3VlYTJqalV4cmMwb1loeEhsbzJQVTEwWms4TE5tZ2tld2M5V2h1UTJ3MXJDWjBFVGFzTjFPWGJ1MkM5MEU3WEp6QVFuVjF1djhza2N3eFl4QkhyT29sa2d2RkxpTWNDN2lXa0o1?oc=5",
-      "source": "Exchange4Media",
+      "source": "exchange4media.com",
       "track": "culture",
       "cat": "Advertising & Campaigns",
-      "publisher": "Exchange4Media",
+      "publisher": "exchange4media.com",
       "via": true,
       "pubDate": "2025-12-12T08:00:00.000Z",
-      "snippet": "Air India launches new brand campaign as part of its 2026 transformation drive Exchange4Media"
+      "snippet": "Air India launches new brand campaign as part of its 2026 transformation drive exchange4media.com"
     },
     {
       "id": "i_rxnvnl",
@@ -10409,13 +10385,13 @@
       "id": "i_qtvypg",
       "title": "Data-driven storytelling: How retail marketers can turn transactions into insights",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWIxaUw3ekUydWFKQTVCYnc2bm5aQUdfbFFXYXhCRGdCUXhwbFFCNEpHWXU1dlNGbjZxcDJjTVJjR3VCZVlCVTd6X2dTUzc0SjRYQjVXa2JQX3BFNmJVRHB4LUN4Y29hVVlHWG5mQ1VLMDJHTWVua2E5QVFaR0RvZlU0emNNOXcxUmZxM2UtV2R6VmdYUFJVcHQ0MXlPZExhZVRoTlVRa1ZVcGFTTmVmWHFlWFd4WGFr0gG4AUFVX3lxTE1pYjFpTDd6RTJ1YUpBNUJidzZublpBR19sUVdheEJEZ0JReHBsUUI0SkdZdTV2U0ZuNnFwMmNNUmNHdUJlWUJVN3pfZ1NTNzRKNFhCNVdrYlBfcEU2YlVEcHgtQ3hjb2FVWUdYbmZDVUswMkdNZW5rYTlBUVpHRG9mVTR6Y005dzFSZnEzZS1XZHpWZ1hQUlVwdDQxeU9kTGFlVGhOVVFrVlVwYVNOZWZYcWVYV3hYYWs?oc=5",
-      "source": "socialsamosa.com",
+      "source": "Social Samosa",
       "track": "culture",
       "cat": "Advertising & Campaigns",
-      "publisher": "socialsamosa.com",
+      "publisher": "Social Samosa",
       "via": true,
       "pubDate": "2025-12-09T08:00:00.000Z",
-      "snippet": "Data-driven storytelling: How retail marketers can turn transactions into insights socialsamosa.com"
+      "snippet": "Data-driven storytelling: How retail marketers can turn transactions into insights Social Samosa"
     },
     {
       "id": "i_a3gukp",
@@ -10469,13 +10445,13 @@
       "id": "i_i5bgig",
       "title": "How Semiotics helps leading AI services to build a positive image for themselves",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUDl0R2ZkeGJDTlBCOWkwX1ZTak9kMlNFcTBlMGxkbjNpXzFZcVFRdTJwODNkR3JuR1dpVzRITExfc1lBbzlMLXJwS1VSWm1RNHJoTTFqamwtTmlXMzJSaG5hTDRvVzVhUElBZ0NJOXk0ckxqekhYOEZUNVpMNEtUZVdTYWF5bFo3eXFYbmdmd1VXQ1hsZHBEckJlakFHcU1DMmhmNG9RVElwRUx2eWRsT1pwZHJVQy1qWk9YMG16MnA5SGNLaGhidERqTXNyLWZo0gHQAUFVX3lxTFBQOXRHZmR4YkNOUEI5aTBfVlNqT2QyU0VxMGUwbGRuM2lfMVlxUVF1MnA4M2RHcm5HV2lXNEhMTF9zWUFvOUwtcnBLVVJabVE0cmhNMWpqbC1OaVczMlJobmFMNG9XNWFQSUFnQ0k5eTRyTGp6SFg4RlQ1Wkw0S1RlV1NhYXlsWjd5cVhuZ2Z3VVdDWGxkcERyQmVqQUdxTUMyaGY0b1FUSXBFTHZ5ZGxPWnBkclVDLWpaT1gwbXoycDlIY0toaGJ0RGpNc3ItZmg?oc=5",
-      "source": "Buzzincontent",
+      "source": "buzzincontent.com",
       "track": "practice",
       "cat": "Culture & Critique",
-      "publisher": "Buzzincontent",
+      "publisher": "buzzincontent.com",
       "via": true,
       "pubDate": "2025-12-04T08:00:00.000Z",
-      "snippet": "How Semiotics helps leading AI services to build a positive image for themselves Buzzincontent"
+      "snippet": "How Semiotics helps leading AI services to build a positive image for themselves buzzincontent.com"
     },
     {
       "id": "i_byh6e3",
@@ -10577,13 +10553,13 @@
       "id": "i_6jw2fp",
       "title": "The 12 Biggest Social Media Trends Taking Over the Internet’s Viral Culture",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmZ2dGE2a0pBNGRaMDQ2bV9vT1hrSVplN1FyVDFaZTE3dE95TFBWUDBlMU9yZkRXOHZkYnV2RDROS19mbWZFVFNGSVBod2UwM0IxNW0xTk1PbkNPZ2pzd2dhaXd2UE5aYkl5ZzNPR1k1TnY4Um52U2JNV0pMOXMzakYzZVhONzJTYy1iTEFLZTNBb2FDX3lkc0lneDF6M1d1ZmJIaHZLZEp2UWdjTzVWNWt2MDZGTVY4ZmZrd0ZR?oc=5",
-      "source": "Tech Times",
+      "source": "techtimes.com",
       "track": "culture",
       "cat": "Tech & Internet Culture",
-      "publisher": "Tech Times",
+      "publisher": "techtimes.com",
       "via": true,
       "pubDate": "2025-11-20T08:00:00.000Z",
-      "snippet": "The 12 Biggest Social Media Trends Taking Over the Internet’s Viral Culture Tech Times"
+      "snippet": "The 12 Biggest Social Media Trends Taking Over the Internet’s Viral Culture techtimes.com"
     },
     {
       "id": "i_v7f835",
@@ -10613,13 +10589,13 @@
       "id": "i_p80ctr",
       "title": "How fantasy book covers are reflecting a changing genre",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXRhblhkVjF6RUZ4V2Y3Q05TaHpwU1BJRFhESlNadlYzeDlhN1d3YTk0R25hVmgxT0VGT0NWeEYzQ0tYYkxfQzRrQ0FIb1J2S0l2SDVOMjBSNDV2MExsbEFSdldoOGxlQnJSUXJhSFROaUlNUUMxbTZZZ19PSjBuUnU4WDVfdw?oc=5",
-      "source": "Creative Review",
+      "source": "creativereview.co.uk",
       "track": "culture",
       "cat": "Books & Publishing",
-      "publisher": "Creative Review",
+      "publisher": "creativereview.co.uk",
       "via": true,
       "pubDate": "2025-11-13T08:00:00.000Z",
-      "snippet": "How fantasy book covers are reflecting a changing genre Creative Review"
+      "snippet": "How fantasy book covers are reflecting a changing genre creativereview.co.uk"
     },
     {
       "id": "i_m8c0bb",
@@ -10745,13 +10721,13 @@
       "id": "i_j1nzr4",
       "title": "When fashion finds its voice through storytelling",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkVRaVo5eW9sZHVlWGhKUVM3TzNPMGhmTk5MdExaWW9tS0tvUGg5VFRLSnUzdDdRNUhGVEQ5dnpqLXVZbTF0SDhobUhjLTVIODkycTZ1MlN5YU9OMXIzUl9WU0hOT3NUV0NneG5iVmttSHZrQ0pHeVJuVU01cXpVZkQzM2lIWHZQU0VlOEN3UkRETVRnamQydmp3TkFHaGtidGpueGNZOVFfNUZfOWZiLdIBtgFBVV95cUxNeTRTOGN1QXNWSjM4TnEwd21QdlFfQkZmTW5ZNk1NYjZNd09YZkkyT1o1Wk5wVFJxRmt4UGE2OXFOS1JCenFTV2J4MEdfNWFVZUpjbm1Pek1qWWZQdl8wMVRkRXJzWXpCM2tIU28zWklkRzBkUG9VRlF3XzE3bUxvVnRycVlpZVc4SjE5dURPY3JZUWZObUEyb21SVWw1MVpSZDhxeEw1NklYMEdBY0MzaHpFWEZDUQ?oc=5",
-      "source": "Harper's Bazaar India",
+      "source": "harpersbazaar.in",
       "track": "culture",
       "cat": "Fashion & Retail",
-      "publisher": "Harper's Bazaar India",
+      "publisher": "harpersbazaar.in",
       "via": true,
       "pubDate": "2025-09-23T07:00:00.000Z",
-      "snippet": "When fashion finds its voice through storytelling Harper's Bazaar India"
+      "snippet": "When fashion finds its voice through storytelling harpersbazaar.in"
     },
     {
       "id": "i_virxsa",
@@ -10781,13 +10757,13 @@
       "id": "i_o7tk70",
       "title": "Red scare: Why Sydney Sweeney's red Emmys dress struck a nerve",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNG55SXZfN2pXak1SWTBDLUk3WklMVWJEX0IyVWxRMG5QdnlsNEZiY3gtd1ZPNU54aFJyOE1EbVdRSTFFSnM0UWdRS1FJZkVCSzZQRk0wX1JoUHJFR1FjRGdnMUVvcVpJaUZGd2NXRzNFYTVrVmtqVngtM1pzSHRpdWpDbG80OVBYbElmYg?oc=5",
-      "source": "businessinsider.com",
+      "source": "Business Insider",
       "track": "practice",
       "cat": "Culture & Critique",
-      "publisher": "businessinsider.com",
+      "publisher": "Business Insider",
       "via": true,
       "pubDate": "2025-09-19T07:00:00.000Z",
-      "snippet": "Red scare: Why Sydney Sweeney's red Emmys dress struck a nerve businessinsider.com"
+      "snippet": "Red scare: Why Sydney Sweeney's red Emmys dress struck a nerve Business Insider"
     },
     {
       "id": "i_8fd129",
@@ -10862,16 +10838,28 @@
       "snippet": "Magnum’s premium and culture-first strategy fuels growth Unilever Global"
     },
     {
+      "id": "i_1zk602",
+      "title": "Coworking with Priya Gill",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5peElxVXgwZThkOVVtUFpBemFaeTVDd2hsTThhd2xScGRXaEpRdl9mcDlMcnNEbDVYLXhESnd2ZzJNOG1oQ05JLUNwODR2cE1WeDhHeVpHcG5WZWxGT3BieVNjYTRTVkxpdWlIVzVfcEN1VHp0ekJIVjdMOUhKTU0?oc=5",
+      "source": "Marketing Brew",
+      "track": "practice",
+      "cat": "Culture & Critique",
+      "publisher": "Marketing Brew",
+      "via": true,
+      "pubDate": "2025-06-23T07:00:00.000Z",
+      "snippet": "Coworking with Priya Gill Marketing Brew"
+    },
+    {
       "id": "i_7ka3x7",
       "title": "Corporate Finance Explained | Financial Storytelling",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOE84WWxHNmRtRldub05HQlRmVEtUdWUwc3JjdG5LR1pMamt2cTYyQzlQRzlORWh3OFhPUER5LXJ6MEJteW43c2NYSHlpa3dSYTBDaWF4VDQyMnU3R2RvRHhwTFVFZTNaOEhPQzgzeC1MX2I0UkJncmlxUVVCOHNSQzdJenV2cTh0S3NZRzI2cUtQVkJOOE1nU0ZsVlRIck9oZHBQclVNZkJWZw?oc=5",
-      "source": "Corporate Finance Institute",
+      "source": "corporatefinanceinstitute.com",
       "track": "culture",
       "cat": "Advertising & Campaigns",
-      "publisher": "Corporate Finance Institute",
+      "publisher": "corporatefinanceinstitute.com",
       "via": true,
       "pubDate": "2025-06-17T07:00:00.000Z",
-      "snippet": "Corporate Finance Explained | Financial Storytelling Corporate Finance Institute"
+      "snippet": "Corporate Finance Explained | Financial Storytelling corporatefinanceinstitute.com"
     },
     {
       "id": "i_sc5b6f",
@@ -10932,6 +10920,18 @@
       "via": true,
       "pubDate": "2025-03-24T07:00:00.000Z",
       "snippet": "How JBL turned social memes and virtual communities into Gen Z brand love Ad Age"
+    },
+    {
+      "id": "i_d180b6",
+      "title": "Social media culture: Why cultural fluency is a must for brands",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QeUdmVGVfVEdwTXpweFpDMk1qckpVLUN2ckhKYUNBRVFmQ0RiMmdPTDBtOGZvVHlxNjlPRDI1eHBpVURaQWRuYUlVMDZIS2VfdWVlcGI2dGQtdHdoSHJRRE5GcWo2QdIBa0FVX3lxTFBYVFM2N2hCNkRBREduLWZ5WloyYjRvTkdsdG54YWNtM1VJRXZ3LWVqcVRlaVdkNHFBQTZieDU0VnVoYU5KX0dDSE5keHpEU2J3bUE3b1Y4ZWdTSU5HSUN0R21oWXpCOUJ5QVc4?oc=5",
+      "source": "Sprout Social",
+      "track": "culture",
+      "cat": "Tech & Internet Culture",
+      "publisher": "Sprout Social",
+      "via": true,
+      "pubDate": "2025-03-11T07:00:00.000Z",
+      "snippet": "Social media culture: Why cultural fluency is a must for brands Sprout Social"
     },
     {
       "id": "i_30dw8",
@@ -11021,13 +11021,13 @@
       "id": "i_l316ia",
       "title": "Support Your Talent Goals By Managing Your EVP And Employer Brand",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUEhHZ3ZUdHd4UXQ5XzFPMWlFbEo4RUZ4Umt2TTBpSlpRZlpNelk1UWNJcXQtREJHb0hVbGFkOTVyRWpwXzh3YTBrLTROSnhVai1Cem5IX3M1THNqLXN0ckViRjN0RjdBM09JQWFmdHVEZDA5c0NsQXJaZUg5a25ZYkwxYi1jNXl5MTc3WUlGcEJhWkNPRGdtOEszM1Q3ZG8?oc=5",
-      "source": "forrester.com",
+      "source": "Forrester",
       "track": "practice",
       "cat": "Employer Brand",
-      "publisher": "forrester.com",
+      "publisher": "Forrester",
       "via": true,
       "pubDate": "2024-10-11T07:00:00.000Z",
-      "snippet": "Support Your Talent Goals By Managing Your EVP And Employer Brand forrester.com"
+      "snippet": "Support Your Talent Goals By Managing Your EVP And Employer Brand Forrester"
     },
     {
       "id": "i_szebe",
@@ -11052,6 +11052,18 @@
       "via": true,
       "pubDate": "2024-09-23T07:00:00.000Z",
       "snippet": "Semiotics: The Study of Signs and Symbols in Human Communication ThoughtCo"
+    },
+    {
+      "id": "i_s5u3cb",
+      "title": "Ibis Launches New Global Brand Campaign, ‘Go get it’",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qb1pHakd2QWZIUmd3dW1yLUEyRkN3eXFsQnFmcHFnSGlZc2ZBbTVLS25BV3IwQlVqZEFSdWRtWHNza2dVekJVaHhVTnI4eWxyQm54OGxBbjEzN1VPajNKUDNCV1hLWnh0RXVKMFk4eUJwdG1INUFwWjI0UmU4Zw?oc=5",
+      "source": "Accor Group",
+      "track": "culture",
+      "cat": "Food & Hospitality",
+      "publisher": "Accor Group",
+      "via": true,
+      "pubDate": "2024-09-19T07:00:00.000Z",
+      "snippet": "Ibis Launches New Global Brand Campaign, ‘Go get it’ Accor Group"
     },
     {
       "id": "i_cb20rq",
@@ -11081,13 +11093,13 @@
       "id": "i_326pep",
       "title": "What is Gen Z?",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZVpjZ1pGVnAyQ19FeUZLV2ZfMUJFSXpid3pTZmtwb3dYUkFpRWNMOF9tdjl2T1R6QlcwNmJlNnQ4ZlV5TG9idG5vZHB4UXRtRjk1NFMwUUlvQkR5TFFvT1VreGJnMGdHcDRsNl9odmhHdTFxY1NpY3RLQW9FUFV1bUtB?oc=5",
-      "source": "McKinsey & Company",
+      "source": "mckinsey.com",
       "track": "practice",
       "cat": "Culture & Critique",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2024-08-28T07:00:00.000Z",
-      "snippet": "What is Gen Z? McKinsey & Company"
+      "snippet": "What is Gen Z? mckinsey.com"
     },
     {
       "id": "i_wazzyv",
@@ -11105,13 +11117,13 @@
       "id": "i_icxr63",
       "title": "Five bold moves to quickly transform your organization’s culture",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa2twb0c0ZEpMRlJudC12Y2NSVDgxVENmenJqeTZWcVRwLWJ1Z2txcmxIc0FXZnJxakZWR1pVMXZMejhQS1laVWtESkRMSENvNEZ0TDlUdXZ6cWJ1LS1WejhjWVJqMURoMnRNQjdVaEhFaXJrUFFxTVhXY3lSMDdZdEVnVDFzLUF1NzBDWW9WRXdqYjJRNldtR2VtZWYtaXJjRnM1aG5TRjdfbTNMclpvVHFwSXJHUFp1dHdPX202RExCUzV0YUhvNDR5ZmpWOWxQX1pjZjZnNjc4aXpkZVNsSXBBVm43TWM?oc=5",
-      "source": "McKinsey & Company",
+      "source": "mckinsey.com",
       "track": "practice",
       "cat": "Organisation Development",
-      "publisher": "McKinsey & Company",
+      "publisher": "mckinsey.com",
       "via": true,
       "pubDate": "2024-05-17T07:00:00.000Z",
-      "snippet": "Five bold moves to quickly transform your organization’s culture McKinsey & Company"
+      "snippet": "Five bold moves to quickly transform your organization’s culture mckinsey.com"
     },
     {
       "id": "i_ouo1mw",
@@ -11189,13 +11201,13 @@
       "id": "i_m4dwl0",
       "title": "KSPH Organizes a Workshop on “Organization Development Training Program for NGOs from Nuapada District, Odisha”",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ2ZVeE9nOHJaN1RVSHNZZXFpVnkySm1Ya3B4T2U5WWxRZkRwNVRzbjkxN1BjZzhTdHhhcU5DWlFYczBzX1ZmNzlseVNzWkVCS1pkWlBqUWRvMUlrLU1pM0FKdktiR1ZtcGxaN2tUQTFydVBDeTlYRUJyZ0ozUWdJV0xrZFJaRkxBVUxhbEdXNHNKMmtFQUpiMm85R3BNOVQzUEsxVHoxYUVVUThaY3FacWd2SmxPcDd5VGY1UTBTOWZEcWlwYnJPVXVrSlJ4TS1CUEE2TQ?oc=5",
-      "source": "news.kiit.ac.in",
+      "source": "KIIT",
       "track": "practice",
       "cat": "Organisation Development",
-      "publisher": "news.kiit.ac.in",
+      "publisher": "KIIT",
       "via": true,
       "pubDate": "2023-12-27T08:00:00.000Z",
-      "snippet": "KSPH Organizes a Workshop on “Organization Development Training Program for NGOs from Nuapada District, Odisha” news.kiit.ac.in"
+      "snippet": "KSPH Organizes a Workshop on “Organization Development Training Program for NGOs from Nuapada District, Odisha” KIIT"
     },
     {
       "id": "i_yr77ng",
@@ -11270,18 +11282,6 @@
       "snippet": "So What If We Don’t Speak the Same Language As Our Parents? JoySauce"
     },
     {
-      "id": "i_8k7yuw",
-      "title": "10 Internet Culture Moments That Brands Didn’t Ruin in 2022",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTNQX3VQRkFNd0lreW5XYXRwdU1sZjdsV09RYWtWRld4Ql8xajFFWlFYZ2ZMTy1VZWNDN293azRWcmRnbWFfbHRKS2ZHRnFTX0lGXzhrSWNMblctUHQ1ZWpUWTVDNlp3bmtZUk1fRVEyWk9Bd1dZaW9QRXJpSnFZbVNnaTA1Z1pLX0h5clJ6MTM2eTlEUjRobnlFd0Y2cWs?oc=5",
-      "source": "ADWEEK",
-      "track": "culture",
-      "cat": "Tech & Internet Culture",
-      "publisher": "ADWEEK",
-      "via": true,
-      "pubDate": "2022-12-29T08:00:00.000Z",
-      "snippet": "10 Internet Culture Moments That Brands Didn’t Ruin in 2022 ADWEEK"
-    },
-    {
       "id": "i_4zvtvx",
       "title": "Brands are the new bands: music, logos and semiotics for marketers",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTC1KOUtMdkpaNFpfYU5yMy1mRl9jTHpNNHBwcDdhVlh6ZEVNLWxrOG9wem5XQmthUkh6dzFuTW5SMjl3aFZCMXFzbEpCcjZkZGVNbFV5UXZSYjRFSFhUT1F6dUV3OVNOYmpBdUh2VWwzR1d6X25JYkhQS1p2N1ozemZrMzF2am9sX0lzOFk3YXF3Q3ctRUVr?oc=5",
@@ -11309,25 +11309,25 @@
       "id": "i_ul632d",
       "title": "Five designers and studios creating beautiful book covers",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2dPUmxHS3hsY0JYRXBya0ZvcVRGbjQwQk9BdWFsd093cTNwNktTdF91Tjlra1BGYUQ4eTExV0YySk1zMGh4VmZPTkc1RHVpZjhmSVBxWWNTWlVYcW40LVdDX19GMHFjd0xyT09wenYzeWl3Yjh4Q28wRUNRdEcxRg?oc=5",
-      "source": "It's Nice That",
+      "source": "itsnicethat.com",
       "track": "culture",
       "cat": "Books & Publishing",
-      "publisher": "It's Nice That",
+      "publisher": "itsnicethat.com",
       "via": true,
       "pubDate": "2022-08-17T07:00:00.000Z",
-      "snippet": "Five designers and studios creating beautiful book covers It's Nice That"
+      "snippet": "Five designers and studios creating beautiful book covers itsnicethat.com"
     },
     {
       "id": "i_q79a0z",
       "title": "Bringing the hotel experience to the office - five ideas for the new workplace",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYk1Ic2dETVMxc0t3b0VDREphWTJ6d0ZUMTc4NVl3czdLamVobTZKU2YyQ0J2TGtMRkJuZjlFaTlrMEtabERLdUlNQXAxQk9vZDZPQXp0bllzMmljS3k0WHhOSGF6Z0hzVGFRRUI0UGNMN05VSk9XTnRUcFd1YzdsZWg3SWRfcHhuejNsV3h3aENRbFZPZVViRmtZMHJfNThSMzkxNEVGTEExZElsdTZKclhpMldoZUlRcXdV?oc=5",
-      "source": "benoy.com",
+      "source": "Benoy",
       "track": "culture",
       "cat": "Food & Hospitality",
-      "publisher": "benoy.com",
+      "publisher": "Benoy",
       "via": true,
       "pubDate": "2022-06-21T17:13:02.000Z",
-      "snippet": "Bringing the hotel experience to the office - five ideas for the new workplace benoy.com"
+      "snippet": "Bringing the hotel experience to the office - five ideas for the new workplace Benoy"
     },
     {
       "id": "i_2hlnio",
@@ -11393,13 +11393,13 @@
       "id": "i_y09ykp",
       "title": "Employers Need To Give EVP a Long Overdue Makeover",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVl9RWWVmLU5rdlEwdkhITHRRS01BcHlrbzktcHA2cmI0M2xrbWUxRHRDMVhzVVVYam5SZkdiMUdlSGppUV9MNEJHdGZ4Y2JGX3B3c2NhWXExNVlwWHNBRlVuMm1CZklaalFRaTA2NmZEd3FXWlRxbGJJalcyTTdOREZ1Z3F1XzlDMWlZ?oc=5",
-      "source": "CDOTrends",
+      "source": "cdotrends.com",
       "track": "practice",
       "cat": "Employer Brand",
-      "publisher": "CDOTrends",
+      "publisher": "cdotrends.com",
       "via": true,
       "pubDate": "2021-06-08T07:00:00.000Z",
-      "snippet": "Employers Need To Give EVP a Long Overdue Makeover CDOTrends"
+      "snippet": "Employers Need To Give EVP a Long Overdue Makeover cdotrends.com"
     },
     {
       "id": "i_wavexw",
@@ -11464,12 +11464,6 @@
       "count": 3
     },
     {
-      "name": "Hospitality Net",
-      "track": "culture",
-      "cat": "Food & Hospitality",
-      "count": 3
-    },
-    {
       "name": "Built In",
       "track": "practice",
       "cat": "Employer Brand",
@@ -11512,6 +11506,12 @@
       "count": 2
     },
     {
+      "name": "itsnicethat.com",
+      "track": "culture",
+      "cat": "Design & Identity",
+      "count": 2
+    },
+    {
       "name": "sectsco.org",
       "track": "practice",
       "cat": "Organisation Development",
@@ -11533,6 +11533,18 @@
       "name": "HR Executive",
       "track": "practice",
       "cat": "Employer Brand",
+      "count": 2
+    },
+    {
+      "name": "creativereview.co.uk",
+      "track": "culture",
+      "cat": "Books & Publishing",
+      "count": 2
+    },
+    {
+      "name": "Hospitality Net",
+      "track": "culture",
+      "cat": "Food & Hospitality",
       "count": 2
     },
     {
@@ -11566,6 +11578,12 @@
       "count": 2
     },
     {
+      "name": "itsnicethat.com",
+      "track": "culture",
+      "cat": "Books & Publishing",
+      "count": 2
+    },
+    {
       "name": "The Business of Fashion",
       "track": "practice",
       "cat": "Culture & Critique",
@@ -11584,7 +11602,7 @@
       "count": 1
     },
     {
-      "name": "people.com",
+      "name": "People.com",
       "track": "culture",
       "cat": "Fashion & Retail",
       "count": 1
@@ -11608,27 +11626,9 @@
       "count": 1
     },
     {
-      "name": "stupidDOPE",
+      "name": "stupiddope.com",
       "track": "culture",
       "cat": "Sport",
-      "count": 1
-    },
-    {
-      "name": "techgenyz.com",
-      "track": "culture",
-      "cat": "Design & Identity",
-      "count": 1
-    },
-    {
-      "name": "MediaNews4U",
-      "track": "culture",
-      "cat": "Advertising & Campaigns",
-      "count": 1
-    },
-    {
-      "name": "retail-insider.com",
-      "track": "culture",
-      "cat": "Fashion & Retail",
       "count": 1
     }
   ],
